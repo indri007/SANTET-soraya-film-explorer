@@ -1,0 +1,12 @@
+{
+  "sumber_label_emas": "belum ada (annotator_1 terisi 0 baris; butuh >=30)",
+  "kappa_llm_qwen3_8b_vs_llm_gemma2_9b": {
+    "kappa": 0.536,
+    "n": 300,
+    "tafsiran": "sedang"
+  },
+  "kesepakatan_llm_vs_indobert": {
+    "llm_qwen3_8b": 0.53,
+    "llm_gemma2_9b": 0.52
+  }
+}

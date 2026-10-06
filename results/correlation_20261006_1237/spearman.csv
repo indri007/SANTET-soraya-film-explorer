@@ -1,0 +1,13 @@
+metrik,n,rho,p_exact
+views_total,15,0.286,0.298
+likes_total,15,0.571,0.026
+comments,14,0.352,0.217
+unique_commenters,14,0.31,0.284
+pos_indobert,14,0.121,0.684
+net_indobert,14,0.09,0.765
+pos_gabungan,14,0.081,0.786
+net_gabungan,14,0.059,0.842
+pos_leksikon_emoji,14,0.077,0.794
+net_leksikon_emoji,14,0.051,0.867
+pos_emoji,14,-0.218,0.452
+net_emoji,14,-0.253,0.379

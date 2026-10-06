@@ -1,0 +1,56 @@
+film_a,film_b,shared_commenters,jaccard
+Suzzanna: Malam Jumat Kliwon (2023),Suzzanna: Santet Dosa di Atas Dosa (2026),50,0.0212
+Indigo: What Do You See? (2023),Suzzanna: Malam Jumat Kliwon (2023),30,0.0149
+Suzzanna: Bernapas dalam Kubur (2018),Suzzanna: Malam Jumat Kliwon (2023),18,0.0098
+IVANNA (2022),Suzzanna: Malam Jumat Kliwon (2023),17,0.0091
+Indigo: What Do You See? (2023),Suzzanna: Santet Dosa di Atas Dosa (2026),13,0.0082
+Santet Segoro Pitu (2024),Suzzanna: Malam Jumat Kliwon (2023),12,0.0067
+Suzzanna: Malam Jumat Kliwon (2023),The Doll 3 (2022),12,0.0062
+Suzzanna: Santet Dosa di Atas Dosa (2026),The Doll 3 (2022),11,0.0073
+Santet Segoro Pitu (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),10,0.0074
+Indigo: What Do You See? (2023),The Doll 3 (2022),10,0.0088
+Suzzanna: Bernapas dalam Kubur (2018),Suzzanna: Santet Dosa di Atas Dosa (2026),10,0.0071
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),9,0.0079
+Indigo: What Do You See? (2023),Santet Segoro Pitu (2024),7,0.0072
+IVANNA (2022),The Doll 3 (2022),6,0.006
+Suzzanna: Bernapas dalam Kubur (2018),The Doll 3 (2022),6,0.0062
+Mata Batin (2017),The Doll 3 (2022),6,0.0098
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Santet Segoro Pitu (2024),6,0.0113
+IVANNA (2022),Suzzanna: Santet Dosa di Atas Dosa (2026),6,0.0041
+IVANNA (2022),Indigo: What Do You See? (2023),6,0.0056
+Santet Segoro Pitu (2024),The Doll 3 (2022),5,0.0056
+Indigo: What Do You See? (2023),Mata Batin (2017),5,0.0072
+IVANNA (2022),Suzzanna: Bernapas dalam Kubur (2018),5,0.0055
+Catatan Harian Menantu Sinting (2024),Suzzanna: Malam Jumat Kliwon (2023),5,0.003
+Catatan Harian Menantu Sinting (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),5,0.0041
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Suzzanna: Malam Jumat Kliwon (2023),4,0.0025
+Catatan Harian Menantu Sinting (2024),Indigo: What Do You See? (2023),4,0.0047
+Catatan Harian Menantu Sinting (2024),IVANNA (2022),4,0.0057
+Indigo: What Do You See? (2023),Suzzanna: Bernapas dalam Kubur (2018),4,0.0038
+Indigo: What Do You See? (2023),Racun Sangga: Santet Pemisah Rumah Tangga (2024),4,0.0051
+IVANNA (2022),Racun Sangga: Santet Pemisah Rumah Tangga (2024),4,0.0063
+IVANNA (2022),Santet Segoro Pitu (2024),4,0.0048
+Catatan Harian Menantu Sinting (2024),The Doll 3 (2022),2,0.0026
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),The Doll 3 (2022),2,0.0029
+Santet Segoro Pitu (2024),Suzzanna: Bernapas dalam Kubur (2018),2,0.0025
+Mata Batin (2017),Suzzanna: Bernapas dalam Kubur (2018),2,0.0039
+Mata Batin (2017),Racun Sangga: Santet Pemisah Rumah Tangga (2024),1,0.004
+Catatan Harian Menantu Sinting (2024),Suzzanna: Bernapas dalam Kubur (2018),1,0.0015
+Catatan Harian Menantu Sinting (2024),Mata Batin (2017),1,0.0032
+Catatan Harian Menantu Sinting (2024),Racun Sangga: Santet Pemisah Rumah Tangga (2024),1,0.0025
+Mata Batin (2017),Suzzanna: Santet Dosa di Atas Dosa (2026),1,0.0009
+Mata Batin (2017),Suzzanna: Malam Jumat Kliwon (2023),1,0.0007
+Catatan Harian Menantu Sinting (2024),Santet Segoro Pitu (2024),1,0.0017
+Mata Batin (2017),Santet Segoro Pitu (2024),1,0.0022
+IVANNA (2022),Mata Batin (2017),1,0.0018
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Siccin 8,1,0.0053
+Siccin 8,Suzzanna: Bernapas dalam Kubur (2018),1,0.0022
+Siccin 8,Suzzanna: Santet Dosa di Atas Dosa (2026),1,0.001
+Catatan Harian Menantu Sinting (2024),Siccin 8,0,0.0
+Indigo: What Do You See? (2023),Siccin 8,0,0.0
+Siccin 8,The Doll 3 (2022),0,0.0
+Siccin 8,Suzzanna: Malam Jumat Kliwon (2023),0,0.0
+Santet Segoro Pitu (2024),Siccin 8,0,0.0
+IVANNA (2022),Siccin 8,0,0.0
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Suzzanna: Bernapas dalam Kubur (2018),0,0.0
+Mata Batin (2017),Siccin 8,0,0.0

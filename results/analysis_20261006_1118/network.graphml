@@ -1,0 +1,1063 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="distance" attr.type="double"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d6" for="node" attr.name="betweenness" attr.type="double"/>
+<key id="d5" for="node" attr.name="degree" attr.type="long"/>
+<key id="d4" for="node" attr.name="community" attr.type="long"/>
+<key id="d3" for="node" attr.name="views" attr.type="long"/>
+<key id="d2" for="node" attr.name="set" attr.type="string"/>
+<key id="d1" for="node" attr.name="film" attr.type="string"/>
+<key id="d0" for="node" attr.name="title" attr.type="string"/>
+<graph edgedefault="undirected"><node id="1Gsp0AuOwOg">
+  <data key="d0">Official Trailer Indigo - Di Bioskop 19 Oktober 2023</data>
+  <data key="d1">Indigo: What Do You See? (2023)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">2500712</data>
+  <data key="d4">1</data>
+  <data key="d5">21</data>
+  <data key="d6">0.2001</data>
+</node>
+<node id="1Wz4r3758CY">
+  <data key="d0">Official Trailer Santet Segoro Pitu - di Bioskop Mulai 7 November 2024</data>
+  <data key="d1">Santet Segoro Pitu (2024)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">866626</data>
+  <data key="d4">2</data>
+  <data key="d5">23</data>
+  <data key="d6">0.227</data>
+</node>
+<node id="9cJoL-j10Rc">
+  <data key="d0">Trailer Indigo 1 Menit - Amanda Manopo, Aliando dan Sara Wijayanto di Bioskop 19</data>
+  <data key="d1">Indigo: What Do You See? (2023)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">158513</data>
+  <data key="d4">1</data>
+  <data key="d5">5</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="JekV-VTEyLI">
+  <data key="d0">Trailer 30 Sec Santet Segoro Pitu</data>
+  <data key="d1">Santet Segoro Pitu (2024)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">19557</data>
+  <data key="d4">2</data>
+  <data key="d5">1</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="S6XunixW6_Y">
+  <data key="d0">SABRINA Official Trailer (2018) - Luna Maya, Christian Sugiono, Sara Wijayanto</data>
+  <data key="d1">Sabrina (2018)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">809423</data>
+  <data key="d4">5</data>
+  <data key="d5">0</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="d173ahbvzUA">
+  <data key="d0">MATA BATIN Official Trailer (2017) - Jessica Mila, Denny Sumargo, Citra Prima</data>
+  <data key="d1">Mata Batin (2017)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">542865</data>
+  <data key="d4">1</data>
+  <data key="d5">12</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="jWcuZDN59Gw">
+  <data key="d0">Official Teaser Trailer The Doll 3 | Sudahkah kalian merasakan tanda kehadiranny</data>
+  <data key="d1">The Doll 3 (2022)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">667392</data>
+  <data key="d4">1</data>
+  <data key="d5">19</data>
+  <data key="d6">0.0093</data>
+</node>
+<node id="l3RiBklg6ss">
+  <data key="d0">The Doll 3 Official Trailer | Tayang 26 Mei 2022 di Bioskop</data>
+  <data key="d1">The Doll 3 (2022)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">6012269</data>
+  <data key="d4">1</data>
+  <data key="d5">18</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="mBxFc3uPKCg">
+  <data key="d0">Teaser Trailer Indigo - Segera di Bioskop</data>
+  <data key="d1">Indigo: What Do You See? (2023)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">488150</data>
+  <data key="d4">1</data>
+  <data key="d5">22</data>
+  <data key="d6">0.0064</data>
+</node>
+<node id="wPNX2K0XUzg">
+  <data key="d0">Trailer 1 Menit Santet Segoro Pitu - di Bioskop 7 November 2024</data>
+  <data key="d1">Santet Segoro Pitu (2024)</data>
+  <data key="d2">hitmaker</data>
+  <data key="d3">2887406</data>
+  <data key="d4">2</data>
+  <data key="d5">5</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="O29hLG_37qI">
+  <data key="d0">Ivanna - Official Trailer | SEDANG TAYANG DI BIOSKOP</data>
+  <data key="d1">IVANNA (2022)</data>
+  <data key="d2">ivanna</data>
+  <data key="d3">3814786</data>
+  <data key="d4">1</data>
+  <data key="d5">20</data>
+  <data key="d6">0.0862</data>
+</node>
+<node id="16A1f7cAoOQ">
+  <data key="d0">OFFICIAL EXTENDED TRAILER RACUN SANGGA : “SANTET PEMISAH RUMAH TANGGA”</data>
+  <data key="d1">Racun Sangga: Santet Pemisah Rumah Tangga (2024)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">966131</data>
+  <data key="d4">2</data>
+  <data key="d5">11</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="4m5yC1BPNpw">
+  <data key="d0">Official Trailer SUZZANNA (2018) - Luna Maya, Herjunot Ali</data>
+  <data key="d1">Suzzanna: Bernapas dalam Kubur (2018)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">9647484</data>
+  <data key="d4">3</data>
+  <data key="d5">17</data>
+  <data key="d6">0.0142</data>
+</node>
+<node id="7HpkNw-eYh0">
+  <data key="d0">Theatrical Trailer - Suzzanna Malam Jumat Kliwon | Luna Maya dan Megantara,di Bi</data>
+  <data key="d1">Suzzanna: Malam Jumat Kliwon (2023)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">274294</data>
+  <data key="d4">3</data>
+  <data key="d5">17</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="BMIQqHLTyzY">
+  <data key="d0">Official Trailer Catatan Harian Menantu Sinting | Siap Sinting Bareng Minar &amp; Sa</data>
+  <data key="d1">Catatan Harian Menantu Sinting (2024)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">1793804</data>
+  <data key="d4">1</data>
+  <data key="d5">11</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="D5i5XHUArr4">
+  <data key="d0">OFFICIAL TRAILER 2 SUZZANNA: SANTET DOSA DI ATAS DOSA</data>
+  <data key="d1">Suzzanna: Santet Dosa di Atas Dosa (2026)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">2012784</data>
+  <data key="d4">4</data>
+  <data key="d5">18</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="IKm7yQLorPo">
+  <data key="d0">Official Teaser Trailer “Racun Sangga : Santet Pemisah Rumah Tangga” | Hanya di </data>
+  <data key="d1">Racun Sangga: Santet Pemisah Rumah Tangga (2024)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">1105332</data>
+  <data key="d4">1</data>
+  <data key="d5">11</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="LWdoRl6Lt-g">
+  <data key="d0">Official Theatrical Trailer “Racun Sangga : Santet Pemisah Rumah Tangga” | Hanya</data>
+  <data key="d1">Racun Sangga: Santet Pemisah Rumah Tangga (2024)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">2750970</data>
+  <data key="d4">2</data>
+  <data key="d5">12</data>
+  <data key="d6">0.0166</data>
+</node>
+<node id="NnryGVjzuso">
+  <data key="d0">OFFICIAL TEASER TRAILER 1 SUZZANNA : SANTET DOSA DI ATAS DOSA | HANYA DI BIOSKOP</data>
+  <data key="d1">Suzzanna: Santet Dosa di Atas Dosa (2026)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">141862</data>
+  <data key="d4">4</data>
+  <data key="d5">23</data>
+  <data key="d6">0.0741</data>
+</node>
+<node id="W3OiJi8UyUk">
+  <data key="d0">Official Trailer Extended and Uncut - Suzzanna Malam Jumat Kliwon | Nantikan di </data>
+  <data key="d1">Suzzanna: Malam Jumat Kliwon (2023)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">1990269</data>
+  <data key="d4">3</data>
+  <data key="d5">17</data>
+  <data key="d6">0.0513</data>
+</node>
+<node id="WPljV8uKnYk">
+  <data key="d0">Official Trailer SICCIN 8 | Tayang 11 SEPTEMBER di Bioskop</data>
+  <data key="d1">Siccin 8</data>
+  <data key="d2">soraya</data>
+  <data key="d3">465453</data>
+  <data key="d4">4</data>
+  <data key="d5">5</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="_vHlSlQ5QOY">
+  <data key="d0">Exclusive Pre Release Trailer - Suzzanna Malam Jumat Kliwon</data>
+  <data key="d1">Suzzanna: Malam Jumat Kliwon (2023)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">751489</data>
+  <data key="d4">3</data>
+  <data key="d5">19</data>
+  <data key="d6">0.037</data>
+</node>
+<node id="arzxhCdn4PM">
+  <data key="d0">Official Teaser Trailer - Suzzanna Malam Jumat Kliwon | Tayang Di Bioskop 2023</data>
+  <data key="d1">Suzzanna: Malam Jumat Kliwon (2023)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">1853515</data>
+  <data key="d4">3</data>
+  <data key="d5">18</data>
+  <data key="d6">0.3504</data>
+</node>
+<node id="cF7Z1RLKlu0">
+  <data key="d0">OFFICIAL TEASER TRAILER 2 SUZZANNA: SANTET DOSA DI ATAS DOSA</data>
+  <data key="d1">Suzzanna: Santet Dosa di Atas Dosa (2026)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">152205</data>
+  <data key="d4">4</data>
+  <data key="d5">20</data>
+  <data key="d6">0.0408</data>
+</node>
+<node id="gc81ZkY-Kg8">
+  <data key="d0">Official Teaser Trailer Catatan Harian Menantu Sinting | Hanya di Bioskop 18.7.2</data>
+  <data key="d1">Catatan Harian Menantu Sinting (2024)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">93769</data>
+  <data key="d4">1</data>
+  <data key="d5">8</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="ky6MO1r3UVg">
+  <data key="d0">Official Trailer Catatan Harian Menantu Sinting | Hanya di Bioskop 18.7.24</data>
+  <data key="d1">Catatan Harian Menantu Sinting (2024)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">264083</data>
+  <data key="d4">1</data>
+  <data key="d5">17</data>
+  <data key="d6">0.0</data>
+</node>
+<node id="u16-sKOCTUo">
+  <data key="d0">OFFICIAL TRAILER SUZZANNA: SANTET DOSA DI ATAS DOSA - LEBARAN 2026</data>
+  <data key="d1">Suzzanna: Santet Dosa di Atas Dosa (2026)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">880823</data>
+  <data key="d4">4</data>
+  <data key="d5">16</data>
+  <data key="d6">0.0285</data>
+</node>
+<node id="xSMw6AWHHKY">
+  <data key="d0">Pre-Release Trailer Film “Racun Sangga : Santet Pemisah Rumah Tangga</data>
+  <data key="d1">Racun Sangga: Santet Pemisah Rumah Tangga (2024)</data>
+  <data key="d2">soraya</data>
+  <data key="d3">537009</data>
+  <data key="d4">2</data>
+  <data key="d5">14</data>
+  <data key="d6">0.0028</data>
+</node>
+<edge source="1Gsp0AuOwOg" target="mBxFc3uPKCg">
+  <data key="d7">18</data>
+  <data key="d8">0.05555555555555555</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="jWcuZDN59Gw">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="4m5yC1BPNpw">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="_vHlSlQ5QOY">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="9cJoL-j10Rc">
+  <data key="d7">10</data>
+  <data key="d8">0.1</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="l3RiBklg6ss">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="arzxhCdn4PM">
+  <data key="d7">7</data>
+  <data key="d8">0.14285714285714285</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="7HpkNw-eYh0">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="NnryGVjzuso">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="W3OiJi8UyUk">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="1Wz4r3758CY">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="d173ahbvzUA">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="O29hLG_37qI">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="ky6MO1r3UVg">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="gc81ZkY-Kg8">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="u16-sKOCTUo">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="BMIQqHLTyzY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="cF7Z1RLKlu0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="D5i5XHUArr4">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="IKm7yQLorPo">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="1Gsp0AuOwOg" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Wz4r3758CY" target="W3OiJi8UyUk">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="1Wz4r3758CY" target="_vHlSlQ5QOY">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="1Wz4r3758CY" target="arzxhCdn4PM">
+  <data key="d7">7</data>
+  <data key="d8">0.14285714285714285</data>
+</edge>
+<edge source="1Wz4r3758CY" target="7HpkNw-eYh0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Wz4r3758CY" target="LWdoRl6Lt-g">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="1Wz4r3758CY" target="u16-sKOCTUo">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="1Wz4r3758CY" target="wPNX2K0XUzg">
+  <data key="d7">7</data>
+  <data key="d8">0.14285714285714285</data>
+</edge>
+<edge source="1Wz4r3758CY" target="O29hLG_37qI">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="1Wz4r3758CY" target="cF7Z1RLKlu0">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="1Wz4r3758CY" target="xSMw6AWHHKY">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="1Wz4r3758CY" target="16A1f7cAoOQ">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="1Wz4r3758CY" target="NnryGVjzuso">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="1Wz4r3758CY" target="l3RiBklg6ss">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="1Wz4r3758CY" target="9cJoL-j10Rc">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Wz4r3758CY" target="D5i5XHUArr4">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="1Wz4r3758CY" target="mBxFc3uPKCg">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="1Wz4r3758CY" target="IKm7yQLorPo">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Wz4r3758CY" target="BMIQqHLTyzY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Wz4r3758CY" target="JekV-VTEyLI">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Wz4r3758CY" target="d173ahbvzUA">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Wz4r3758CY" target="jWcuZDN59Gw">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="1Wz4r3758CY" target="4m5yC1BPNpw">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="9cJoL-j10Rc" target="mBxFc3uPKCg">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="9cJoL-j10Rc" target="D5i5XHUArr4">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="9cJoL-j10Rc" target="cF7Z1RLKlu0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="d173ahbvzUA" target="jWcuZDN59Gw">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="d173ahbvzUA" target="4m5yC1BPNpw">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="d173ahbvzUA" target="O29hLG_37qI">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="d173ahbvzUA" target="l3RiBklg6ss">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="d173ahbvzUA" target="arzxhCdn4PM">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="d173ahbvzUA" target="mBxFc3uPKCg">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="d173ahbvzUA" target="IKm7yQLorPo">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="d173ahbvzUA" target="NnryGVjzuso">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="d173ahbvzUA" target="ky6MO1r3UVg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="d173ahbvzUA" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="7HpkNw-eYh0">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="D5i5XHUArr4">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="NnryGVjzuso">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="W3OiJi8UyUk">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="_vHlSlQ5QOY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="arzxhCdn4PM">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="IKm7yQLorPo">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="O29hLG_37qI">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="l3RiBklg6ss">
+  <data key="d7">6</data>
+  <data key="d8">0.16666666666666666</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="mBxFc3uPKCg">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="u16-sKOCTUo">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="BMIQqHLTyzY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="cF7Z1RLKlu0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="ky6MO1r3UVg">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="4m5yC1BPNpw">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="jWcuZDN59Gw" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="l3RiBklg6ss" target="O29hLG_37qI">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="l3RiBklg6ss" target="mBxFc3uPKCg">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="l3RiBklg6ss" target="4m5yC1BPNpw">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="l3RiBklg6ss" target="NnryGVjzuso">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="l3RiBklg6ss" target="wPNX2K0XUzg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="l3RiBklg6ss" target="D5i5XHUArr4">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="l3RiBklg6ss" target="W3OiJi8UyUk">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="l3RiBklg6ss" target="arzxhCdn4PM">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="l3RiBklg6ss" target="u16-sKOCTUo">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="l3RiBklg6ss" target="cF7Z1RLKlu0">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="l3RiBklg6ss" target="BMIQqHLTyzY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="l3RiBklg6ss" target="ky6MO1r3UVg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="l3RiBklg6ss" target="_vHlSlQ5QOY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="l3RiBklg6ss" target="7HpkNw-eYh0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="arzxhCdn4PM">
+  <data key="d7">6</data>
+  <data key="d8">0.16666666666666666</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="_vHlSlQ5QOY">
+  <data key="d7">7</data>
+  <data key="d8">0.14285714285714285</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="O29hLG_37qI">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="D5i5XHUArr4">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="7HpkNw-eYh0">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="gc81ZkY-Kg8">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="16A1f7cAoOQ">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="NnryGVjzuso">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="W3OiJi8UyUk">
+  <data key="d7">3</data>
+  <data key="d8">0.3333333333333333</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="cF7Z1RLKlu0">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="BMIQqHLTyzY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="ky6MO1r3UVg">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="IKm7yQLorPo">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="4m5yC1BPNpw">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="LWdoRl6Lt-g">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="mBxFc3uPKCg" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="wPNX2K0XUzg" target="16A1f7cAoOQ">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="wPNX2K0XUzg" target="LWdoRl6Lt-g">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="wPNX2K0XUzg" target="NnryGVjzuso">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="O29hLG_37qI" target="7HpkNw-eYh0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="O29hLG_37qI" target="IKm7yQLorPo">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="O29hLG_37qI" target="W3OiJi8UyUk">
+  <data key="d7">7</data>
+  <data key="d8">0.14285714285714285</data>
+</edge>
+<edge source="O29hLG_37qI" target="arzxhCdn4PM">
+  <data key="d7">9</data>
+  <data key="d8">0.1111111111111111</data>
+</edge>
+<edge source="O29hLG_37qI" target="4m5yC1BPNpw">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="O29hLG_37qI" target="NnryGVjzuso">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="O29hLG_37qI" target="cF7Z1RLKlu0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="O29hLG_37qI" target="BMIQqHLTyzY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="O29hLG_37qI" target="gc81ZkY-Kg8">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="O29hLG_37qI" target="LWdoRl6Lt-g">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="O29hLG_37qI" target="u16-sKOCTUo">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="O29hLG_37qI" target="_vHlSlQ5QOY">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="O29hLG_37qI" target="ky6MO1r3UVg">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="O29hLG_37qI" target="16A1f7cAoOQ">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="16A1f7cAoOQ" target="cF7Z1RLKlu0">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="16A1f7cAoOQ" target="LWdoRl6Lt-g">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="16A1f7cAoOQ" target="7HpkNw-eYh0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="16A1f7cAoOQ" target="NnryGVjzuso">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="16A1f7cAoOQ" target="W3OiJi8UyUk">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="16A1f7cAoOQ" target="_vHlSlQ5QOY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="16A1f7cAoOQ" target="arzxhCdn4PM">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="_vHlSlQ5QOY">
+  <data key="d7">6</data>
+  <data key="d8">0.16666666666666666</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="WPljV8uKnYk">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="W3OiJi8UyUk">
+  <data key="d7">10</data>
+  <data key="d8">0.1</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="NnryGVjzuso">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="cF7Z1RLKlu0">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="7HpkNw-eYh0">
+  <data key="d7">7</data>
+  <data key="d8">0.14285714285714285</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="arzxhCdn4PM">
+  <data key="d7">6</data>
+  <data key="d8">0.16666666666666666</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="D5i5XHUArr4">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="u16-sKOCTUo">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="4m5yC1BPNpw" target="ky6MO1r3UVg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="7HpkNw-eYh0" target="cF7Z1RLKlu0">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="7HpkNw-eYh0" target="D5i5XHUArr4">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="7HpkNw-eYh0" target="NnryGVjzuso">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="7HpkNw-eYh0" target="W3OiJi8UyUk">
+  <data key="d7">11</data>
+  <data key="d8">0.09090909090909091</data>
+</edge>
+<edge source="7HpkNw-eYh0" target="_vHlSlQ5QOY">
+  <data key="d7">16</data>
+  <data key="d8">0.0625</data>
+</edge>
+<edge source="7HpkNw-eYh0" target="arzxhCdn4PM">
+  <data key="d7">10</data>
+  <data key="d8">0.1</data>
+</edge>
+<edge source="7HpkNw-eYh0" target="u16-sKOCTUo">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="7HpkNw-eYh0" target="IKm7yQLorPo">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="7HpkNw-eYh0" target="gc81ZkY-Kg8">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="BMIQqHLTyzY" target="gc81ZkY-Kg8">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="BMIQqHLTyzY" target="NnryGVjzuso">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="BMIQqHLTyzY" target="arzxhCdn4PM">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="BMIQqHLTyzY" target="cF7Z1RLKlu0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="BMIQqHLTyzY" target="ky6MO1r3UVg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="D5i5XHUArr4" target="NnryGVjzuso">
+  <data key="d7">7</data>
+  <data key="d8">0.14285714285714285</data>
+</edge>
+<edge source="D5i5XHUArr4" target="W3OiJi8UyUk">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="D5i5XHUArr4" target="_vHlSlQ5QOY">
+  <data key="d7">5</data>
+  <data key="d8">0.2</data>
+</edge>
+<edge source="D5i5XHUArr4" target="arzxhCdn4PM">
+  <data key="d7">6</data>
+  <data key="d8">0.16666666666666666</data>
+</edge>
+<edge source="D5i5XHUArr4" target="u16-sKOCTUo">
+  <data key="d7">13</data>
+  <data key="d8">0.07692307692307693</data>
+</edge>
+<edge source="D5i5XHUArr4" target="ky6MO1r3UVg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="D5i5XHUArr4" target="cF7Z1RLKlu0">
+  <data key="d7">10</data>
+  <data key="d8">0.1</data>
+</edge>
+<edge source="D5i5XHUArr4" target="LWdoRl6Lt-g">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="D5i5XHUArr4" target="WPljV8uKnYk">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="D5i5XHUArr4" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="IKm7yQLorPo" target="LWdoRl6Lt-g">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="IKm7yQLorPo" target="xSMw6AWHHKY">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="IKm7yQLorPo" target="NnryGVjzuso">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="IKm7yQLorPo" target="ky6MO1r3UVg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="LWdoRl6Lt-g" target="NnryGVjzuso">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="LWdoRl6Lt-g" target="xSMw6AWHHKY">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="LWdoRl6Lt-g" target="u16-sKOCTUo">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="LWdoRl6Lt-g" target="cF7Z1RLKlu0">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="LWdoRl6Lt-g" target="_vHlSlQ5QOY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="NnryGVjzuso" target="W3OiJi8UyUk">
+  <data key="d7">11</data>
+  <data key="d8">0.09090909090909091</data>
+</edge>
+<edge source="NnryGVjzuso" target="_vHlSlQ5QOY">
+  <data key="d7">9</data>
+  <data key="d8">0.1111111111111111</data>
+</edge>
+<edge source="NnryGVjzuso" target="arzxhCdn4PM">
+  <data key="d7">11</data>
+  <data key="d8">0.09090909090909091</data>
+</edge>
+<edge source="NnryGVjzuso" target="cF7Z1RLKlu0">
+  <data key="d7">21</data>
+  <data key="d8">0.047619047619047616</data>
+</edge>
+<edge source="NnryGVjzuso" target="u16-sKOCTUo">
+  <data key="d7">19</data>
+  <data key="d8">0.05263157894736842</data>
+</edge>
+<edge source="NnryGVjzuso" target="WPljV8uKnYk">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="NnryGVjzuso" target="xSMw6AWHHKY">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="NnryGVjzuso" target="ky6MO1r3UVg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="W3OiJi8UyUk" target="_vHlSlQ5QOY">
+  <data key="d7">32</data>
+  <data key="d8">0.03125</data>
+</edge>
+<edge source="W3OiJi8UyUk" target="arzxhCdn4PM">
+  <data key="d7">41</data>
+  <data key="d8">0.024390243902439025</data>
+</edge>
+<edge source="W3OiJi8UyUk" target="cF7Z1RLKlu0">
+  <data key="d7">7</data>
+  <data key="d8">0.14285714285714285</data>
+</edge>
+<edge source="W3OiJi8UyUk" target="u16-sKOCTUo">
+  <data key="d7">7</data>
+  <data key="d8">0.14285714285714285</data>
+</edge>
+<edge source="W3OiJi8UyUk" target="ky6MO1r3UVg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="W3OiJi8UyUk" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="WPljV8uKnYk" target="u16-sKOCTUo">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="WPljV8uKnYk" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="_vHlSlQ5QOY" target="arzxhCdn4PM">
+  <data key="d7">23</data>
+  <data key="d8">0.043478260869565216</data>
+</edge>
+<edge source="_vHlSlQ5QOY" target="u16-sKOCTUo">
+  <data key="d7">4</data>
+  <data key="d8">0.25</data>
+</edge>
+<edge source="_vHlSlQ5QOY" target="cF7Z1RLKlu0">
+  <data key="d7">9</data>
+  <data key="d8">0.1111111111111111</data>
+</edge>
+<edge source="_vHlSlQ5QOY" target="ky6MO1r3UVg">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="_vHlSlQ5QOY" target="gc81ZkY-Kg8">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="_vHlSlQ5QOY" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="arzxhCdn4PM" target="cF7Z1RLKlu0">
+  <data key="d7">11</data>
+  <data key="d8">0.09090909090909091</data>
+</edge>
+<edge source="arzxhCdn4PM" target="u16-sKOCTUo">
+  <data key="d7">10</data>
+  <data key="d8">0.1</data>
+</edge>
+<edge source="arzxhCdn4PM" target="ky6MO1r3UVg">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="cF7Z1RLKlu0" target="u16-sKOCTUo">
+  <data key="d7">15</data>
+  <data key="d8">0.06666666666666667</data>
+</edge>
+<edge source="cF7Z1RLKlu0" target="gc81ZkY-Kg8">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="cF7Z1RLKlu0" target="ky6MO1r3UVg">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="gc81ZkY-Kg8" target="ky6MO1r3UVg">
+  <data key="d7">2</data>
+  <data key="d8">0.5</data>
+</edge>
+<edge source="ky6MO1r3UVg" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+<edge source="u16-sKOCTUo" target="xSMw6AWHHKY">
+  <data key="d7">1</data>
+  <data key="d8">1.0</data>
+</edge>
+</graph></graphml>

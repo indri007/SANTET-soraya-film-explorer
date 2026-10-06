@@ -1,0 +1,13 @@
+id,film_id,source,retrieved_at,penonton,hari_ke,is_final,is_official_selected,source_url,catatan
+73,suzzanna-2026,Cinepoint / IDN Times,2026-03-30,1054864,12,0,1,https://www.idntimes.com/hype/entertainment/suzzanna-santet-dosa-di-atas-dosa-raih-1-juta-penonton-00-syg99-4l4x5v,Angka sementara per 30 Mar 2026 (masih tayang)
+74,racun-sangga-2024,Pikiran Rakyat / IG Soraya,2025-01-01,525034,19,0,1,https://jambi.pikiran-rakyat.com/selebritas-film/pr-3468932062/belum-menembus-box-office-indonesia-2024-segini-jumlah-penonton-racun-sangga-di-bioskop,Angka sementara hari ke-19
+75,santet-segoro-pitu-2024,IDN Times / Hitmaker Official,2024-12-15,1025000,35,1,1,https://jogja.idntimes.com/news/jogja/9-film-hitmaker-studio-tembus-1-juta-penonton-ada-santet-segoro-pitu-c1c2-01-kgdt4-pvzr5g,Klaim resmi Hitmaker tembus > 1 juta penonton
+76,menantu-sinting-2024,filmindonesia.or.id,2024-08-30,713862,40,1,1,https://rri.co.id/padang/hiburan/879142/sakaratul-maut-terbanyak-ditonton-pekan-ini,Angka database publik filmindonesia.or.id (Dipilih sesuai prioritas aturan)
+77,menantu-sinting-2024,Instagram Resmi Soraya,2024-08-12,783899,25,0,0,https://jambi.pikiran-rakyat.com/selebritas-film/pr-3468438142/berapakah-jumlah-penonton-catatan-harian-menantu-sinting-di-bioskop-terbaru,Klaim promosi akun Instagram Soraya per 12 Agu 2024 (selisih +70.037)
+78,indigo-2023,Wikipedia ID / filmindonesia.or.id,2023-12-01,1015231,35,1,1,https://id.wikipedia.org/wiki/Indigo:_What_Do_You_See,Angka final box office terverifikasi
+79,suzzanna-2023,Wikipedia EN / filmindonesia.or.id,2023-10-01,2189363,45,1,1,https://en.wikipedia.org/wiki/List_of_Indonesian_films_of_2023,Angka box office final rujukan resmi
+80,the-doll-3-2022,Wikipedia EN / filmindonesia.or.id,2022-07-15,1764077,40,1,1,https://en.wikipedia.org/wiki/List_of_Indonesian_films_of_2022,Angka final box office rujukan resmi
+81,suzzanna-2018,filmindonesia.or.id,2019-01-10,3346216,50,1,1,https://filmindonesia.or.id,Rekor penonton tertinggi franchise Suzzanna modern
+82,sabrina-2018,filmindonesia.or.id,2018-08-30,1337510,35,1,1,https://filmindonesia.or.id,Spin-off waralaba The Doll
+83,the-doll-2-2017,filmindonesia.or.id,2017-09-01,1226864,35,1,1,https://filmindonesia.or.id,"Keluaran Hitmaker tembus 1,2 juta penonton"
+84,mata-batin-2017,filmindonesia.or.id,2018-01-15,1282557,35,1,1,https://filmindonesia.or.id,"Keluaran Hitmaker tembus 1,28 juta penonton"

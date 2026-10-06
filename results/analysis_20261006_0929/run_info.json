@@ -1,0 +1,28 @@
+{
+  "created_local": "2026-10-06T09:29:58",
+  "created_utc": "2026-10-06T02:29:58+00:00",
+  "sets": [
+    "soraya",
+    "ivanna"
+  ],
+  "n_videos": 17,
+  "n_comments": 4070,
+  "n_commenters": 3273,
+  "network": {
+    "nodes": 17,
+    "edges": 84,
+    "density": 0.6176,
+    "components": 1,
+    "communities": 3,
+    "modularity": 0.1964,
+    "isolates": 0
+  },
+  "louvain_seed": 42,
+  "sentiment": "lexicon v0 (exploratory, unvalidated)",
+  "versions": {
+    "pandas": "3.0.6",
+    "networkx": "3.7",
+    "matplotlib": "3.11.2",
+    "python": "3.14.2"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "mode": "PREDIKTIF (fitur pra-rilis)",
+  "n": 9,
+  "prediktor": [
+    "trends_pra_rilis"
+  ],
+  "transformasi": "log1p untuk hitungan; target log(penonton)",
+  "validasi": "leave-one-out",
+  "MAPE_model_%": 58.0,
+  "MAPE_model_CI95_%": [
+    29.9,
+    90.6
+  ],
+  "MAPE_baseline_%": 52.8,
+  "MAPE_baseline_CI95_%": [
+    27.1,
+    85.5
+  ],
+  "model_lebih_baik_di_berapa_film": 5
+}

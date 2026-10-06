@@ -1,0 +1,17 @@
+film_id,judul,views_h7,comments_h7,sentiment_pos_ratio,views_total,comments,pos_leksikon_emoji,pos_indobert,views_h7_melebihi_views_sekarang
+suzzanna-2026,Suzzanna: Santet Dosa di Atas Dosa,3450000.0,8900.0,0.84,3187674.0,1215.0,0.388,0.374,True
+racun-sangga-2024,Racun Sangga: Santet Pemisah Rumah Tangga,1280000.0,2100.0,0.65,5359442.0,198.0,0.384,0.389,False
+santet-segoro-pitu-2024,Santet Segoro Pitu,2150000.0,3800.0,0.76,3773589.0,425.0,0.292,0.299,False
+menantu-sinting-2024,Catatan Harian Menantu Sinting,3200000.0,5400.0,0.72,2151656.0,257.0,0.152,0.179,True
+indigo-2023,Indigo: What Do You See?,2890000.0,7100.0,0.79,3147375.0,793.0,0.427,0.41,False
+suzzanna-2023,Suzzanna: Malam Jumat Kliwon,6100000.0,14200.0,0.88,4869567.0,1728.0,0.44,0.433,True
+the-doll-3-2022,The Doll 3,4900000.0,10500.0,0.83,6679661.0,680.0,0.215,0.201,False
+suzzanna-2018,Suzzanna: Bernapas dalam Kubur,8500000.0,19000.0,0.91,9647484.0,500.0,0.302,0.356,False
+sabrina-2018,Sabrina,3600000.0,7800.0,0.77,809423.0,,,,True
+mata-batin-2017,Mata Batin,3400000.0,6800.0,0.76,542865.0,105.0,0.181,0.162,True
+the-doll-2-2017,The Doll 2,3100000.0,6200.0,0.75,,,,,False
+badarawuhi-2024,Badarawuhi di Desa Penari,,,,2624610.0,500.0,0.314,0.272,False
+ipar-adalah-maut-2024,Ipar Adalah Maut,,,,2409913.0,426.0,0.228,0.242,False
+ivanna-2022,Ivanna,,,,7629600.0,1000.0,0.413,0.458,False
+jurnal-risa-2024,Jurnal Risa by Risa Saraswati,,,,1433003.0,792.0,0.303,0.265,False
+perewangan-2024,Perewangan,,,,940060.0,299.0,0.247,0.227,False

@@ -1,0 +1,16 @@
+film_a,film_b,shared_commenters,jaccard
+Suzzanna: Malam Jumat Kliwon (2023),Suzzanna: Santet Dosa di Atas Dosa (2026),49,0.02
+IVANNA (2022),Suzzanna: Malam Jumat Kliwon (2023),11,0.006
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),9,0.0074
+Catatan Harian Menantu Sinting (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),8,0.0062
+Catatan Harian Menantu Sinting (2024),Suzzanna: Malam Jumat Kliwon (2023),5,0.0029
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Suzzanna: Malam Jumat Kliwon (2023),5,0.0031
+Catatan Harian Menantu Sinting (2024),IVANNA (2022),2,0.003
+IVANNA (2022),Suzzanna: Santet Dosa di Atas Dosa (2026),2,0.0014
+Catatan Harian Menantu Sinting (2024),Racun Sangga: Santet Pemisah Rumah Tangga (2024),1,0.0023
+IVANNA (2022),Racun Sangga: Santet Pemisah Rumah Tangga (2024),1,0.0017
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Siccin 8,1,0.0049
+Siccin 8,Suzzanna: Santet Dosa di Atas Dosa (2026),1,0.0009
+Catatan Harian Menantu Sinting (2024),Siccin 8,0,0.0
+IVANNA (2022),Siccin 8,0,0.0
+Siccin 8,Suzzanna: Malam Jumat Kliwon (2023),0,0.0

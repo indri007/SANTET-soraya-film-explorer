@@ -1,0 +1,11 @@
+{
+  "pandas": "3.0.6",
+  "numpy": "2.5.3",
+  "networkx": "3.7",
+  "matplotlib": "3.11.2",
+  "torch": "2.12.0",
+  "transformers": "5.17.0",
+  "sklearn": "1.9.1",
+  "yt_dlp": "2026.08.19",
+  "python": "3.14.2"
+}

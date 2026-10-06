@@ -1,0 +1,511 @@
+region,score,film,keyword,timeframe,retrieved_at
+Aceh,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Bali,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Banten,1,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Bengkulu,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Daerah Istimewa Yogyakarta,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Daerah Khusus Ibukota Jakarta,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Gorontalo,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Jambi,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Jawa Barat,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Jawa Tengah,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Jawa Timur,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Kalimantan Barat,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Kalimantan Selatan,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Kalimantan Tengah,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Kalimantan Timur,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Kalimantan Utara,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Kepulauan Bangka Belitung,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Kepulauan Riau,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Lampung,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Maluku,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Maluku Utara,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Nusa Tenggara Barat,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Nusa Tenggara Timur,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Papua,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Papua Barat,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Riau,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Sulawesi Barat,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Sulawesi Selatan,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Sulawesi Tengah,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Sulawesi Tenggara,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Sulawesi Utara,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Sumatera Barat,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Sumatera Selatan,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Sumatera Utara,0,Suzzanna: Santet Dosa di Atas Dosa,Suzzanna Santet Dosa di Atas Dosa,2025-12-18 2026-05-17,2026-10-06T04:38:47.428066+00:00
+Aceh,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Bali,4,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Banten,5,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Bengkulu,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Daerah Istimewa Yogyakarta,5,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Daerah Khusus Ibukota Jakarta,8,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Gorontalo,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Jambi,4,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Jawa Barat,3,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Jawa Tengah,2,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Jawa Timur,4,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Kalimantan Barat,8,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Kalimantan Selatan,39,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Kalimantan Tengah,24,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Kalimantan Timur,20,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Kalimantan Utara,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Kepulauan Bangka Belitung,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Kepulauan Riau,7,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Lampung,4,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Maluku,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Maluku Utara,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Nusa Tenggara Barat,3,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Nusa Tenggara Timur,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Papua,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Papua Barat,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Riau,7,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Sulawesi Barat,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Sulawesi Selatan,4,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Sulawesi Tengah,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Sulawesi Tenggara,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Sulawesi Utara,0,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Sumatera Barat,4,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Sumatera Selatan,4,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Sumatera Utara,4,Racun Sangga: Santet Pemisah Rumah Tangga,Racun Sangga,2024-09-13 2025-02-10,2026-10-06T04:40:05.749235+00:00
+Aceh,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Bali,9,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Banten,7,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Bengkulu,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Daerah Istimewa Yogyakarta,11,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Daerah Khusus Ibukota Jakarta,8,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Gorontalo,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Jambi,5,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Jawa Barat,5,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Jawa Tengah,9,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Jawa Timur,10,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Kalimantan Barat,6,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Kalimantan Selatan,6,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Kalimantan Tengah,7,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Kalimantan Timur,6,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Kalimantan Utara,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Kepulauan Bangka Belitung,8,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Kepulauan Riau,7,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Lampung,6,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Maluku,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Maluku Utara,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Nusa Tenggara Barat,4,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Nusa Tenggara Timur,5,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Papua,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Papua Barat,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Riau,6,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Sulawesi Barat,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Sulawesi Selatan,4,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Sulawesi Tengah,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Sulawesi Tenggara,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Sulawesi Utara,0,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Sumatera Barat,2,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Sumatera Selatan,7,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Sumatera Utara,5,Santet Segoro Pitu,Santet Segoro Pitu,2024-08-09 2025-01-06,2026-10-06T04:41:08.159395+00:00
+Aceh,6,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Bali,13,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Banten,10,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Bengkulu,8,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Daerah Istimewa Yogyakarta,8,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Daerah Khusus Ibukota Jakarta,11,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Gorontalo,0,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Jambi,10,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Jawa Barat,6,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Jawa Tengah,5,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Jawa Timur,5,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Kalimantan Barat,5,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Kalimantan Selatan,6,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Kalimantan Tengah,6,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Kalimantan Timur,7,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Kalimantan Utara,0,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Kepulauan Bangka Belitung,0,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Kepulauan Riau,11,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Lampung,6,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Maluku,0,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Maluku Utara,0,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Nusa Tenggara Barat,5,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Nusa Tenggara Timur,4,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Papua,0,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Papua Barat,0,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Riau,11,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Sulawesi Barat,0,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Sulawesi Selatan,6,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Sulawesi Tengah,0,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Sulawesi Tenggara,6,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Sulawesi Utara,6,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Sumatera Barat,5,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Sumatera Selatan,8,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Sumatera Utara,15,Catatan Harian Menantu Sinting,Catatan Harian Menantu Sinting,2024-04-19 2024-09-16,2026-10-06T04:42:05.543901+00:00
+Aceh,2,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Bali,9,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Banten,8,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Bengkulu,9,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Daerah Istimewa Yogyakarta,6,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Daerah Khusus Ibukota Jakarta,8,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Gorontalo,11,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Jambi,8,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Jawa Barat,6,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Jawa Tengah,5,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Jawa Timur,5,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Kalimantan Barat,5,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Kalimantan Selatan,6,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Kalimantan Tengah,5,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Kalimantan Timur,9,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Kalimantan Utara,0,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Kepulauan Bangka Belitung,6,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Kepulauan Riau,11,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Lampung,5,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Maluku,6,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Maluku Utara,0,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Nusa Tenggara Barat,5,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Nusa Tenggara Timur,3,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Papua,4,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Papua Barat,0,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Riau,7,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Sulawesi Barat,0,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Sulawesi Selatan,7,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Sulawesi Tengah,4,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Sulawesi Tenggara,7,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Sulawesi Utara,5,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Sumatera Barat,4,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Sumatera Selatan,9,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Sumatera Utara,7,Indigo: What Do You See?,film Indigo,2023-07-21 2023-12-18,2026-10-06T04:43:01.215451+00:00
+Aceh,3,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Bali,9,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Banten,10,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Bengkulu,8,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Daerah Istimewa Yogyakarta,7,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Daerah Khusus Ibukota Jakarta,10,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Gorontalo,0,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Jambi,8,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Jawa Barat,7,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Jawa Tengah,6,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Jawa Timur,5,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Kalimantan Barat,8,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Kalimantan Selatan,8,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Kalimantan Tengah,6,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Kalimantan Timur,8,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Kalimantan Utara,0,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Kepulauan Bangka Belitung,9,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Kepulauan Riau,9,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Lampung,4,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Maluku,0,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Maluku Utara,0,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Nusa Tenggara Barat,6,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Nusa Tenggara Timur,0,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Papua,0,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Papua Barat,0,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Riau,6,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Sulawesi Barat,0,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Sulawesi Selatan,4,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Sulawesi Tengah,3,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Sulawesi Tenggara,3,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Sulawesi Utara,6,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Sumatera Barat,4,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Sumatera Selatan,9,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Sumatera Utara,7,Suzzanna: Malam Jumat Kliwon,Suzzanna Malam Jumat Kliwon,2023-05-05 2023-10-02,2026-10-06T04:43:49.106845+00:00
+Aceh,9,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Bali,19,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Banten,28,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Bengkulu,19,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Daerah Istimewa Yogyakarta,20,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Daerah Khusus Ibukota Jakarta,26,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Gorontalo,19,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Jambi,23,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Jawa Barat,23,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Jawa Tengah,17,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Jawa Timur,22,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Kalimantan Barat,17,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Kalimantan Selatan,17,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Kalimantan Tengah,14,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Kalimantan Timur,24,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Kalimantan Utara,8,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Kepulauan Bangka Belitung,27,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Kepulauan Riau,28,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Lampung,18,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Maluku,14,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Maluku Utara,18,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Nusa Tenggara Barat,15,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Nusa Tenggara Timur,7,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Papua,9,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Papua Barat,0,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Riau,30,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Sulawesi Barat,0,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Sulawesi Selatan,19,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Sulawesi Tengah,9,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Sulawesi Tenggara,17,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Sulawesi Utara,22,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Sumatera Barat,16,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Sumatera Selatan,31,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Sumatera Utara,24,The Doll 3,The Doll 3,2022-02-25 2022-07-25,2026-10-06T04:44:40.964007+00:00
+Aceh,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Bali,1,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Banten,1,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Bengkulu,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Daerah Istimewa Yogyakarta,1,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Daerah Khusus Ibukota Jakarta,1,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Gorontalo,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Jambi,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Jawa Barat,2,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Jawa Tengah,1,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Jawa Timur,1,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Kalimantan Barat,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Kalimantan Selatan,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Kalimantan Tengah,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Kalimantan Timur,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Kalimantan Utara,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Kepulauan Bangka Belitung,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Kepulauan Riau,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Lampung,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Maluku,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Maluku Utara,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Nusa Tenggara Barat,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Nusa Tenggara Timur,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Papua,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Papua Barat,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Riau,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Sulawesi Barat,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Sulawesi Selatan,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Sulawesi Tengah,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Sulawesi Tenggara,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Sulawesi Utara,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Sumatera Barat,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Sumatera Selatan,0,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Sumatera Utara,1,Suzzanna: Bernapas dalam Kubur,Suzzanna Bernapas dalam Kubur,2018-08-17 2019-01-14,2026-10-06T04:45:36.081837+00:00
+Aceh,2,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Bali,5,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Banten,10,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Bengkulu,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Daerah Istimewa Yogyakarta,8,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Daerah Khusus Ibukota Jakarta,8,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Gorontalo,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Jambi,6,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Jawa Barat,10,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Jawa Tengah,8,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Jawa Timur,7,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Kalimantan Barat,7,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Kalimantan Selatan,7,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Kalimantan Tengah,5,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Kalimantan Timur,8,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Kalimantan Utara,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Kepulauan Bangka Belitung,9,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Kepulauan Riau,7,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Lampung,7,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Maluku,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Maluku Utara,15,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Nusa Tenggara Barat,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Nusa Tenggara Timur,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Papua,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Papua Barat,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Riau,6,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Sulawesi Barat,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Sulawesi Selatan,4,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Sulawesi Tengah,0,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Sulawesi Tenggara,6,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Sulawesi Utara,7,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Sumatera Barat,6,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Sumatera Selatan,9,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Sumatera Utara,6,Sabrina,film Sabrina,2018-04-13 2018-09-10,2026-10-06T04:46:22.506835+00:00
+Aceh,4,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Bali,10,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Banten,16,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Bengkulu,12,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Daerah Istimewa Yogyakarta,14,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Daerah Khusus Ibukota Jakarta,14,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Gorontalo,16,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Jambi,10,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Jawa Barat,12,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Jawa Tengah,10,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Jawa Timur,12,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Kalimantan Barat,7,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Kalimantan Selatan,6,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Kalimantan Tengah,10,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Kalimantan Timur,10,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Kalimantan Utara,0,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Kepulauan Bangka Belitung,14,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Kepulauan Riau,12,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Lampung,9,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Maluku,8,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Maluku Utara,0,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Nusa Tenggara Barat,9,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Nusa Tenggara Timur,4,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Papua,0,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Papua Barat,10,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Riau,10,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Sulawesi Barat,0,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Sulawesi Selatan,7,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Sulawesi Tengah,5,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Sulawesi Tenggara,6,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Sulawesi Utara,7,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Sumatera Barat,10,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Sumatera Selatan,11,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Sumatera Utara,9,Badarawuhi di Desa Penari,Badarawuhi di Desa Penari,2024-01-12 2024-06-10,2026-10-06T05:16:03.182544+00:00
+Aceh,52,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Bali,48,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Banten,58,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Bengkulu,50,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Daerah Istimewa Yogyakarta,52,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Daerah Khusus Ibukota Jakarta,58,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Gorontalo,55,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Jambi,50,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Jawa Barat,51,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Jawa Tengah,50,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Jawa Timur,52,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Kalimantan Barat,44,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Kalimantan Selatan,50,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Kalimantan Tengah,47,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Kalimantan Timur,53,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Kalimantan Utara,45,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Kepulauan Bangka Belitung,53,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Kepulauan Riau,49,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Lampung,49,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Maluku,43,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Maluku Utara,53,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Nusa Tenggara Barat,49,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Nusa Tenggara Timur,38,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Papua,46,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Papua Barat,43,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Riau,54,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Sulawesi Barat,44,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Sulawesi Selatan,55,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Sulawesi Tengah,46,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Sulawesi Tenggara,52,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Sulawesi Utara,47,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Sumatera Barat,51,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Sumatera Selatan,53,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Sumatera Utara,46,Ipar Adalah Maut,Ipar Adalah Maut,2024-03-15 2024-08-12,2026-10-06T05:20:27.747090+00:00
+Aceh,7,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Bali,12,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Banten,15,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Bengkulu,14,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Daerah Istimewa Yogyakarta,11,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Daerah Khusus Ibukota Jakarta,14,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Gorontalo,12,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Jambi,14,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Jawa Barat,14,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Jawa Tengah,11,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Jawa Timur,12,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Kalimantan Barat,9,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Kalimantan Selatan,11,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Kalimantan Tengah,7,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Kalimantan Timur,13,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Kalimantan Utara,10,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Kepulauan Bangka Belitung,15,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Kepulauan Riau,16,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Lampung,9,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Maluku,11,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Maluku Utara,0,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Nusa Tenggara Barat,8,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Nusa Tenggara Timur,7,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Papua,8,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Papua Barat,10,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Riau,15,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Sulawesi Barat,0,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Sulawesi Selatan,10,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Sulawesi Tengah,8,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Sulawesi Tenggara,9,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Sulawesi Utara,11,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Sumatera Barat,10,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Sumatera Selatan,17,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Sumatera Utara,12,Ivanna,film Ivanna,2022-04-15 2022-09-12,2026-10-06T05:27:28.891649+00:00
+Aceh,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Bali,7,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Banten,12,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Bengkulu,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Daerah Istimewa Yogyakarta,7,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Daerah Khusus Ibukota Jakarta,15,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Gorontalo,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Jambi,4,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Jawa Barat,14,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Jawa Tengah,5,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Jawa Timur,6,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Kalimantan Barat,5,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Kalimantan Selatan,4,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Kalimantan Tengah,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Kalimantan Timur,7,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Kalimantan Utara,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Kepulauan Bangka Belitung,8,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Kepulauan Riau,6,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Lampung,4,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Maluku,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Maluku Utara,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Nusa Tenggara Barat,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Nusa Tenggara Timur,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Papua,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Papua Barat,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Riau,7,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Sulawesi Barat,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Sulawesi Selatan,5,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Sulawesi Tengah,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Sulawesi Tenggara,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Sulawesi Utara,0,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Sumatera Barat,3,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Sumatera Selatan,6,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Sumatera Utara,5,Jurnal Risa by Risa Saraswati,Jurnal Risa,2024-04-12 2024-09-09,2026-10-06T05:35:44.372117+00:00
+Aceh,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Bali,3,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Banten,3,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Bengkulu,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Daerah Istimewa Yogyakarta,3,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Daerah Khusus Ibukota Jakarta,4,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Gorontalo,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Jambi,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Jawa Barat,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Jawa Tengah,1,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Jawa Timur,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Kalimantan Barat,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Kalimantan Selatan,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Kalimantan Tengah,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Kalimantan Timur,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Kalimantan Utara,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Kepulauan Bangka Belitung,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Kepulauan Riau,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Lampung,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Maluku,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Maluku Utara,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Nusa Tenggara Barat,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Nusa Tenggara Timur,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Papua,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Papua Barat,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Riau,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Sulawesi Barat,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Sulawesi Selatan,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Sulawesi Tengah,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Sulawesi Tenggara,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Sulawesi Utara,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Sumatera Barat,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Sumatera Selatan,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Sumatera Utara,1,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:43:59.280906+00:00
+Aceh,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Bali,3,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Banten,3,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Bengkulu,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Daerah Istimewa Yogyakarta,3,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Daerah Khusus Ibukota Jakarta,4,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Gorontalo,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Jambi,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Jawa Barat,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Jawa Tengah,1,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Jawa Timur,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Kalimantan Barat,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Kalimantan Selatan,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Kalimantan Tengah,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Kalimantan Timur,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Kalimantan Utara,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Kepulauan Bangka Belitung,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Kepulauan Riau,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Lampung,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Maluku,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Maluku Utara,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Nusa Tenggara Barat,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Nusa Tenggara Timur,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Papua,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Papua Barat,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Riau,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Sulawesi Barat,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Sulawesi Selatan,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Sulawesi Tengah,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Sulawesi Tenggara,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Sulawesi Utara,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Sumatera Barat,0,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Sumatera Selatan,2,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00
+Sumatera Utara,1,Perewangan,film Perewangan,2024-07-26 2024-12-23,2026-10-06T05:44:43.795667+00:00

@@ -1,0 +1,137 @@
+film_a,film_b,shared_commenters,jaccard
+Suzzanna: Malam Jumat Kliwon (2023),Suzzanna: Santet Dosa di Atas Dosa (2026),50,0.0212
+Janur Ireng: Sewu Dino Prequel (2025/2026),Suzzanna: Santet Dosa di Atas Dosa (2026),41,0.0296
+Danur: The Last Chapter (2026),Suzzanna: Santet Dosa di Atas Dosa (2026),34,0.0283
+Indigo: What Do You See? (2023),Suzzanna: Malam Jumat Kliwon (2023),30,0.0149
+Danur: The Last Chapter (2026),Janur Ireng: Sewu Dino Prequel (2025/2026),26,0.039
+Janur Ireng: Sewu Dino Prequel (2025/2026),Suzzanna: Malam Jumat Kliwon (2023),25,0.0136
+Suzzanna: Bernapas dalam Kubur (2018),Suzzanna: Malam Jumat Kliwon (2023),18,0.0098
+Jurnal Risa by Risa Saraswati (2024),Suzzanna: Malam Jumat Kliwon (2023),18,0.0088
+IVANNA (2022),Suzzanna: Malam Jumat Kliwon (2023),17,0.0091
+Janur Ireng: Sewu Dino Prequel (2025/2026),Jurnal Risa by Risa Saraswati (2024),15,0.0139
+Indigo: What Do You See? (2023),Suzzanna: Santet Dosa di Atas Dosa (2026),13,0.0082
+Jurnal Risa by Risa Saraswati (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),13,0.008
+Ipar Adalah Maut (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),12,0.009
+Ipar Adalah Maut (2024),Suzzanna: Malam Jumat Kliwon (2023),12,0.0068
+Indigo: What Do You See? (2023),Jurnal Risa by Risa Saraswati (2024),12,0.0096
+Santet Segoro Pitu (2024),Suzzanna: Malam Jumat Kliwon (2023),12,0.0067
+Suzzanna: Malam Jumat Kliwon (2023),The Doll 3 (2022),12,0.0062
+Danur: The Last Chapter (2026),Jurnal Risa by Risa Saraswati (2024),12,0.0135
+Suzzanna: Santet Dosa di Atas Dosa (2026),The Doll 3 (2022),11,0.0073
+Santet Segoro Pitu (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),10,0.0074
+Danur: The Last Chapter (2026),Suzzanna: Malam Jumat Kliwon (2023),10,0.006
+Indigo: What Do You See? (2023),The Doll 3 (2022),10,0.0088
+Suzzanna: Bernapas dalam Kubur (2018),Suzzanna: Santet Dosa di Atas Dosa (2026),10,0.0071
+Perewangan (2024),Santet Segoro Pitu (2024),9,0.0149
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),9,0.0079
+IVANNA (2022),Janur Ireng: Sewu Dino Prequel (2025/2026),9,0.01
+Perewangan (2024),Suzzanna: Malam Jumat Kliwon (2023),8,0.0048
+Danur: The Last Chapter (2026),Santet Segoro Pitu (2024),8,0.0131
+Janur Ireng: Sewu Dino Prequel (2025/2026),Santet Segoro Pitu (2024),8,0.01
+Janur Ireng: Sewu Dino Prequel (2025/2026),Perewangan (2024),8,0.0118
+Badarawuhi di Desa Penari (2024),Suzzanna: Malam Jumat Kliwon (2023),8,0.0044
+Indigo: What Do You See? (2023),Santet Segoro Pitu (2024),7,0.0072
+Badarawuhi di Desa Penari (2024),Jurnal Risa by Risa Saraswati (2024),7,0.0066
+Janur Ireng: Sewu Dino Prequel (2025/2026),The Doll 3 (2022),7,0.0072
+Perewangan (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),7,0.0057
+Jurnal Risa by Risa Saraswati (2024),Perewangan (2024),7,0.0079
+IVANNA (2022),Indigo: What Do You See? (2023),6,0.0056
+Badarawuhi di Desa Penari (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),6,0.0043
+IVANNA (2022),Suzzanna: Santet Dosa di Atas Dosa (2026),6,0.0041
+IVANNA (2022),The Doll 3 (2022),6,0.006
+Ipar Adalah Maut (2024),Janur Ireng: Sewu Dino Prequel (2025/2026),6,0.0076
+Indigo: What Do You See? (2023),Janur Ireng: Sewu Dino Prequel (2025/2026),6,0.0057
+IVANNA (2022),Jurnal Risa by Risa Saraswati (2024),6,0.0054
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Santet Segoro Pitu (2024),6,0.0113
+Danur: The Last Chapter (2026),Indigo: What Do You See? (2023),6,0.007
+Badarawuhi di Desa Penari (2024),IVANNA (2022),6,0.0068
+Suzzanna: Bernapas dalam Kubur (2018),The Doll 3 (2022),6,0.0062
+Mata Batin (2017),The Doll 3 (2022),6,0.0098
+Catatan Harian Menantu Sinting (2024),Jurnal Risa by Risa Saraswati (2024),5,0.0057
+Badarawuhi di Desa Penari (2024),Danur: The Last Chapter (2026),5,0.0076
+Catatan Harian Menantu Sinting (2024),Suzzanna: Malam Jumat Kliwon (2023),5,0.003
+Catatan Harian Menantu Sinting (2024),Suzzanna: Santet Dosa di Atas Dosa (2026),5,0.0041
+Indigo: What Do You See? (2023),Mata Batin (2017),5,0.0072
+Danur: The Last Chapter (2026),IVANNA (2022),5,0.007
+Danur: The Last Chapter (2026),Suzzanna: Bernapas dalam Kubur (2018),5,0.0073
+Janur Ireng: Sewu Dino Prequel (2025/2026),Racun Sangga: Santet Pemisah Rumah Tangga (2024),5,0.0083
+IVANNA (2022),Suzzanna: Bernapas dalam Kubur (2018),5,0.0055
+Danur: The Last Chapter (2026),Racun Sangga: Santet Pemisah Rumah Tangga (2024),5,0.0121
+Santet Segoro Pitu (2024),The Doll 3 (2022),5,0.0056
+Catatan Harian Menantu Sinting (2024),IVANNA (2022),4,0.0057
+Badarawuhi di Desa Penari (2024),Suzzanna: Bernapas dalam Kubur (2018),4,0.0047
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Suzzanna: Malam Jumat Kliwon (2023),4,0.0025
+IVANNA (2022),Ipar Adalah Maut (2024),4,0.0049
+Danur: The Last Chapter (2026),Perewangan (2024),4,0.0081
+Danur: The Last Chapter (2026),Ipar Adalah Maut (2024),4,0.0067
+Catatan Harian Menantu Sinting (2024),Indigo: What Do You See? (2023),4,0.0047
+IVANNA (2022),Racun Sangga: Santet Pemisah Rumah Tangga (2024),4,0.0063
+Indigo: What Do You See? (2023),Racun Sangga: Santet Pemisah Rumah Tangga (2024),4,0.0051
+Indigo: What Do You See? (2023),Perewangan (2024),4,0.0047
+IVANNA (2022),Santet Segoro Pitu (2024),4,0.0048
+Perewangan (2024),Racun Sangga: Santet Pemisah Rumah Tangga (2024),4,0.0098
+Indigo: What Do You See? (2023),Suzzanna: Bernapas dalam Kubur (2018),4,0.0038
+Catatan Harian Menantu Sinting (2024),Janur Ireng: Sewu Dino Prequel (2025/2026),3,0.0045
+Jurnal Risa by Risa Saraswati (2024),The Doll 3 (2022),3,0.0025
+Badarawuhi di Desa Penari (2024),Santet Segoro Pitu (2024),3,0.0038
+Jurnal Risa by Risa Saraswati (2024),Racun Sangga: Santet Pemisah Rumah Tangga (2024),3,0.0037
+Perewangan (2024),Suzzanna: Bernapas dalam Kubur (2018),3,0.0044
+Catatan Harian Menantu Sinting (2024),Ipar Adalah Maut (2024),3,0.0051
+Badarawuhi di Desa Penari (2024),Janur Ireng: Sewu Dino Prequel (2025/2026),3,0.0035
+Ipar Adalah Maut (2024),Perewangan (2024),3,0.005
+Badarawuhi di Desa Penari (2024),The Doll 3 (2022),3,0.0032
+Badarawuhi di Desa Penari (2024),Indigo: What Do You See? (2023),3,0.0029
+Perewangan (2024),The Doll 3 (2022),2,0.0026
+Jurnal Risa by Risa Saraswati (2024),Suzzanna: Bernapas dalam Kubur (2018),2,0.0018
+Catatan Harian Menantu Sinting (2024),The Doll 3 (2022),2,0.0026
+Jurnal Risa by Risa Saraswati (2024),Santet Segoro Pitu (2024),2,0.002
+Danur: The Last Chapter (2026),Siccin 8,2,0.0074
+Catatan Harian Menantu Sinting (2024),Danur: The Last Chapter (2026),2,0.0041
+Jurnal Risa by Risa Saraswati (2024),Mata Batin (2017),2,0.0027
+Danur: The Last Chapter (2026),The Doll 3 (2022),2,0.0026
+IVANNA (2022),Perewangan (2024),2,0.0028
+Janur Ireng: Sewu Dino Prequel (2025/2026),Suzzanna: Bernapas dalam Kubur (2018),2,0.0023
+Santet Segoro Pitu (2024),Suzzanna: Bernapas dalam Kubur (2018),2,0.0025
+Mata Batin (2017),Suzzanna: Bernapas dalam Kubur (2018),2,0.0039
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),The Doll 3 (2022),2,0.0029
+Janur Ireng: Sewu Dino Prequel (2025/2026),Mata Batin (2017),2,0.0038
+Ipar Adalah Maut (2024),Jurnal Risa by Risa Saraswati (2024),2,0.002
+Mata Batin (2017),Suzzanna: Santet Dosa di Atas Dosa (2026),1,0.0009
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Siccin 8,1,0.0053
+Siccin 8,Suzzanna: Santet Dosa di Atas Dosa (2026),1,0.001
+Siccin 8,Suzzanna: Bernapas dalam Kubur (2018),1,0.0022
+Mata Batin (2017),Suzzanna: Malam Jumat Kliwon (2023),1,0.0007
+Ipar Adalah Maut (2024),Suzzanna: Bernapas dalam Kubur (2018),1,0.0013
+Ipar Adalah Maut (2024),Mata Batin (2017),1,0.0023
+Ipar Adalah Maut (2024),Santet Segoro Pitu (2024),1,0.0014
+Catatan Harian Menantu Sinting (2024),Mata Batin (2017),1,0.0032
+Catatan Harian Menantu Sinting (2024),Racun Sangga: Santet Pemisah Rumah Tangga (2024),1,0.0025
+Catatan Harian Menantu Sinting (2024),Santet Segoro Pitu (2024),1,0.0017
+Catatan Harian Menantu Sinting (2024),Suzzanna: Bernapas dalam Kubur (2018),1,0.0015
+Danur: The Last Chapter (2026),Mata Batin (2017),1,0.003
+IVANNA (2022),Mata Batin (2017),1,0.0018
+Indigo: What Do You See? (2023),Ipar Adalah Maut (2024),1,0.001
+Mata Batin (2017),Santet Segoro Pitu (2024),1,0.0022
+Ipar Adalah Maut (2024),Racun Sangga: Santet Pemisah Rumah Tangga (2024),1,0.0019
+Badarawuhi di Desa Penari (2024),Catatan Harian Menantu Sinting (2024),1,0.0015
+Badarawuhi di Desa Penari (2024),Perewangan (2024),1,0.0015
+Mata Batin (2017),Racun Sangga: Santet Pemisah Rumah Tangga (2024),1,0.004
+Ipar Adalah Maut (2024),The Doll 3 (2022),1,0.0011
+Janur Ireng: Sewu Dino Prequel (2025/2026),Siccin 8,1,0.0022
+Mata Batin (2017),Perewangan (2024),1,0.003
+Badarawuhi di Desa Penari (2024),Racun Sangga: Santet Pemisah Rumah Tangga (2024),1,0.0017
+Badarawuhi di Desa Penari (2024),Mata Batin (2017),1,0.002
+Siccin 8,Suzzanna: Malam Jumat Kliwon (2023),0,0.0
+Catatan Harian Menantu Sinting (2024),Perewangan (2024),0,0.0
+Badarawuhi di Desa Penari (2024),Ipar Adalah Maut (2024),0,0.0
+Siccin 8,The Doll 3 (2022),0,0.0
+Catatan Harian Menantu Sinting (2024),Siccin 8,0,0.0
+Ipar Adalah Maut (2024),Siccin 8,0,0.0
+Jurnal Risa by Risa Saraswati (2024),Siccin 8,0,0.0
+Badarawuhi di Desa Penari (2024),Siccin 8,0,0.0
+Perewangan (2024),Siccin 8,0,0.0
+IVANNA (2022),Siccin 8,0,0.0
+Santet Segoro Pitu (2024),Siccin 8,0,0.0
+Indigo: What Do You See? (2023),Siccin 8,0,0.0
+Racun Sangga: Santet Pemisah Rumah Tangga (2024),Suzzanna: Bernapas dalam Kubur (2018),0,0.0
+Mata Batin (2017),Siccin 8,0,0.0

@@ -1,0 +1,12 @@
+metrik,jenis,n,rho,CI95_bootstrap,p_exact,rho_parsial_kontrol_tahun_waralaba,p_bonferroni,q_BH
+likes_total,pasca-rilis,10,0.6,"[-0.33, 0.96]",0.072,0.578,0.72,0.72
+comments,pasca-rilis,9,0.417,"[-0.30, 0.95]",0.27,0.104,1.0,0.878
+unique_commenters,pasca-rilis,9,0.417,"[-0.32, 0.95]",0.27,0.104,1.0,0.878
+views_total,pasca-rilis,10,0.333,"[-0.53, 0.88]",0.351,0.37,1.0,0.878
+net_indobert,sentimen,9,0.133,"[-0.67, 0.84]",0.744,-0.059,1.0,1.0
+pos_leksikon_emoji,sentimen,9,0.133,"[-0.67, 0.82]",0.744,-0.001,1.0,1.0
+net_gabungan,sentimen,9,0.067,"[-0.75, 0.79]",0.88,-0.072,1.0,1.0
+net_leksikon_emoji,sentimen,9,0.05,"[-0.79, 0.76]",0.912,0.01,1.0,1.0
+pos_indobert,sentimen,9,0.0,"[-0.76, 0.74]",1.0,-0.115,1.0,1.0
+pos_gabungan,sentimen,9,0.0,"[-0.76, 0.73]",1.0,-0.115,1.0,1.0
+trends_pra_rilis,pra-rilis,9,-0.167,"[-0.89, 0.69]",,-0.304,,

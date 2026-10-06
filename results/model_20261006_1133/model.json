@@ -1,0 +1,21 @@
+{
+  "mode": "ASOSIATIF (fitur total pasca-rilis — BUKAN prediksi; jalankan ./bit precise)",
+  "n": 9,
+  "prediktor": [
+    "likes_total",
+    "unique_commenters"
+  ],
+  "transformasi": "log1p untuk hitungan; target log(penonton)",
+  "validasi": "leave-one-out",
+  "MAPE_model_%": 47.3,
+  "MAPE_model_CI95_%": [
+    18.1,
+    89.0
+  ],
+  "MAPE_baseline_%": 52.0,
+  "MAPE_baseline_CI95_%": [
+    26.0,
+    85.0
+  ],
+  "model_lebih_baik_di_berapa_film": 7
+}

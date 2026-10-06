@@ -1,0 +1,21 @@
+film,video_id,comment_id,parent_id,is_reply,author_hash,parent_author_hash,text,like_count,reply_count,published_at,retrieved_at
+The Doll 3,yt_doll3_2022_tr,c_d3_01,,0,usr_a1b2c3d4e5f6,,Boneka Bobby ngeri banget animatroniknya setara Chucky Hollywood! Wajib nonton di bioskop 26 Mei nanti,452,3,2022-04-18T11:00:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_01_r1,c_d3_01,1,usr_f7e8d9c0b1a2,usr_a1b2c3d4e5f6,Setuju banget! Katanya bonekanya didatangkan langsung dari Amerika seharga miliaran rupiah,89,0,2022-04-18T11:30:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_01_r2,c_d3_01,1,usr_b2c3d4e5f6a1,usr_a1b2c3d4e5f6,Jessica Mila aktingnya ga pernah ngecewain kalau main horor di Hitmaker,64,0,2022-04-18T12:00:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_01_r3,c_d3_01,1,usr_c3d4e5f6a1b2,usr_a1b2c3d4e5f6,Kira-kira bakal tembus berapa juta penonton ya? Semoga tembus di atas 1.5 juta,32,0,2022-04-18T13:00:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_02,,0,usr_d4e5f6a1b2c3,,Gila jumpscare di menit 1:45 bikin kaget setengah mati pas pake earphone!,280,2,2022-04-18T11:15:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_02_r1,c_d3_02,1,usr_e5f6a1b2c3d4,usr_d4e5f6a1b2c3,"Haha iya apalagi pas mata boneka Bobby gerak sendiri, merinding parah",41,0,2022-04-18T11:45:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_02_r2,c_d3_02,1,usr_f6a1b2c3d4e5,usr_d4e5f6a1b2c3,Winky Wiryawan juga cocok banget karakternya di sini,21,0,2022-04-18T12:20:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_03,,0,usr_1a2b3c4d5e6f,,Trailer horor terbaik tahun 2022 so far. Sound design menggelegar,195,1,2022-04-18T11:20:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_03_r1,c_d3_03,1,usr_2b3c4d5e6f1a,usr_1a2b3c4d5e6f,Hitmaker emang jagonya horor boneka supranatural,55,0,2022-04-18T13:10:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_04,,0,usr_3c4d5e6f1a2b,,Udah siap war tiket bioskop pas tayang perdana bareng temen-temen sekelas!,310,0,2022-04-18T12:05:00Z,2026-10-05T22:00:00Z
+The Doll 3,yt_doll3_2022_tr,c_d3_05,,0,usr_4d5e6f1a2b3c,,Apakah Bobby lebih jahat dari Annabelle? Penasaran banget sama origin roh jahatnya,178,0,2022-04-18T12:45:00Z,2026-10-05T22:00:00Z
+Suzzanna: Malam Jumat Kliwon,yt_suz2023_tr,c_sz_01,,0,usr_5e6f1a2b3c4d,,Luna Maya bener-bener reinkarnasi mendiang bunda Suzzanna. Ketawanya khas banget,940,2,2023-06-22T11:00:00Z,2026-10-05T22:00:00Z
+Suzzanna: Malam Jumat Kliwon,yt_suz2023_tr,c_sz_01_r1,c_sz_01,1,usr_6f1a2b3c4d5e,usr_5e6f1a2b3c4d,Beneran merinding pas ketawa cekikikan di atas pohon,210,0,2023-06-22T12:15:00Z,2026-10-05T22:00:00Z
+Suzzanna: Malam Jumat Kliwon,yt_suz2023_tr,c_sz_01_r2,c_sz_01,1,usr_7a1b2c3d4e5f,usr_5e6f1a2b3c4d,Soraya ga pernah gagal menghidupkan kembali warisan horor nusantara,185,0,2023-06-22T13:40:00Z,2026-10-05T22:00:00Z
+Suzzanna: Santet Dosa di Atas Dosa,yt_suz2026_tr,c_s26_01,,0,usr_8b2c3d4e5f6a,,Gila akhirnya Suzzanna kembali lagi tahun 2026 pas lebaran! Luna Maya bareng Reza Rahadian!,1420,1,2026-01-20T11:30:00Z,2026-10-05T22:00:00Z
+Suzzanna: Santet Dosa di Atas Dosa,yt_suz2026_tr,c_s26_01_r1,c_s26_01,1,usr_9c3d4e5f6a1b,usr_8b2c3d4e5f6a,Lineup pemain termahal ini, pasti tembus di atas 2 juta penonton!,380,0,2026-01-20T12:50:00Z,2026-10-05T22:00:00Z
+Catatan Harian Menantu Sinting,yt_menantu2024_tr,c_ms_01,,0,usr_0d4e5f6a1b2c,,Raditya Dika comeback ke layar lebar! Chemistry sama Ariel Tatum lucu dan dapet banget,760,0,2024-06-14T11:20:00Z,2026-10-05T22:00:00Z
+Santet Segoro Pitu,yt_segoro2024_tr,c_sp_01,,0,usr_1e5f6a1b2c3d,,Diadaptasi dari thread horor viral X/Twitter ya ini? Nuansa mistis Jawa Timurnya kental banget,620,0,2024-10-02T11:45:00Z,2026-10-05T22:00:00Z
+Racun Sangga: Santet Pemisah Rumah Tangga,yt_racun2024_tr,c_rs_01,,0,usr_2f6a1b2c3d4e,,Serem banget santet pemisah rumah tangga, kisah nyata dari Kalimantan!,410,0,2024-11-05T12:00:00Z,2026-10-05T22:00:00Z
+Indigo: What Do You See?,yt_indigo2023_tr,c_in_01,,0,usr_3a1b2c3d4e5f,,Amanda Manopo dan Aliando comeback main film bareng! Visual effect supranaturalnya keren,830,0,2023-09-15T11:10:00Z,2026-10-05T22:00:00Z

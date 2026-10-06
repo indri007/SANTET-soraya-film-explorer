@@ -1,0 +1,21 @@
+{
+  "model": "w11wo/indonesian-roberta-base-sentiment-classifier",
+  "model_revision": "ac452dcb0f4966130bba44f4ee0013bb5d52c282",
+  "device": "mps",
+  "n_comments": 9840,
+  "sets": [
+    "hitmaker",
+    "ivanna",
+    "md",
+    "soraya"
+  ],
+  "max_length": 256,
+  "low_confidence_share(<0.6)": 0.122,
+  "overall_agreement_with_lexicon": 0.424,
+  "combined_rule_counts": {
+    "indobert": 9549,
+    "emoji_keyakinan_rendah": 150,
+    "emoji_saja": 141
+  },
+  "created": "2026-10-06T12:13:56"
+}

@@ -1,0 +1,35 @@
+# Python & Virtual Environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Raw Scraped Dumps & PII Protection (UU PDP No. 27/2022)
+yt_*/
+yt_hitmaker/
+yt_ivanna/
+yt_md/
+yt_soraya/
+*.info.json
+
+# Manual Annotation Raw Sample (Privasi Anotator)
+annotation/annotation_sample.csv
+annotation/_model_labels_hidden.csv
+
+# Backups & Logs
+_backup/
+*.log
+*.bak
+*.swp
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Large Model Binaries Checkpoints
+models/indobert-horror/
+*.safetensors
+*.pt
+*.bin

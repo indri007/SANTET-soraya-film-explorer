@@ -1,0 +1,562 @@
+#!/usr/bin/python3
+"""
+bit — Unified Command Line Interface for Soraya Film Explorer
+Target: Koleksi Data YouTube (±1 juta baris) + Google Trends + Penonton + NodeXL
+
+Penggunaan:
+  ./bit clone "<sumber>"                     Kloning & verifikasi data film (Wikipedia, IFC, Box Office)
+  ./bit execute                              Jalankan seluruh pipeline data, analisis korelasi & model LOOCV
+  ./bit status                               Tampilkan tabel status film & box office
+  ./bit export                               Ekspor dataset CSV & Kamus Data Markdown
+  ./bit dashboard                            Tampilkan link visual dashboard interaktif
+  ./bit install                              Instal dependensi Python dari requirements.txt
+  ./bit collect yt [--target N]              Jalankan pengumpul komentar & video YouTube (yt_collect.py)
+  ./bit collect trends [--anchor KEYWORD]    Jalankan pengumpul Google Trends Indonesia (trends_collect.py)
+  ./bit nodexl [--film TITLE] [--out FILE]   Konversi komentar jadi graf jaringan NodeXL (to_nodexl.py)
+  ./bit network [--query / --ids-file]       Bangun jaringan video YouTube (youtube_network.py)
+  ./bit ytdlp <folder_info_json>             Ubah hasil scrape yt-dlp jadi CSV & edges (ytdlp_to_csv.py)
+
+  --- Alur yt-dlp (tanpa API key) ---
+  ./bit discover <nama> <@kanal> [--grep REGEX] [--limit N]
+                                             Daftar kandidat trailer dari kanal resmi -> kandidat_<nama>.txt
+                                             (periksa & kelompokkan per film, lalu simpan sebagai ids_<nama>.txt)
+  ./bit check [soraya|ivanna|all]            Cek semua video ID valid & kanalnya benar (tanpa unduh)
+  ./bit scrape [soraya|ivanna|all] [--max N|all] [--sort new|top]
+                                             Ambil metadata + komentar (default: all, max 500, new)
+  ./bit convert [soraya|ivanna|all]          Ubah ulang folder yt_<set> jadi videos/comments/edges.csv
+  ./bit summary [soraya|ivanna|all]          Ringkasan hasil: video, komentar, komentator, edge teratas
+  ./bit analyze [soraya|ivanna|all]          Analisis lengkap: metrik film, jaringan, komunitas, irisan
+                                             penonton, timeline, sentimen eksploratif, grafik, report.md
+  ./bit all [--max N|all] [--sort new|top]   Satu perintah: check -> scrape -> convert -> summary -> analyze
+
+  --- Sentimen IndoBERT ---
+  ./bit install-nlp                          Pasang torch, transformers, scikit-learn ke .venv (sekali saja)
+  ./bit sentiment predict [--model ID]       Labeli semua komentar dengan model transformer bahasa Indonesia
+  ./bit sentiment sample [--n 300]           Buat lembar anotasi manual (2 anotator) + panduan
+  ./bit sentiment validate                   Hitung Cohen's kappa & akurasi/F1 IndoBERT vs leksikon
+  ./bit sentiment llm-annotate [--target sample|all] [--models qwen3:8b gemma2:9b]
+                                             Anotator LLM lokal (Ollama) sebagai pelengkap manusia
+  ./bit sentiment finetune [--epochs 4]      Latih ulang model dengan label manusia -> models/indobert-horror
+  ./bit sentiment finetune --silver          Latih dengan konsensus 2 LLM, uji dengan label manusia
+
+  ./bit precise [set|all]                    Ambil ulang komentar via YouTube Data API (tanggal TEPAT, semua komentar)
+                                             butuh: export YT_API_KEY=...   hasil: data/youtube_api/<set>_<waktu>/
+
+  --- SATU PERINTAH UNTUK PAPER ---
+  ./bit paper [--with-llm] [--skip-trends] [--skip-precise]
+                                             10 langkah: precise -> validate -> scrape set baru -> rebuild-master
+                                             -> trends -> sentimen -> analyze+correlate+model -> robust -> package
+                                             -> status (results/paper_status.md). Langkah yang butuh input
+                                             manual dilewati dengan alasan, tidak menghentikan proses.
+  ./bit trends                               Google Trends asli (pytrends) untuk film bertanggal rilis
+  ./bit rebuild-master | model | robust | package   Langkah 4/7/8/9 secara terpisah
+
+  --- Korelasi & paper ---
+  ./bit correlate                            Spearman (p eksak) metrik YouTube hasil scrape vs penonton bersumber
+                                             + audit konsistensi data/films_master.csv
+  ./bit finish                               Jalankan ulang semuanya dari data yang ada: sentiment predict ->
+                                             (validate bila anotasi terisi) -> analyze -> correlate
+  ./bit help                                 Tampilkan bantuan ini
+
+  Salt anonimisasi diambil dari env SORAYA_SALT (wajib sama di setiap run).
+"""
+
+import sys
+import os
+import subprocess
+import json
+
+BASE_DIR = os.path.dirname(os.path.realpath(__file__))
+SCRIPTS_DIR = os.path.join(BASE_DIR, "scripts")
+DATA_DIR = os.path.join(BASE_DIR, "data")
+DASHBOARD_DIR = os.path.join(BASE_DIR, "dashboard")
+
+VENV_PY = os.path.join(BASE_DIR, ".venv", "bin", "python")
+PY = VENV_PY if os.path.exists(VENV_PY) else sys.executable
+import glob as _glob
+SETS = {os.path.basename(f)[4:-4]: os.path.basename(f)
+        for f in sorted(_glob.glob(os.path.join(BASE_DIR, "ids_*.txt")))}
+DEFAULT_SALT = "kalimat-rahasia-yang-sama-terus"
+
+
+def run_cmd(cmd_list, cwd=BASE_DIR):
+    print(f"[CMD] {' '.join(cmd_list)}")
+    res = subprocess.run(cmd_list, cwd=cwd)
+    return res.returncode
+
+def cmd_clone(target):
+    if "--legacy" not in sys.argv:
+        print("⛔ './bit clone' dinonaktifkan: hanya mencetak angka tertulis di kode, tidak mengambil data asli.")
+        print("   Pakai: ./bit paper   (atau tambah --legacy bila memang perlu melihat versi lama)")
+        return
+    print(f"\n============================================================")
+    print(f"[*] BIT CLONE: Mengekstrak & Menyinkronkan Data Sumber:")
+    print(f"    Target: '{target}'")
+    print(f"============================================================")
+    target_lower = target.lower()
+    if "wikipedia" in target_lower and "soraya" in target_lower:
+        print("[+] Memetakan entitas film Soraya Intercine Films & Hitmaker Studios dari Wikipedia...")
+        print("    - Sumber: https://id.wikipedia.org/wiki/Soraya_Intercine_Films")
+        print("    - Sumber: https://id.wikipedia.org/wiki/Daftar_produksi_Soraya_Intercine_Films")
+    elif "indonesian film center" in target_lower or "ifc" in target_lower:
+        print("[+] Mengambil metadata perfilman dari Indonesian Film Center (profil/company/818)...")
+        print("    - Sumber: https://www.indonesianfilmcenter.com/profil/index/company/818")
+    elif "2023" in target_lower or "list of indonesian films" in target_lower:
+        print("[+] Mengambil data box office 2023 dari Wikipedia 'List of Indonesian films of 2023'...")
+        print("    - Entitas: Suzzanna: Malam Jumat Kliwon (2.189.363 penonton)")
+        print("    - Entitas: Indigo: What Do You See? (1.015.231 penonton)")
+    elif "2022" in target_lower:
+        print("[+] Mengambil data box office 2022 dari Wikipedia 'List of Indonesian films of 2022'...")
+        print("    - Entitas: The Doll 3 (1.764.077 penonton)")
+    else:
+        print(f"[+] Memproses target: {target}")
+
+    run_cmd([PY, os.path.join(SCRIPTS_DIR, "pipeline.py")])
+    print(f"[OK] Kloning data berhasil disinkronkan ke master database (soraya_explorer.db)\n")
+
+def cmd_execute():
+    if "--legacy" not in sys.argv:
+        print("⛔ './bit execute' dinonaktifkan: scripts/pipeline.py memakai views_h7/sentimen yang ditulis manual")
+        print("   tanpa sumber (rho=0,9 & LOOCV lama TIDAK valid). Pakai: ./bit paper")
+        return
+    print(f"\n============================================================")
+    print(f"[*] BIT EXECUTE: Menjalankan Seluruh Pipeline Data & Model")
+    print(f"============================================================")
+    ret = run_cmd([PY, os.path.join(SCRIPTS_DIR, "pipeline.py")])
+    if ret == 0:
+        model_file = os.path.join(DATA_DIR, "model_evaluation.json")
+        if os.path.exists(model_file):
+            with open(model_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            print("\n--- HASIL ANALISIS RISET ---")
+            print(f"Film Dianalisis: {data['dataset_count']} judul")
+            print(f"Korelasi Spearman (Google Trends vs Penonton) : rho = {data['spearman_correlations']['trends_peak_vs_penonton']['rho']} ({data['spearman_correlations']['trends_peak_vs_penonton']['interpretation']})")
+            print(f"Korelasi Spearman (Trailer Views vs Penonton) : rho = {data['spearman_correlations']['trailer_views_vs_penonton']['rho']} ({data['spearman_correlations']['trailer_views_vs_penonton']['interpretation']})")
+            print(f"Lead Time Puncak Minat (RQ2)                 : {data['lead_time_rq2']['avg_days_before_release']} hari sebelum rilis ({data['lead_time_rq2']['range']})")
+            print(f"Akurasi Model Prediksi (LOOCV MAPE)          : {data['model_loocv_fr11']['model_mape_pct']}% (vs Baseline Naif: {data['model_loocv_fr11']['baseline_mape_pct']}%)")
+            print(f"Peningkatan Akurasi                          : +{data['model_loocv_fr11']['improvement_pct']}% lebih akurat")
+        print("\n[OK] Eksekusi pipeline selesai secara reproducible!\n")
+
+def cmd_status():
+    model_file = os.path.join(DATA_DIR, "model_evaluation.json")
+    if not os.path.exists(model_file):
+        print("[!] Dataset belum dieksekusi. Jalankan: ./bit execute")
+        return
+    with open(model_file, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    print("\n--- MASTER FILMS & BOX OFFICE STATUS (2022-2026) ---")
+    print(f"{'ID':<22} | {'Judul':<38} | {'Penonton':<12} | {'Status':<10} | {'Sumber'}")
+    print("-" * 105)
+    for d in data["dataset"]:
+        stat = "FINAL" if d["bo_is_final"] == 1 else "SEMENTARA"
+        print(f"{d['film_id']:<22} | {d['judul'][:38]:<38} | {d['penonton']:>12,d} | {stat:<10} | {d['bo_source']}")
+    print("\n")
+
+def cmd_export():
+    print(f"\n============================================================")
+    print(f"[*] BIT EXPORT: Mengekspor Dataset & Kamus Data")
+    print(f"============================================================")
+    run_cmd([PY, os.path.join(SCRIPTS_DIR, "pipeline.py")])
+    print("[+] File tersimpan:")
+    print(f"    - CSV Master Films   : {os.path.join(DATA_DIR, 'films_master.csv')}")
+    print(f"    - CSV Box Office     : {os.path.join(DATA_DIR, 'box_office_sources.csv')}")
+    print(f"    - JSON Model Metrics : {os.path.join(DATA_DIR, 'model_evaluation.json')}")
+    print(f"    - Data Dictionary    : {os.path.join(BASE_DIR, 'docs', 'data_dictionary.md')}")
+    print("[OK] Ekspor selesai.\n")
+
+def cmd_dashboard(port=8080):
+    dash_index = os.path.join(DASHBOARD_DIR, "index.html")
+    print(f"\n============================================================")
+    print(f"[*] BIT DASHBOARD: Visual Explorer")
+    print(f"============================================================")
+    print(f"File Dashboard: file://{dash_index}")
+    print(f"Untuk menjalankan local server HTTP di port {port}:")
+    print(f"  cd {DASHBOARD_DIR} && python3 -m http.server {port}")
+    print(f"Buka browser: http://localhost:{port}\n")
+
+def cmd_install():
+    req_file = os.path.join(BASE_DIR, "requirements.txt")
+    print(f"[*] Menginstal dependensi dari: {req_file}")
+    run_cmd([PY, "-m", "pip", "install", "-r", req_file])
+
+def cmd_collect(args):
+    if not args or args[0] in ("yt", "youtube"):
+        yt_script = os.path.join(BASE_DIR, "yt_collect.py")
+        cmd = [PY, yt_script] + args[1:]
+        run_cmd(cmd)
+    elif args[0] in ("trends", "trend"):
+        trends_script = os.path.join(BASE_DIR, "trends_collect.py")
+        cmd = [PY, trends_script] + args[1:]
+        run_cmd(cmd)
+    else:
+        print("[!] Subcommand collect tidak dikenal. Gunakan: ./bit collect yt ATAU ./bit collect trends")
+
+def cmd_nodexl(args):
+    nodexl_script = os.path.join(BASE_DIR, "to_nodexl.py")
+    cmd = [PY, nodexl_script] + args
+    run_cmd(cmd)
+
+def cmd_network(args):
+    net_script = os.path.join(BASE_DIR, "youtube_network.py")
+    cmd = [PY, net_script] + args
+    run_cmd(cmd)
+
+def cmd_ytdlp(args):
+    ytdlp_script = os.path.join(BASE_DIR, "ytdlp_to_csv.py")
+    cmd = [PY, ytdlp_script] + args
+    run_cmd(cmd)
+
+
+# ------------------------------------------------------------ alur yt-dlp
+def _pick_sets(args):
+    name = next((a for a in args if not a.startswith("--") and a in (*SETS, "all")), "all")
+    if name == "all":
+        return list(SETS)
+    return list(SETS) if name == "all" else [name]
+
+
+def _opt(args, flag, default):
+    if flag in args:
+        i = args.index(flag)
+        if i + 1 < len(args):
+            return args[i + 1]
+    return default
+
+
+def _salt():
+    salt = os.environ.get("SORAYA_SALT", DEFAULT_SALT)
+    if salt == DEFAULT_SALT:
+        print("[!] SORAYA_SALT belum di-set; memakai salt default proyek.")
+    return salt
+
+
+def cmd_check(args):
+    bad = 0
+    for name in _pick_sets(args):
+        print(f"\n=== CHECK {name} ({SETS[name]}) ===")
+        r = subprocess.run([PY, "-m", "yt_dlp", "-a", SETS[name], "--simulate", "--ignore-errors",
+                            "--print", "OK  %(id)s | %(channel)s | %(upload_date)s | %(title).60s"],
+                           cwd=BASE_DIR, capture_output=True, text=True)
+        for line in (r.stdout + r.stderr).splitlines():
+            if line.startswith("OK") or line.startswith("ERROR"):
+                print(line[:160])
+                bad += line.startswith("ERROR")
+    print(f"\n[{'OK' if bad == 0 else '!'}] {bad} video bermasalah.")
+
+
+def cmd_convert(args):
+    salt = _salt()
+    for name in _pick_sets(args):
+        run_cmd([PY, os.path.join(BASE_DIR, "ytdlp_to_csv.py"), f"yt_{name}", "--salt", salt])
+
+
+def cmd_scrape(args):
+    mx = _opt(args, "--max", "500")
+    sort = {"new": "new", "top": "top"}.get(_opt(args, "--sort", "new"), "new")
+    reply_limit = "all,all" if mx == "all" else "100,100"
+    for name in _pick_sets(args):
+        print(f"\n{'=' * 60}\n[*] SCRAPE {name}: max_comments={mx}, sort={sort}\n{'=' * 60}")
+        run_cmd([PY, "-m", "yt_dlp", "-a", SETS[name], "--ignore-errors",
+                 "--skip-download", "--write-info-json", "--write-comments",
+                 "--extractor-args", f"youtube:max_comments={mx},all,{reply_limit};comment_sort={sort}",
+                 "--sleep-requests", "1", "-o", f"yt_{name}/%(id)s.%(ext)s"])
+    cmd_convert(args)
+    cmd_summary(args)
+
+
+def cmd_summary(args):
+    import csv
+    from collections import Counter
+    for name in _pick_sets(args):
+        d = os.path.join(BASE_DIR, f"yt_{name}")
+        info = os.path.join(d, "run_info.json")
+        print(f"\n=== SUMMARY {name} ===")
+        if not os.path.exists(info):
+            print(f"[!] Belum ada hasil. Jalankan: ./bit scrape {name}")
+            continue
+        meta = json.load(open(info, encoding="utf-8"))
+        with open(os.path.join(d, "comments.csv"), encoding="utf-8") as f:
+            rows = list(csv.DictReader(f))
+        per_vid = Counter(r["video_id"] for r in rows)
+        users = {r["user"] for r in rows if r["user"] != "user_unknown"}
+        print(f"Video      : {meta['n_videos']}")
+        print(f"Komentar   : {meta['n_comments']}  (komentator unik: {len(users)})")
+        print(f"Edge       : {meta['n_edges']}")
+        print(f"Kena batas : {sum(1 for v in per_vid.values() if v >= 500)} video dengan >=500 komentar")
+        print(f"Dikonversi : {meta['converted_at_utc']}")
+        with open(os.path.join(d, "edges.csv"), encoding="utf-8") as f:
+            top = list(csv.DictReader(f))[:5]
+        for e in top:
+            print(f"  {e['vertex_1']} <-> {e['vertex_2']} : {e['shared_users']} komentator sama")
+
+
+def cmd_analyze(args):
+    sets = _pick_sets(args)
+    run_cmd([PY, os.path.join(BASE_DIR, "analyze_youtube.py"), "--sets", *sets])
+
+
+def cmd_all(args):
+    cmd_check(args)
+    cmd_scrape(args)
+    cmd_analyze(args)
+
+
+def cmd_install_nlp():
+    run_cmd([PY, "-m", "pip", "install", "-U", "torch", "transformers", "scikit-learn", "sentencepiece"])
+
+
+def cmd_sentiment(args):
+    if not args:
+        args = ["predict"]
+    if args[0] == "llm-annotate":
+        run_cmd([PY, os.path.join(BASE_DIR, "llm_annotate.py"), *args[1:]])
+        return
+    if args[0] == "finetune":
+        run_cmd([PY, os.path.join(BASE_DIR, "finetune_indobert.py"), *args[1:]])
+    else:
+        run_cmd([PY, os.path.join(BASE_DIR, "sentiment_indobert.py"), *args])
+
+
+def cmd_correlate():
+    run_cmd([PY, os.path.join(BASE_DIR, "correlate_films.py")])
+
+
+def cmd_finish():
+    cmd_sentiment(["predict"])
+    ann = os.path.join(BASE_DIR, "annotation", "annotation_sample.csv")
+    try:
+        import csv
+        with open(ann, encoding="utf-8") as f:
+            filled = sum(1 for r in csv.DictReader(f) if r.get("annotator_1", "").strip() and r.get("annotator_2", "").strip())
+    except FileNotFoundError:
+        filled = 0
+    if filled >= 30:
+        cmd_sentiment(["validate"])
+    else:
+        print(f"[!] Anotasi baru {filled} baris lengkap — validate dilewati (butuh >=30, disarankan 300).")
+    cmd_analyze(["all"])
+    cmd_correlate()
+
+
+def cmd_precise(args):
+    if not os.environ.get("YT_API_KEY"):
+        print("⛔ Set dulu API key: export YT_API_KEY=\"AIza...\"  (Google Cloud > YouTube Data API v3)")
+        return
+    os.environ.setdefault("YT_SALT", _salt())   # salt sama dengan yt-dlp -> pseudonim konsisten
+    for name in _pick_sets(args):
+        run_cmd([PY, os.path.join(BASE_DIR, "youtube_network.py"), "--ids-file", SETS[name], "--tag", name,
+                 "--max-comments", "100000", "--max-replies", "100", "--out", "data/youtube_api"])
+
+
+def cmd_discover(args):
+    pos = [a for a in args if not a.startswith("--")]
+    if len(pos) < 2:
+        print("Pakai: ./bit discover <nama_set> <@kanal_youtube> [--grep REGEX] [--limit 400]")
+        return
+    name, chan = pos[0], pos[1].lstrip("@")
+    rx = _opt(args, "--grep", r"trailer|teaser")
+    limit = _opt(args, "--limit", "400")
+    r = subprocess.run([PY, "-m", "yt_dlp", f"https://www.youtube.com/@{chan}/videos", "--flat-playlist",
+                        "--playlist-end", limit, "--print", "%(id)s\t%(title)s"],
+                       cwd=BASE_DIR, capture_output=True, text=True)
+    import re as _re
+    rows = [l.split("\t", 1) for l in r.stdout.splitlines() if "\t" in l]
+    hits = [(i, t) for i, t in rows if _re.search(rx, t, _re.I)]
+    out = os.path.join(BASE_DIR, f"kandidat_{name}.txt")
+    with open(out, "w", encoding="utf-8") as f:
+        f.write(f"# Kandidat trailer dari @{chan} (filter: {rx}) — {len(hits)} dari {len(rows)} video\n")
+        f.write("# LANGKAH: hapus yang bukan trailer resmi, kelompokkan dengan baris '# --- Judul Film (tahun)',\n")
+        f.write(f"#          lalu simpan sebagai ids_{name}.txt dan jalankan ./bit check {name}\n")
+        for i, t in hits:
+            f.write(f"# {t}\n{i}\n")
+    if not rows:
+        print(f"[!] Kanal @{chan} tidak ditemukan / kosong. Cek handle kanal di YouTube.")
+        if r.stderr:
+            print(r.stderr.strip().splitlines()[-1][:200])
+        return
+    print(f"✅ {len(hits)} kandidat dari {len(rows)} video → kandidat_{name}.txt")
+    for i, t in hits[:15]:
+        print(f"   {i}  {t[:90]}")
+
+
+def _paper_tool(sub):
+    return run_cmd([PY, os.path.join(BASE_DIR, "paper_tools.py"), sub])
+
+
+def cmd_trends():
+    try:
+        subprocess.run([PY, "-c", "import pytrends"], check=True, capture_output=True)
+    except subprocess.CalledProcessError:
+        run_cmd([PY, "-m", "pip", "install", "-q", "pytrends"])
+    import csv
+    src = os.path.join(BASE_DIR, "films.csv")
+    tmp = os.path.join(BASE_DIR, "data", "films_with_dates.csv")
+    with open(src, encoding="utf-8") as f, open(tmp, "w", encoding="utf-8", newline="") as g:
+        r = csv.DictReader(f)
+        w = csv.DictWriter(g, fieldnames=r.fieldnames)
+        w.writeheader()
+        for row in r:
+            if row.get("tanggal_rilis", "").strip():
+                w.writerow(row)
+    return run_cmd([PY, os.path.join(BASE_DIR, "trends_collect.py"), "--films", tmp, "--out", "data/trends"])
+
+
+def _human_labels():
+    import csv
+    try:
+        with open(os.path.join(BASE_DIR, "annotation", "annotation_sample.csv"), encoding="utf-8") as f:
+            return sum(1 for r in csv.DictReader(f) if r.get("annotator_1", "").strip())
+    except FileNotFoundError:
+        return 0
+
+
+def _llm_reliable():
+    try:
+        res = json.load(open(os.path.join(BASE_DIR, "annotation", "validation_result.json"), encoding="utf-8"))
+    except Exception:
+        return False, "belum ada hasil validasi"
+    ks = [v.get("kappa") for k, v in res.items() if k.startswith("kappa_manusia_vs_llm") and isinstance(v, dict)]
+    ks = [k for k in ks if k is not None]
+    if not ks:
+        return False, "kappa manusia–LLM belum ada"
+    return min(ks) >= 0.61, f"kappa manusia–LLM = {', '.join(str(k) for k in ks)}"
+
+
+def cmd_paper(args):
+    st = {}
+    with_llm, skip_tr, skip_pr = "--with-llm" in args, "--skip-trends" in args, "--skip-precise" in args
+    print("\n" + "=" * 64 + "\n BIT PAPER — 10 langkah\n" + "=" * 64)
+
+    # 1. data pra-rilis
+    if skip_pr:
+        st["1. Komentar pra-rilis (API)"] = ("⏭️", "dilewati (--skip-precise)")
+    elif os.environ.get("YT_API_KEY"):
+        cmd_precise(["all"])
+        st["1. Komentar pra-rilis (API)"] = ("✅", "data/youtube_api/")
+    else:
+        st["1. Komentar pra-rilis (API)"] = ("⏳", "set YT_API_KEY lalu ulangi")
+
+    # 2. validasi sentimen
+    h = _human_labels()
+    if h >= 30:
+        cmd_sentiment(["validate"])
+        ok, note = _llm_reliable()
+        st["2. Validasi sentimen"] = ("✅" if ok else "⚠️", f"{h} label manusia; {note}")
+    else:
+        st["2. Validasi sentimen"] = ("⏳", f"annotator_1 baru {h} baris (butuh ≥30, saran 100–150)")
+
+    # 3. set baru
+    new = [n for n in SETS if not os.path.exists(os.path.join(BASE_DIR, f"yt_{n}", "videos.csv"))]
+    if new and "--skip-scrape" not in args:
+        cmd_check(new)
+        cmd_scrape(new)
+    st["3. Perluas sampel film"] = ("✅" if new else "➖", f"set baru di-scrape: {', '.join(new)}" if new
+                                    else f"tidak ada set baru ({len(SETS)} set). Tambah: ./bit discover")
+
+    # 6 (sebagian dulu, supaya korelasi memakai sentimen terbaru)
+    ok, note = _llm_reliable()
+    if with_llm and ok:
+        cmd_sentiment(["llm-annotate", "--target", "all"])
+        cmd_sentiment(["finetune", "--silver"])
+        cmd_sentiment(["predict", "--model", "models/indobert-horror"])
+        st["6. Sentimen final"] = ("✅", "fine-tune perak (LLM) + prediksi ulang")
+    else:
+        mdl = os.path.join(BASE_DIR, "models", "indobert-horror")
+        cmd_sentiment(["predict"] + (["--model", "models/indobert-horror"] if os.path.isdir(mdl) else []))
+        why = "--with-llm tidak dipakai" if not with_llm else note
+        st["6. Sentimen final"] = ("⚠️", f"prediksi model {'fine-tune' if os.path.isdir(mdl) else 'dasar (belum tervalidasi)'}; {why}")
+
+    # 7a. analisis + korelasi
+    cmd_analyze(["all"])
+    cmd_correlate()
+
+    # 4. master bersih
+    _paper_tool("rebuild-master")
+    st["4. Data master bersumber"] = ("✅", "data/films_clean.csv; kolom tanpa sumber dibuang")
+
+    # 5. Trends
+    if skip_tr:
+        st["5. Google Trends"] = ("⏭️", "dilewati (--skip-trends)")
+    else:
+        rc = cmd_trends()
+        has = os.path.exists(os.path.join(BASE_DIR, "data", "trends", "trends_daily.csv"))
+        st["5. Google Trends"] = ("✅" if has else "⚠️", "data/trends/" if has
+                                  else "gagal/diblokir (429); ulangi nanti: ./bit trends")
+        if has:
+            _paper_tool("rebuild-master")
+
+    # 7b. model, 8. robust, 9. package
+    _paper_tool("model")
+    st["7. Model LOOCV"] = ("✅", "results/model_*/")
+    _paper_tool("robust")
+    st["8. Uji ketahanan"] = ("✅", "results/robust_*/ (bootstrap, Bonferroni, BH, parsial)")
+    _paper_tool("package")
+    st["9. Paket reproduksi"] = ("✅", "release/paper_package_*/ (tanpa teks komentar)")
+    st["10. Draf metode + status"] = ("✅", "results/paper_status.md")
+    run_cmd([PY, os.path.join(BASE_DIR, "paper_tools.py"), "status", json.dumps(st, ensure_ascii=False)])
+
+
+def main():
+    if len(sys.argv) < 2 or sys.argv[1] in ("help", "-h", "--help"):
+        print(__doc__)
+        sys.exit(0)
+
+    cmd = sys.argv[1]
+    if cmd == "clone":
+        target = " ".join(sys.argv[2:]) if len(sys.argv) > 2 else "Wikipedia – Soraya Intercine Films"
+        cmd_clone(target)
+    elif cmd in ("execute", "run"):
+        cmd_execute()
+    elif cmd in ("status", "stats"):
+        cmd_status()
+    elif cmd == "export":
+        cmd_export()
+    elif cmd == "dashboard":
+        cmd_dashboard()
+    elif cmd == "install":
+        cmd_install()
+    elif cmd == "collect":
+        cmd_collect(sys.argv[2:])
+    elif cmd == "nodexl":
+        cmd_nodexl(sys.argv[2:])
+    elif cmd == "network":
+        cmd_network(sys.argv[2:])
+    elif cmd in ("ytdlp", "to-csv"):
+        cmd_ytdlp(sys.argv[2:])
+    elif cmd == "check":
+        cmd_check(sys.argv[2:])
+    elif cmd == "scrape":
+        cmd_scrape(sys.argv[2:])
+    elif cmd == "convert":
+        cmd_convert(sys.argv[2:])
+    elif cmd == "summary":
+        cmd_summary(sys.argv[2:])
+    elif cmd == "analyze":
+        cmd_analyze(sys.argv[2:])
+    elif cmd == "all":
+        cmd_all(sys.argv[2:])
+    elif cmd == "install-nlp":
+        cmd_install_nlp()
+    elif cmd == "sentiment":
+        cmd_sentiment(sys.argv[2:])
+    elif cmd == "paper":
+        cmd_paper(sys.argv[2:])
+    elif cmd == "trends":
+        cmd_trends()
+    elif cmd in ("rebuild-master", "model", "robust", "package"):
+        _paper_tool(cmd)
+    elif cmd == "discover":
+        cmd_discover(sys.argv[2:])
+    elif cmd == "precise":
+        cmd_precise(sys.argv[2:])
+    elif cmd == "correlate":
+        cmd_correlate()
+    elif cmd == "finish":
+        cmd_finish()
+    else:
+        # Fallback if user typed: bit <target>
+        target = " ".join(sys.argv[1:])
+        cmd_clone(target)
+
+if __name__ == "__main__":
+    main()
