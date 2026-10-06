@@ -1,0 +1,8 @@
+﻿metric,value
+rows,1000
+duplicate_text,0
+empty_text,0
+unique_users,992
+rating_distribution,"{'1': 481, '2': 156, '5': 147, '3': 134, '4': 82}"
+target,10000
+target_reached,False

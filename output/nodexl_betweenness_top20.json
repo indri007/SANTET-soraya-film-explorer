@@ -1,0 +1,166 @@
+{
+  "metric": "Betweenness Centrality (NodeXL Brandes Algorithm)",
+  "total_network_actors": 50,
+  "top_20": [
+    {
+      "rank": 1,
+      "username": "smtown",
+      "betweenness_centrality": 0.02008,
+      "degree_connections": 49,
+      "followers": 8800000.0,
+      "bit": "01110011 01101101 01110100 01101111 01110111 01101110"
+    },
+    {
+      "rank": 2,
+      "username": "dalang.pelo",
+      "betweenness_centrality": 0.02008,
+      "degree_connections": 49,
+      "followers": 3700000.0,
+      "bit": "01100100 01100001 01101100 01100001 01101110 01100111 00101110 01110000 01100101 01101100 01101111"
+    },
+    {
+      "rank": 3,
+      "username": "iqbaal.e",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 10600000.0,
+      "bit": "01101001 01110001 01100010 01100001 01100001 01101100 00101110 01100101"
+    },
+    {
+      "rank": 4,
+      "username": "nianaguerrero",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 9600000.0,
+      "bit": "01101110 01101001 01100001 01101110 01100001 01100111 01110101 01100101 01110010 01110010 01100101 01110010 01101111"
+    },
+    {
+      "rank": 5,
+      "username": "attahalilintar",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 13900000.0,
+      "bit": "01100001 01110100 01110100 01100001 01101000 01100001 01101100 01101001 01101100 01101001 01101110 01110100 01100001 01110010"
+    },
+    {
+      "rank": 6,
+      "username": "manurios",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 5100000.0,
+      "bit": "01101101 01100001 01101110 01110101 01110010 01101001 01101111 01110011"
+    },
+    {
+      "rank": 7,
+      "username": "natashawilona12",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 27100000.0,
+      "bit": "01101110 01100001 01110100 01100001 01110011 01101000 01100001 01110111 01101001 01101100 01101111 01101110 01100001 00110001 00110010"
+    },
+    {
+      "rank": 8,
+      "username": "rachelvennya",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 4900000.0,
+      "bit": "01110010 01100001 01100011 01101000 01100101 01101100 01110110 01100101 01101110 01101110 01111001 01100001"
+    },
+    {
+      "rank": 9,
+      "username": "jeromepolin",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 2800000.0,
+      "bit": "01101010 01100101 01110010 01101111 01101101 01100101 01110000 01101111 01101100 01101001 01101110"
+    },
+    {
+      "rank": 10,
+      "username": "jharnabhagwani",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 3300000.0,
+      "bit": "01101010 01101000 01100001 01110010 01101110 01100001 01100010 01101000 01100001 01100111 01110111 01100001 01101110 01101001"
+    },
+    {
+      "rank": 11,
+      "username": "syifahadjureal",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 9200000.0,
+      "bit": "01110011 01111001 01101001 01100110 01100001 01101000 01100001 01100100 01101010 01110101 01110010 01100101 01100001 01101100"
+    },
+    {
+      "rank": 12,
+      "username": "bintangemon",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 3300000.0,
+      "bit": "01100010 01101001 01101110 01110100 01100001 01101110 01100111 01100101 01101101 01101111 01101110"
+    },
+    {
+      "rank": 13,
+      "username": "saaihalilintar",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 5300000.0,
+      "bit": "01110011 01100001 01100001 01101001 01101000 01100001 01101100 01101001 01101100 01101001 01101110 01110100 01100001 01110010"
+    },
+    {
+      "rank": 14,
+      "username": "nashwaaaz",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 1900000.0,
+      "bit": "01101110 01100001 01110011 01101000 01110111 01100001 01100001 01100001 01111010"
+    },
+    {
+      "rank": 15,
+      "username": "fiersabesari",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 3200000.0,
+      "bit": "01100110 01101001 01100101 01110010 01110011 01100001 01100010 01100101 01110011 01100001 01110010 01101001"
+    },
+    {
+      "rank": 16,
+      "username": "brianimanuel",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 3400000.0,
+      "bit": "01100010 01110010 01101001 01100001 01101110 01101001 01101101 01100001 01101110 01110101 01100101 01101100"
+    },
+    {
+      "rank": 17,
+      "username": "bramastavrl",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 18100000.0,
+      "bit": "01100010 01110010 01100001 01101101 01100001 01110011 01110100 01100001 01110110 01110010 01101100"
+    },
+    {
+      "rank": 18,
+      "username": "jessica.syj",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 9300000.0,
+      "bit": "01101010 01100101 01110011 01110011 01101001 01100011 01100001 00101110 01110011 01111001 01101010"
+    },
+    {
+      "rank": 19,
+      "username": "alfysaga",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 5000000.0,
+      "bit": "01100001 01101100 01100110 01111001 01110011 01100001 01100111 01100001"
+    },
+    {
+      "rank": 20,
+      "username": "misellia_",
+      "betweenness_centrality": 0.0001,
+      "degree_connections": 48,
+      "followers": 2100000.0,
+      "bit": "01101101 01101001 01110011 01100101 01101100 01101100 01101001 01100001 01011111"
+    }
+  ]
+}

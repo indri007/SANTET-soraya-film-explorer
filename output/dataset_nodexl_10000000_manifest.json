@@ -1,0 +1,61 @@
+{
+  "dataset_name": "NODEXL_INDONESIA_MULTIMODAL_10000000",
+  "total_records": 10000000,
+  "time_span": "2020-2026",
+  "formats_supported": [
+    "reel",
+    "story",
+    "like",
+    "share",
+    "komen",
+    "live"
+  ],
+  "schema_nodexl": {
+    "vertex_1": "Source Account / Creator UserID",
+    "vertex_2": "Target Entity / Hashtag / Co-Actor",
+    "format_modality": "Content Format (reel, story, feed, live)",
+    "interaction_type": "Action (like, comment, share, save, view)",
+    "weight": "Interaction Intensity (Numeric Value)",
+    "relationship_date": "Timestamp (ISO 8601)",
+    "year": "2020 - 2026",
+    "sentiment": "positive / neutral / negative",
+    "topic": "Content Domain (General, Tech, Culinary, Fashion, etc.)"
+  },
+  "interaction_breakdown": {
+    "reel": {
+      "volume": 4200000,
+      "percentage": "42.0%",
+      "metrics": "plays, watch_time, loops, reel_likes, reel_shares"
+    },
+    "story": {
+      "volume": 2800000,
+      "percentage": "28.0%",
+      "metrics": "story_replies, tap_forward, tap_back, exit_rate"
+    },
+    "like": {
+      "volume": 1400000,
+      "percentage": "14.0%",
+      "metrics": "feed_likes, carousel_likes, reaction_velocity"
+    },
+    "komen": {
+      "volume": 800000,
+      "percentage": "8.0%",
+      "metrics": "top_level_comments, sub_replies, sentiment_score"
+    },
+    "share": {
+      "volume": 600000,
+      "percentage": "6.0%",
+      "metrics": "dm_shares, external_link_shares, story_reposts"
+    },
+    "live": {
+      "volume": 200000,
+      "percentage": "2.0%",
+      "metrics": "peak_concurrent_viewers, live_reactions, live_duration"
+    }
+  },
+  "storage_architecture": {
+    "generator_script": "generate_nodexl_10m.py",
+    "partitioning": "10 chunks x 1,000,000 edges (.csv.gz or parquet)",
+    "git_compliance": "Guaranteed < 100MB per file to comply with GitHub push limits"
+  }
+}

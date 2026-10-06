@@ -1,0 +1,2 @@
+﻿file,rows,columns,size_mb,text_fields,username_fields,instagram_fields,column_names
+data/Review Instagram.csv,1000,3,0.26,Review Text,UserName,UserName,"UserName, Review Text, Rating"

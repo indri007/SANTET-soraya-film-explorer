@@ -1,0 +1,2 @@
+﻿horizon,forecast_status,historical_period,training_period,validation_period,primary_architecture,mae,rmse,mape,limitations
+2027-Q4,INSUFFICIENT_TEMPORAL_DATA,None (Timestamps absent in raw review export),None (Awaiting longitudinal ingestion),None,SARIMAX + Prophet + TFT,,,,"The current 1,000-record dataset is a cross-sectional snapshot of app reviews. Per research integrity guidelines, synthetic temporal points are not created."

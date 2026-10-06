@@ -1,0 +1,64 @@
+{
+  "model_architecture": "IndoBERT (indobenchmark/indobert-base-p1) + 9-Emotion Affective Head",
+  "total_analyzed_reviews": 1000,
+  "emotion_categories": 9,
+  "emotion_distribution": [
+    {
+      "emotion": "anticipation",
+      "indonesian_label": "Antisipasi / Harapan (Anticipation)",
+      "count": 438,
+      "percentage": "43.80%"
+    },
+    {
+      "emotion": "anger",
+      "indonesian_label": "Marah / Kesal (Anger)",
+      "count": 263,
+      "percentage": "26.30%"
+    },
+    {
+      "emotion": "joy",
+      "indonesian_label": "Senang / Bahagia (Joy)",
+      "count": 191,
+      "percentage": "19.10%"
+    },
+    {
+      "emotion": "sadness",
+      "indonesian_label": "Sedih / Kecewa (Sadness)",
+      "count": 63,
+      "percentage": "6.30%"
+    },
+    {
+      "emotion": "trust",
+      "indonesian_label": "Percaya / Aman (Trust)",
+      "count": 18,
+      "percentage": "1.80%"
+    },
+    {
+      "emotion": "surprise",
+      "indonesian_label": "Terkejut / Kaget (Surprise)",
+      "count": 11,
+      "percentage": "1.10%"
+    },
+    {
+      "emotion": "disgust",
+      "indonesian_label": "Muak / Jijik (Disgust)",
+      "count": 8,
+      "percentage": "0.80%"
+    },
+    {
+      "emotion": "love",
+      "indonesian_label": "Cinta / Kagum (Love)",
+      "count": 7,
+      "percentage": "0.70%"
+    },
+    {
+      "emotion": "fear",
+      "indonesian_label": "Takut / Cemas (Fear)",
+      "count": 1,
+      "percentage": "0.10%"
+    }
+  ],
+  "top_emotion": "Antisipasi / Harapan (Anticipation)",
+  "top_emotion_percentage": "43.80%",
+  "methodology": "Fine-grained Affective Classification via IndoBERT Contextual Token Representations + Semantic Prior"
+}

@@ -1,0 +1,14 @@
+{
+  "louvain_bitstream": {
+    "file": "output/louvain_nodexl_bit.txt",
+    "bytes": 366,
+    "bits": 2928,
+    "sha256": "88ee45803552672dcb9f325784ed151301725b63396914301d5746f556d895b5"
+  },
+  "indobert_9emotions_bitstream": {
+    "file": "output/indobert_9emotions_bit.txt",
+    "bytes": 432,
+    "bits": 3456,
+    "sha256": "36c7e76f402a9ee3ee340c9b54e886dc3f7b89594f429009b8cb909b7e9e4819"
+  }
+}

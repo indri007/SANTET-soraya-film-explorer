@@ -1,0 +1,235 @@
+{
+  "01_degree_centrality": {
+    "function": "Degree Centrality",
+    "description": "Proporsi koneksi langsung setiap simpul",
+    "top_5": {
+      "tolong": 1.0,
+      "padahal": 1.0,
+      "fitur": 1.0,
+      "story": 1.0,
+      "malah": 1.0
+    }
+  },
+  "02_in_out_degree": {
+    "function": "In-Degree & Out-Degree Centrality",
+    "description": "Arah aliran interaksi masuk vs respon keluar",
+    "top_in_degree": {
+      "tolong": 1.0,
+      "padahal": 1.0,
+      "bagus": 1.0,
+      "story": 1.0,
+      "banyak": 1.0
+    },
+    "top_out_degree": {
+      "tolong": 1.0,
+      "padahal": 1.0,
+      "bagus": 1.0,
+      "story": 1.0,
+      "banyak": 1.0
+    }
+  },
+  "03_betweenness_centrality": {
+    "function": "Betweenness Centrality (Brandes)",
+    "description": "Kapasitas simpul sebagai jembatan informasi antar klaster",
+    "top_5": {
+      "semua": 0.083949,
+      "mohon": 0.073892,
+      "jangan": 0.059524,
+      "masih": 0.058087,
+      "seperti": 0.031199
+    }
+  },
+  "04_closeness_centrality": {
+    "function": "Closeness Centrality",
+    "description": "Kedekatan rata-rata simpul ke seluruh simpul lain di graf",
+    "top_5": {
+      "tolong": 1.0,
+      "padahal": 1.0,
+      "fitur": 1.0,
+      "story": 1.0,
+      "malah": 1.0
+    }
+  },
+  "05_eigenvector_centrality": {
+    "function": "Eigenvector Centrality",
+    "description": "Pengaruh simpul berbasis bobot koneksi tetangganya",
+    "top_5": {
+      "tolong": 0.4119,
+      "padahal": 0.2811,
+      "fitur": 0.2588,
+      "akun": 0.2561,
+      "story": 0.2337
+    }
+  },
+  "06_pagerank": {
+    "function": "PageRank Authority",
+    "description": "Skor otoritas rekursif penelusuran acak graf",
+    "top_5": {
+      "tolong": 0.082961,
+      "padahal": 0.053436,
+      "fitur": 0.05199,
+      "akun": 0.048426,
+      "story": 0.045727
+    }
+  },
+  "07_louvain_community_detection": {
+    "function": "Louvain Community Detection",
+    "total_communities": 2,
+    "cluster_distribution": {
+      "Komunitas_1": 17,
+      "Komunitas_0": 13
+    }
+  },
+  "08_girvan_newman": {
+    "function": "Girvan-Newman Edge-Betweenness Clustering",
+    "first_split_clusters": 2,
+    "cluster_1_sample": [
+      "akun",
+      "bagus",
+      "banyak",
+      "baru"
+    ],
+    "cluster_2_sample": [
+      "arsip"
+    ]
+  },
+  "09_ego_network": {
+    "function": "Ego Network Extraction",
+    "ego_node": "tolong",
+    "ego_neighbors_count": 29,
+    "ego_subgraph_edges": 383
+  },
+  "10_modularity_score_Q": {
+    "function": "Modularity Score (Q)",
+    "modularity_Q": 0.0526,
+    "status": "ORGANIC_CLUSTER"
+  },
+  "11_keyword_cooccurrence": {
+    "function": "Keyword Co-occurrence Graph",
+    "top_5_pairs": [
+      "tolong <--> perbaiki (weight: 121)",
+      "tolong <--> akun (weight: 117)",
+      "tolong <--> padahal (weight: 112)",
+      "tolong <--> fitur (weight: 107)",
+      "tolong <--> story (weight: 90)"
+    ]
+  },
+  "12_bipartite_mapping": {
+    "function": "Bipartite Network (Akun <-> Tagar)",
+    "actor_nodes": 5,
+    "tag_nodes": 5,
+    "bipartite_edges": 10,
+    "is_bipartite": true
+  },
+  "13_multimodal_weights": {
+    "function": "Multimodal Weight Attribution",
+    "modalities": {
+      "reel": 0.42,
+      "story": 0.28,
+      "like": 0.14,
+      "komen": 0.08,
+      "share": 0.06,
+      "live": 0.02
+    },
+    "total_share": "100.0%"
+  },
+  "14_sentiment_weighted_edges": {
+    "function": "Sentiment-Weighted Edge Slicing",
+    "distribution": {
+      "positive_edges": 79,
+      "neutral_edges": 219,
+      "negative_edges": 83
+    },
+    "total_edges": 383
+  },
+  "15_fruchterman_reingold_layout": {
+    "function": "Fruchterman-Reingold 2D Coordinates",
+    "sample_coordinates": {
+      "tolong": [
+        0.059,
+        0.015
+      ],
+      "padahal": [
+        -0.002,
+        0.189
+      ],
+      "akun": [
+        0.183,
+        0.33
+      ],
+      "fitur": [
+        0.075,
+        -0.167
+      ],
+      "story": [
+        0.234,
+        -0.209
+      ]
+    },
+    "total_layout_nodes": 30
+  },
+  "16_group_in_a_box_layout": {
+    "function": "Group-in-a-Box Compartment Layout",
+    "partitions": {
+      "Box_0": {
+        "community_id": 0,
+        "bounds": [
+          -1.0,
+          -0.1,
+          -1.0,
+          1.0
+        ],
+        "members_count": 13
+      },
+      "Box_1": {
+        "community_id": 1,
+        "bounds": [
+          0.1,
+          1.0,
+          -1.0,
+          1.0
+        ],
+        "members_count": 17
+      }
+    }
+  },
+  "17_dynamic_filtering": {
+    "function": "Dynamic Threshold Filtering",
+    "threshold_weight": 50,
+    "original_edges": 383,
+    "filtered_edges": 32,
+    "retention_rate": "8.36%"
+  },
+  "18_density_and_reciprocity": {
+    "function": "Graph Density & Reciprocity",
+    "density": 0.8805,
+    "reciprocity": 1.0
+  },
+  "19_time_sliced_dynamic_graph": {
+    "function": "Time-Sliced Dynamic Graph (2020-2026)",
+    "epochs": {
+      "2020_2021": {
+        "nodes": 30,
+        "edges": 310,
+        "focus": "COVID pandemic lockdown migration to Reels"
+      },
+      "2022_2023": {
+        "nodes": 30,
+        "edges": 355,
+        "focus": "Reels algorithm shift & TikTok rivalry"
+      },
+      "2024_2026": {
+        "nodes": 30,
+        "edges": 383,
+        "focus": "AI generative content, Broadcast Channels & Meta verified"
+      }
+    }
+  },
+  "20_graphml_and_gexf_export": {
+    "function": "GraphML & GEXF Interoperability Export",
+    "graphml_file": "output/nodexl_complete_graph.graphml",
+    "gexf_file": "output/nodexl_complete_graph.gexf",
+    "gephi_compatible": true,
+    "nodexl_pro_compatible": true
+  }
+}

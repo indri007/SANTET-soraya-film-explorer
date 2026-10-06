@@ -1,0 +1,1429 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="louvain_community" attr.type="long"/>
+<key id="d5" for="node" attr.name="pagerank" attr.type="double"/>
+<key id="d4" for="node" attr.name="eigenvector_centrality" attr.type="double"/>
+<key id="d3" for="node" attr.name="closeness_centrality" attr.type="double"/>
+<key id="d2" for="node" attr.name="betweenness_centrality" attr.type="double"/>
+<key id="d1" for="node" attr.name="degree_centrality" attr.type="double"/>
+<key id="d0" for="node" attr.name="frequency" attr.type="long"/>
+<graph edgedefault="undirected"><node id="tolong">
+  <data key="d0">414</data>
+  <data key="d1">1.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.41190876795161635</data>
+  <data key="d5">0.08296060192672783</data>
+  <data key="d6">1</data>
+</node>
+<node id="padahal">
+  <data key="d0">261</data>
+  <data key="d1">1.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.28112260633820535</data>
+  <data key="d5">0.0534355037391126</data>
+  <data key="d6">1</data>
+</node>
+<node id="akun">
+  <data key="d0">251</data>
+  <data key="d1">0.9310344827586207</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.9354838709677419</data>
+  <data key="d4">0.25608784220039654</data>
+  <data key="d5">0.04842638269158492</data>
+  <data key="d6">1</data>
+</node>
+<node id="fitur">
+  <data key="d0">246</data>
+  <data key="d1">1.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.25884990889475207</data>
+  <data key="d5">0.05199007447312133</data>
+  <data key="d6">0</data>
+</node>
+<node id="story">
+  <data key="d0">212</data>
+  <data key="d1">1.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.23369074098698564</data>
+  <data key="d5">0.045726920251376243</data>
+  <data key="d6">0</data>
+</node>
+<node id="malah">
+  <data key="d0">197</data>
+  <data key="d1">1.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.22502333598458613</data>
+  <data key="d5">0.04403803136009478</data>
+  <data key="d6">1</data>
+</node>
+<node id="update">
+  <data key="d0">186</data>
+  <data key="d1">0.9655172413793103</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.9666666666666667</data>
+  <data key="d4">0.21113651566137634</data>
+  <data key="d5">0.04010323205751619</data>
+  <data key="d6">1</data>
+</node>
+<node id="perbaiki">
+  <data key="d0">174</data>
+  <data key="d1">0.9310344827586207</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.9354838709677419</data>
+  <data key="d4">0.20642209915716486</data>
+  <data key="d5">0.03690785192313693</data>
+  <data key="d6">1</data>
+</node>
+<node id="banyak">
+  <data key="d0">173</data>
+  <data key="d1">1.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.20645979517626278</data>
+  <data key="d5">0.04081763404671117</data>
+  <data key="d6">0</data>
+</node>
+<node id="bug">
+  <data key="d0">172</data>
+  <data key="d1">0.9655172413793103</data>
+  <data key="d2">0.0</data>
+  <data key="d3">0.9666666666666667</data>
+  <data key="d4">0.20263839332164985</data>
+  <data key="d5">0.03802345618847909</data>
+  <data key="d6">1</data>
+</node>
+<node id="bagus">
+  <data key="d0">159</data>
+  <data key="d1">1.0</data>
+  <data key="d2">0.0024630541871921183</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.17850403967650497</data>
+  <data key="d5">0.03515424137408935</data>
+  <data key="d6">1</data>
+</node>
+<node id="foto">
+  <data key="d0">152</data>
+  <data key="d1">1.0</data>
+  <data key="d2">0.0</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.16420234033367054</data>
+  <data key="d5">0.0336747097603866</data>
+  <data key="d6">0</data>
+</node>
+<node id="lain">
+  <data key="d0">136</data>
+  <data key="d1">1.0</data>
+  <data key="d2">0.017241379310344827</data>
+  <data key="d3">1.0</data>
+  <data key="d4">0.17112831766883138</data>
+  <data key="d5">0.033906835757144094</data>
+  <data key="d6">1</data>
+</node>
+<node id="video">
+  <data key="d0">136</data>
+  <data key="d1">0.9310344827586207</data>
+  <data key="d2">0.0024630541871921183</data>
+  <data key="d3">0.9354838709677419</data>
+  <data key="d4">0.14397276514893959</data>
+  <data key="d5">0.02965377847645851</data>
+  <data key="d6">0</data>
+</node>
+<node id="sangat">
+  <data key="d0">128</data>
+  <data key="d1">0.7241379310344828</data>
+  <data key="d2">0.009852216748768473</data>
+  <data key="d3">0.7837837837837838</data>
+  <data key="d4">0.12424962060955382</data>
+  <data key="d5">0.02462091830128082</data>
+  <data key="d6">0</data>
+</node>
+<node id="sekarang">
+  <data key="d0">124</data>
+  <data key="d1">0.9310344827586207</data>
+  <data key="d2">0.019909688013136286</data>
+  <data key="d3">0.9354838709677419</data>
+  <data key="d4">0.1449723899618092</data>
+  <data key="d5">0.029055612611990158</data>
+  <data key="d6">1</data>
+</node>
+<node id="lama">
+  <data key="d0">120</data>
+  <data key="d1">0.9655172413793103</data>
+  <data key="d2">0.011904761904761904</data>
+  <data key="d3">0.9666666666666667</data>
+  <data key="d4">0.13946990662675213</data>
+  <data key="d5">0.028298750107575987</data>
+  <data key="d6">1</data>
+</node>
+<node id="baru">
+  <data key="d0">116</data>
+  <data key="d1">0.7586206896551724</data>
+  <data key="d2">0.008620689655172414</data>
+  <data key="d3">0.8055555555555556</data>
+  <data key="d4">0.1318480107614767</data>
+  <data key="d5">0.025275125192840805</data>
+  <data key="d6">1</data>
+</node>
+<node id="diperbaiki">
+  <data key="d0">111</data>
+  <data key="d1">0.7931034482758621</data>
+  <data key="d2">0.008210180623973726</data>
+  <data key="d3">0.8285714285714286</data>
+  <data key="d4">0.13880352834800938</data>
+  <data key="d5">0.025901883477167854</data>
+  <data key="d6">1</data>
+</node>
+<node id="mohon">
+  <data key="d0">111</data>
+  <data key="d1">0.896551724137931</data>
+  <data key="d2">0.07389162561576355</data>
+  <data key="d3">0.90625</data>
+  <data key="d4">0.11636465098366279</data>
+  <data key="d5">0.02497393571616048</data>
+  <data key="d6">0</data>
+</node>
+<node id="dong">
+  <data key="d0">107</data>
+  <data key="d1">0.7931034482758621</data>
+  <data key="d2">0.009236453201970444</data>
+  <data key="d3">0.8285714285714286</data>
+  <data key="d4">0.1382297191605184</data>
+  <data key="d5">0.025063639895942593</data>
+  <data key="d6">1</data>
+</node>
+<node id="jangan">
+  <data key="d0">106</data>
+  <data key="d1">0.8275862068965517</data>
+  <data key="d2">0.05952380952380953</data>
+  <data key="d3">0.8529411764705882</data>
+  <data key="d4">0.131198504883018</data>
+  <data key="d5">0.02649574347562379</data>
+  <data key="d6">0</data>
+</node>
+<node id="pas">
+  <data key="d0">100</data>
+  <data key="d1">0.6896551724137931</data>
+  <data key="d2">0.018062397372742203</data>
+  <data key="d3">0.7631578947368421</data>
+  <data key="d4">0.10843451617919825</data>
+  <data key="d5">0.021215476253435624</data>
+  <data key="d6">1</data>
+</node>
+<node id="masih">
+  <data key="d0">98</data>
+  <data key="d1">0.7931034482758621</data>
+  <data key="d2">0.05808702791461413</data>
+  <data key="d3">0.8285714285714286</data>
+  <data key="d4">0.10802422146518828</data>
+  <data key="d5">0.022078321461146033</data>
+  <data key="d6">1</data>
+</node>
+<node id="arsip">
+  <data key="d0">98</data>
+  <data key="d1">0.5862068965517241</data>
+  <data key="d2">0.011083743842364532</data>
+  <data key="d3">0.7073170731707317</data>
+  <data key="d4">0.10646529804822195</data>
+  <data key="d5">0.022035703665184897</data>
+  <data key="d6">0</data>
+</node>
+<node id="muncul">
+  <data key="d0">97</data>
+  <data key="d1">0.7241379310344828</data>
+  <data key="d2">0.013546798029556651</data>
+  <data key="d3">0.7837837837837838</data>
+  <data key="d4">0.10110740638859117</data>
+  <data key="d5">0.020744609828144883</data>
+  <data key="d6">1</data>
+</node>
+<node id="seperti">
+  <data key="d0">93</data>
+  <data key="d1">0.8275862068965517</data>
+  <data key="d2">0.031198686371100164</data>
+  <data key="d3">0.8529411764705882</data>
+  <data key="d4">0.10293831074566068</data>
+  <data key="d5">0.022196662122090014</data>
+  <data key="d6">0</data>
+</node>
+<node id="hilang">
+  <data key="d0">93</data>
+  <data key="d1">0.7931034482758621</data>
+  <data key="d2">0.006157635467980296</data>
+  <data key="d3">0.8285714285714286</data>
+  <data key="d4">0.1153695070588169</data>
+  <data key="d5">0.02330827736962818</data>
+  <data key="d6">0</data>
+</node>
+<node id="orang">
+  <data key="d0">92</data>
+  <data key="d1">0.7241379310344828</data>
+  <data key="d2">0.006978653530377668</data>
+  <data key="d3">0.7837837837837838</data>
+  <data key="d4">0.10472990476415456</data>
+  <data key="d5">0.021620354935668124</data>
+  <data key="d6">0</data>
+</node>
+<node id="semua">
+  <data key="d0">91</data>
+  <data key="d1">0.8620689655172413</data>
+  <data key="d2">0.08394909688013136</data>
+  <data key="d3">0.8787878787878788</data>
+  <data key="d4">0.10712751144907304</data>
+  <data key="d5">0.02229573156018013</data>
+  <data key="d6">0</data>
+</node>
+<edge source="tolong" target="baru">
+  <data key="d7">49.0</data>
+</edge>
+<edge source="tolong" target="sangat">
+  <data key="d7">54.0</data>
+</edge>
+<edge source="tolong" target="padahal">
+  <data key="d7">112.0</data>
+</edge>
+<edge source="tolong" target="akun">
+  <data key="d7">117.0</data>
+</edge>
+<edge source="tolong" target="lama">
+  <data key="d7">49.0</data>
+</edge>
+<edge source="tolong" target="bug">
+  <data key="d7">83.0</data>
+</edge>
+<edge source="tolong" target="bagus">
+  <data key="d7">68.0</data>
+</edge>
+<edge source="tolong" target="semua">
+  <data key="d7">44.0</data>
+</edge>
+<edge source="tolong" target="pas">
+  <data key="d7">46.0</data>
+</edge>
+<edge source="tolong" target="video">
+  <data key="d7">61.0</data>
+</edge>
+<edge source="tolong" target="masih">
+  <data key="d7">37.0</data>
+</edge>
+<edge source="tolong" target="diperbaiki">
+  <data key="d7">83.0</data>
+</edge>
+<edge source="tolong" target="story">
+  <data key="d7">90.0</data>
+</edge>
+<edge source="tolong" target="banyak">
+  <data key="d7">73.0</data>
+</edge>
+<edge source="tolong" target="hilang">
+  <data key="d7">41.0</data>
+</edge>
+<edge source="tolong" target="malah">
+  <data key="d7">77.0</data>
+</edge>
+<edge source="tolong" target="foto">
+  <data key="d7">56.0</data>
+</edge>
+<edge source="tolong" target="fitur">
+  <data key="d7">107.0</data>
+</edge>
+<edge source="tolong" target="mohon">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="tolong" target="seperti">
+  <data key="d7">35.0</data>
+</edge>
+<edge source="tolong" target="orang">
+  <data key="d7">36.0</data>
+</edge>
+<edge source="tolong" target="perbaiki">
+  <data key="d7">121.0</data>
+</edge>
+<edge source="tolong" target="dong">
+  <data key="d7">82.0</data>
+</edge>
+<edge source="tolong" target="update">
+  <data key="d7">77.0</data>
+</edge>
+<edge source="tolong" target="lain">
+  <data key="d7">59.0</data>
+</edge>
+<edge source="tolong" target="sekarang">
+  <data key="d7">50.0</data>
+</edge>
+<edge source="tolong" target="jangan">
+  <data key="d7">60.0</data>
+</edge>
+<edge source="tolong" target="muncul">
+  <data key="d7">33.0</data>
+</edge>
+<edge source="tolong" target="arsip">
+  <data key="d7">43.0</data>
+</edge>
+<edge source="padahal" target="baru">
+  <data key="d7">30.0</data>
+</edge>
+<edge source="padahal" target="sangat">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="padahal" target="akun">
+  <data key="d7">80.0</data>
+</edge>
+<edge source="padahal" target="lama">
+  <data key="d7">37.0</data>
+</edge>
+<edge source="padahal" target="bug">
+  <data key="d7">48.0</data>
+</edge>
+<edge source="padahal" target="bagus">
+  <data key="d7">46.0</data>
+</edge>
+<edge source="padahal" target="malah">
+  <data key="d7">60.0</data>
+</edge>
+<edge source="padahal" target="lain">
+  <data key="d7">48.0</data>
+</edge>
+<edge source="padahal" target="update">
+  <data key="d7">61.0</data>
+</edge>
+<edge source="padahal" target="sekarang">
+  <data key="d7">39.0</data>
+</edge>
+<edge source="padahal" target="story">
+  <data key="d7">64.0</data>
+</edge>
+<edge source="padahal" target="orang">
+  <data key="d7">25.0</data>
+</edge>
+<edge source="padahal" target="banyak">
+  <data key="d7">47.0</data>
+</edge>
+<edge source="padahal" target="semua">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="padahal" target="pas">
+  <data key="d7">33.0</data>
+</edge>
+<edge source="padahal" target="video">
+  <data key="d7">40.0</data>
+</edge>
+<edge source="padahal" target="masih">
+  <data key="d7">37.0</data>
+</edge>
+<edge source="padahal" target="diperbaiki">
+  <data key="d7">34.0</data>
+</edge>
+<edge source="padahal" target="foto">
+  <data key="d7">37.0</data>
+</edge>
+<edge source="padahal" target="fitur">
+  <data key="d7">38.0</data>
+</edge>
+<edge source="padahal" target="mohon">
+  <data key="d7">27.0</data>
+</edge>
+<edge source="padahal" target="seperti">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="padahal" target="perbaiki">
+  <data key="d7">49.0</data>
+</edge>
+<edge source="padahal" target="hilang">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="padahal" target="dong">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="padahal" target="jangan">
+  <data key="d7">21.0</data>
+</edge>
+<edge source="padahal" target="muncul">
+  <data key="d7">25.0</data>
+</edge>
+<edge source="padahal" target="arsip">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="akun" target="baru">
+  <data key="d7">45.0</data>
+</edge>
+<edge source="akun" target="sangat">
+  <data key="d7">28.0</data>
+</edge>
+<edge source="akun" target="lama">
+  <data key="d7">33.0</data>
+</edge>
+<edge source="akun" target="hilang">
+  <data key="d7">31.0</data>
+</edge>
+<edge source="akun" target="malah">
+  <data key="d7">51.0</data>
+</edge>
+<edge source="akun" target="diperbaiki">
+  <data key="d7">32.0</data>
+</edge>
+<edge source="akun" target="fitur">
+  <data key="d7">56.0</data>
+</edge>
+<edge source="akun" target="lain">
+  <data key="d7">44.0</data>
+</edge>
+<edge source="akun" target="bug">
+  <data key="d7">45.0</data>
+</edge>
+<edge source="akun" target="sekarang">
+  <data key="d7">38.0</data>
+</edge>
+<edge source="akun" target="bagus">
+  <data key="d7">27.0</data>
+</edge>
+<edge source="akun" target="banyak">
+  <data key="d7">39.0</data>
+</edge>
+<edge source="akun" target="masih">
+  <data key="d7">37.0</data>
+</edge>
+<edge source="akun" target="pas">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="akun" target="semua">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="akun" target="perbaiki">
+  <data key="d7">49.0</data>
+</edge>
+<edge source="akun" target="update">
+  <data key="d7">35.0</data>
+</edge>
+<edge source="akun" target="orang">
+  <data key="d7">24.0</data>
+</edge>
+<edge source="akun" target="mohon">
+  <data key="d7">35.0</data>
+</edge>
+<edge source="akun" target="story">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="akun" target="muncul">
+  <data key="d7">28.0</data>
+</edge>
+<edge source="akun" target="dong">
+  <data key="d7">27.0</data>
+</edge>
+<edge source="akun" target="foto">
+  <data key="d7">28.0</data>
+</edge>
+<edge source="akun" target="jangan">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="akun" target="seperti">
+  <data key="d7">27.0</data>
+</edge>
+<edge source="fitur" target="foto">
+  <data key="d7">33.0</data>
+</edge>
+<edge source="fitur" target="sangat">
+  <data key="d7">50.0</data>
+</edge>
+<edge source="fitur" target="malah">
+  <data key="d7">40.0</data>
+</edge>
+<edge source="fitur" target="mohon">
+  <data key="d7">34.0</data>
+</edge>
+<edge source="fitur" target="diperbaiki">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="fitur" target="seperti">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="fitur" target="story">
+  <data key="d7">60.0</data>
+</edge>
+<edge source="fitur" target="orang">
+  <data key="d7">30.0</data>
+</edge>
+<edge source="fitur" target="banyak">
+  <data key="d7">51.0</data>
+</edge>
+<edge source="fitur" target="perbaiki">
+  <data key="d7">28.0</data>
+</edge>
+<edge source="fitur" target="bagus">
+  <data key="d7">40.0</data>
+</edge>
+<edge source="fitur" target="muncul">
+  <data key="d7">24.0</data>
+</edge>
+<edge source="fitur" target="hilang">
+  <data key="d7">35.0</data>
+</edge>
+<edge source="fitur" target="lain">
+  <data key="d7">38.0</data>
+</edge>
+<edge source="fitur" target="bug">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="fitur" target="sekarang">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="fitur" target="baru">
+  <data key="d7">40.0</data>
+</edge>
+<edge source="fitur" target="jangan">
+  <data key="d7">59.0</data>
+</edge>
+<edge source="fitur" target="masih">
+  <data key="d7">21.0</data>
+</edge>
+<edge source="fitur" target="update">
+  <data key="d7">49.0</data>
+</edge>
+<edge source="fitur" target="lama">
+  <data key="d7">25.0</data>
+</edge>
+<edge source="fitur" target="video">
+  <data key="d7">32.0</data>
+</edge>
+<edge source="fitur" target="semua">
+  <data key="d7">37.0</data>
+</edge>
+<edge source="fitur" target="pas">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="fitur" target="arsip">
+  <data key="d7">57.0</data>
+</edge>
+<edge source="fitur" target="dong">
+  <data key="d7">28.0</data>
+</edge>
+<edge source="story" target="malah">
+  <data key="d7">45.0</data>
+</edge>
+<edge source="story" target="lain">
+  <data key="d7">25.0</data>
+</edge>
+<edge source="story" target="bug">
+  <data key="d7">45.0</data>
+</edge>
+<edge source="story" target="update">
+  <data key="d7">42.0</data>
+</edge>
+<edge source="story" target="sekarang">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="story" target="bagus">
+  <data key="d7">42.0</data>
+</edge>
+<edge source="story" target="orang">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="story" target="banyak">
+  <data key="d7">44.0</data>
+</edge>
+<edge source="story" target="semua">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="story" target="pas">
+  <data key="d7">21.0</data>
+</edge>
+<edge source="story" target="video">
+  <data key="d7">24.0</data>
+</edge>
+<edge source="story" target="masih">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="story" target="diperbaiki">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="story" target="lama">
+  <data key="d7">28.0</data>
+</edge>
+<edge source="story" target="foto">
+  <data key="d7">37.0</data>
+</edge>
+<edge source="story" target="baru">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="story" target="sangat">
+  <data key="d7">34.0</data>
+</edge>
+<edge source="story" target="mohon">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="story" target="seperti">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="story" target="perbaiki">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="story" target="hilang">
+  <data key="d7">27.0</data>
+</edge>
+<edge source="story" target="arsip">
+  <data key="d7">39.0</data>
+</edge>
+<edge source="story" target="dong">
+  <data key="d7">24.0</data>
+</edge>
+<edge source="story" target="jangan">
+  <data key="d7">32.0</data>
+</edge>
+<edge source="story" target="muncul">
+  <data key="d7">24.0</data>
+</edge>
+<edge source="malah" target="lain">
+  <data key="d7">32.0</data>
+</edge>
+<edge source="malah" target="bug">
+  <data key="d7">40.0</data>
+</edge>
+<edge source="malah" target="update">
+  <data key="d7">62.0</data>
+</edge>
+<edge source="malah" target="sekarang">
+  <data key="d7">36.0</data>
+</edge>
+<edge source="malah" target="bagus">
+  <data key="d7">30.0</data>
+</edge>
+<edge source="malah" target="orang">
+  <data key="d7">21.0</data>
+</edge>
+<edge source="malah" target="banyak">
+  <data key="d7">36.0</data>
+</edge>
+<edge source="malah" target="baru">
+  <data key="d7">32.0</data>
+</edge>
+<edge source="malah" target="hilang">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="malah" target="diperbaiki">
+  <data key="d7">31.0</data>
+</edge>
+<edge source="malah" target="lama">
+  <data key="d7">28.0</data>
+</edge>
+<edge source="malah" target="foto">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="malah" target="sangat">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="malah" target="mohon">
+  <data key="d7">25.0</data>
+</edge>
+<edge source="malah" target="seperti">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="malah" target="perbaiki">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="malah" target="video">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="malah" target="pas">
+  <data key="d7">34.0</data>
+</edge>
+<edge source="malah" target="dong">
+  <data key="d7">32.0</data>
+</edge>
+<edge source="malah" target="semua">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="malah" target="jangan">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="malah" target="arsip">
+  <data key="d7">21.0</data>
+</edge>
+<edge source="malah" target="muncul">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="malah" target="masih">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="update" target="lain">
+  <data key="d7">34.0</data>
+</edge>
+<edge source="update" target="bug">
+  <data key="d7">45.0</data>
+</edge>
+<edge source="update" target="sekarang">
+  <data key="d7">27.0</data>
+</edge>
+<edge source="update" target="bagus">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="update" target="orang">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="update" target="banyak">
+  <data key="d7">25.0</data>
+</edge>
+<edge source="update" target="baru">
+  <data key="d7">34.0</data>
+</edge>
+<edge source="update" target="jangan">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="update" target="masih">
+  <data key="d7">25.0</data>
+</edge>
+<edge source="update" target="lama">
+  <data key="d7">28.0</data>
+</edge>
+<edge source="update" target="foto">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="update" target="video">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="update" target="seperti">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="update" target="pas">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="update" target="muncul">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="update" target="hilang">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="update" target="arsip">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="update" target="perbaiki">
+  <data key="d7">35.0</data>
+</edge>
+<edge source="update" target="semua">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="update" target="diperbaiki">
+  <data key="d7">21.0</data>
+</edge>
+<edge source="update" target="mohon">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="update" target="dong">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="perbaiki" target="hilang">
+  <data key="d7">21.0</data>
+</edge>
+<edge source="perbaiki" target="lain">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="perbaiki" target="bug">
+  <data key="d7">58.0</data>
+</edge>
+<edge source="perbaiki" target="muncul">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="perbaiki" target="banyak">
+  <data key="d7">28.0</data>
+</edge>
+<edge source="perbaiki" target="foto">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="perbaiki" target="sangat">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="perbaiki" target="mohon">
+  <data key="d7">27.0</data>
+</edge>
+<edge source="perbaiki" target="seperti">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="perbaiki" target="orang">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="perbaiki" target="pas">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="perbaiki" target="baru">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="perbaiki" target="bagus">
+  <data key="d7">27.0</data>
+</edge>
+<edge source="perbaiki" target="lama">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="perbaiki" target="semua">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="perbaiki" target="video">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="perbaiki" target="jangan">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="perbaiki" target="masih">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="perbaiki" target="dong">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="perbaiki" target="sekarang">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="banyak" target="lain">
+  <data key="d7">32.0</data>
+</edge>
+<edge source="banyak" target="bug">
+  <data key="d7">50.0</data>
+</edge>
+<edge source="banyak" target="sekarang">
+  <data key="d7">32.0</data>
+</edge>
+<edge source="banyak" target="bagus">
+  <data key="d7">32.0</data>
+</edge>
+<edge source="banyak" target="orang">
+  <data key="d7">24.0</data>
+</edge>
+<edge source="banyak" target="semua">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="banyak" target="pas">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="banyak" target="video">
+  <data key="d7">25.0</data>
+</edge>
+<edge source="banyak" target="masih">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="banyak" target="diperbaiki">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="banyak" target="lama">
+  <data key="d7">24.0</data>
+</edge>
+<edge source="banyak" target="hilang">
+  <data key="d7">26.0</data>
+</edge>
+<edge source="banyak" target="muncul">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="banyak" target="foto">
+  <data key="d7">34.0</data>
+</edge>
+<edge source="banyak" target="sangat">
+  <data key="d7">33.0</data>
+</edge>
+<edge source="banyak" target="mohon">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="banyak" target="seperti">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="banyak" target="baru">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="banyak" target="dong">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="banyak" target="jangan">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="banyak" target="arsip">
+  <data key="d7">30.0</data>
+</edge>
+<edge source="bug" target="baru">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="bug" target="lama">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="bug" target="bagus">
+  <data key="d7">29.0</data>
+</edge>
+<edge source="bug" target="diperbaiki">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="bug" target="seperti">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="bug" target="muncul">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="bug" target="lain">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="bug" target="sekarang">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="bug" target="orang">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="bug" target="semua">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="bug" target="pas">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="bug" target="video">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="bug" target="masih">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="bug" target="hilang">
+  <data key="d7">24.0</data>
+</edge>
+<edge source="bug" target="dong">
+  <data key="d7">25.0</data>
+</edge>
+<edge source="bug" target="jangan">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="bug" target="foto">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="bug" target="mohon">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="bug" target="sangat">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="bagus" target="baru">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="bagus" target="lama">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="bagus" target="lain">
+  <data key="d7">27.0</data>
+</edge>
+<edge source="bagus" target="sekarang">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="bagus" target="orang">
+  <data key="d7">21.0</data>
+</edge>
+<edge source="bagus" target="dong">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="bagus" target="semua">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="bagus" target="pas">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="bagus" target="video">
+  <data key="d7">31.0</data>
+</edge>
+<edge source="bagus" target="masih">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="bagus" target="diperbaiki">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="bagus" target="foto">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="bagus" target="jangan">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="bagus" target="mohon">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="bagus" target="sangat">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="bagus" target="seperti">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="bagus" target="muncul">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="bagus" target="hilang">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="bagus" target="arsip">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="foto" target="baru">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="foto" target="sekarang">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="foto" target="pas">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="foto" target="jangan">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="foto" target="mohon">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="foto" target="sangat">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="foto" target="diperbaiki">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="foto" target="seperti">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="foto" target="orang">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="foto" target="muncul">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="foto" target="video">
+  <data key="d7">48.0</data>
+</edge>
+<edge source="foto" target="hilang">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="foto" target="arsip">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="foto" target="lama">
+  <data key="d7">24.0</data>
+</edge>
+<edge source="foto" target="semua">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="foto" target="dong">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="foto" target="lain">
+  <data key="d7">30.0</data>
+</edge>
+<edge source="foto" target="masih">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="lain" target="sekarang">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="lain" target="orang">
+  <data key="d7">35.0</data>
+</edge>
+<edge source="lain" target="hilang">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="lain" target="muncul">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="lain" target="sangat">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="lain" target="mohon">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="lain" target="diperbaiki">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="lain" target="dong">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="lain" target="semua">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="lain" target="jangan">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="lain" target="baru">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="lain" target="arsip">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="lain" target="masih">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="lain" target="video">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="lain" target="lama">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="lain" target="pas">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="lain" target="seperti">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="video" target="semua">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="video" target="pas">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="video" target="masih">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="video" target="diperbaiki">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="video" target="lama">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="video" target="seperti">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="video" target="dong">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="video" target="baru">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="video" target="hilang">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="video" target="arsip">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="video" target="jangan">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="video" target="sangat">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="video" target="mohon">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="video" target="muncul">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="video" target="sekarang">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="sangat" target="lama">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="sangat" target="mohon">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="sangat" target="seperti">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="sangat" target="orang">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="sangat" target="sekarang">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="sangat" target="jangan">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="sangat" target="semua">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="sangat" target="arsip">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="sekarang" target="orang">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="sekarang" target="baru">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="sekarang" target="hilang">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="sekarang" target="mohon">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="sekarang" target="diperbaiki">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="sekarang" target="dong">
+  <data key="d7">19.0</data>
+</edge>
+<edge source="sekarang" target="jangan">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="sekarang" target="muncul">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="sekarang" target="semua">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="sekarang" target="seperti">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="sekarang" target="lama">
+  <data key="d7">20.0</data>
+</edge>
+<edge source="sekarang" target="masih">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="lama" target="baru">
+  <data key="d7">23.0</data>
+</edge>
+<edge source="lama" target="semua">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="lama" target="pas">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="lama" target="masih">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="lama" target="diperbaiki">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="lama" target="hilang">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="lama" target="jangan">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="lama" target="seperti">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="lama" target="arsip">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="lama" target="mohon">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="lama" target="muncul">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="lama" target="dong">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="baru" target="hilang">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="baru" target="diperbaiki">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="baru" target="pas">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="baru" target="masih">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="baru" target="semua">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="baru" target="dong">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="diperbaiki" target="seperti">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="diperbaiki" target="muncul">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="diperbaiki" target="pas">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="diperbaiki" target="masih">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="diperbaiki" target="hilang">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="diperbaiki" target="mohon">
+  <data key="d7">21.0</data>
+</edge>
+<edge source="diperbaiki" target="dong">
+  <data key="d7">15.0</data>
+</edge>
+<edge source="mohon" target="jangan">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="mohon" target="seperti">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="mohon" target="orang">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="mohon" target="dong">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="mohon" target="hilang">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="mohon" target="arsip">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="mohon" target="muncul">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="mohon" target="masih">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="dong" target="pas">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="dong" target="jangan">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="dong" target="orang">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="dong" target="semua">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="jangan" target="semua">
+  <data key="d7">16.0</data>
+</edge>
+<edge source="jangan" target="hilang">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="jangan" target="arsip">
+  <data key="d7">46.0</data>
+</edge>
+<edge source="jangan" target="seperti">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="jangan" target="orang">
+  <data key="d7">17.0</data>
+</edge>
+<edge source="pas" target="masih">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="pas" target="muncul">
+  <data key="d7">13.0</data>
+</edge>
+<edge source="masih" target="orang">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="masih" target="muncul">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="masih" target="seperti">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="arsip" target="hilang">
+  <data key="d7">22.0</data>
+</edge>
+<edge source="arsip" target="semua">
+  <data key="d7">18.0</data>
+</edge>
+<edge source="muncul" target="semua">
+  <data key="d7">10.0</data>
+</edge>
+<edge source="seperti" target="orang">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="seperti" target="semua">
+  <data key="d7">12.0</data>
+</edge>
+<edge source="seperti" target="hilang">
+  <data key="d7">11.0</data>
+</edge>
+<edge source="hilang" target="semua">
+  <data key="d7">14.0</data>
+</edge>
+<edge source="orang" target="semua">
+  <data key="d7">14.0</data>
+</edge>
+</graph></graphml>

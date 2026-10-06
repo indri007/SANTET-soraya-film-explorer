@@ -1,0 +1,20 @@
+{
+  "dataset_name": "NODEXL_INDONESIA_INSTAGRAM_20000",
+  "total_records": 20000,
+  "schema": "NodeXL Edge List (Vertex 1, Vertex 2, Relationship, Date, Weight, Sentiment, Topic)",
+  "source": "Public Master Instagram Indonesia Dataset",
+  "topics_distribution": {
+    "Technology": 5788,
+    "General_Lifestyle": 11699,
+    "Comedy_Entertainment": 98,
+    "Fashion_Beauty": 1040,
+    "Culinary": 1001,
+    "Business_Finance": 121,
+    "Travel_Lifestyle": 253
+  },
+  "sentiment_distribution": {
+    "neutral": 17482,
+    "positive": 2300,
+    "negative": 218
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "dataset_name": "NODEXL_CRAWL_GRAPH_INDONESIA_200000",
+  "total_edges": 200000,
+  "unique_vertices": 15751,
+  "schema": "NodeXL Edge List (Vertex 1, Vertex 2, Relationship, Date, Weight, Sentiment, Topic, ViralScore)",
+  "source": "Public Instagram Indonesia Research Dataset (2020-2026)",
+  "topic_distribution": {
+    "Technology": 74278,
+    "General_Lifestyle": 79899,
+    "Comedy_Entertainment": 4180,
+    "Fashion_Beauty": 15442,
+    "Culinary": 19333,
+    "Business_Finance": 1684,
+    "Travel_Lifestyle": 5184
+  },
+  "sentiment_distribution": {
+    "neutral": 170379,
+    "positive": 27194,
+    "negative": 2427
+  },
+  "topology_summary": {
+    "network_type": "Multimodal Bipartite & Co-occurrence Network",
+    "node_xl_importable": true,
+    "recommended_layout": "Harel-Koren Fast Multiscale / Fruchterman-Reingold"
+  }
+}

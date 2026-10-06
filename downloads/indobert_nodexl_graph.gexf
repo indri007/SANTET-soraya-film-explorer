@@ -1,0 +1,866 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-03">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="4" title="edge_type" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+      <attribute id="1" title="freq" type="long" />
+      <attribute id="2" title="color" type="string" />
+      <attribute id="3" title="community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="emo_joy" label="Joy (24.5%)">
+        <attvalues>
+          <attvalue for="0" value="emotion" />
+          <attvalue for="1" value="2450" />
+          <attvalue for="2" value="#10b981" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="emo_anticipation" label="Anticipation (18.2%)">
+        <attvalues>
+          <attvalue for="0" value="emotion" />
+          <attvalue for="1" value="1820" />
+          <attvalue for="2" value="#3b82f6" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="emo_trust" label="Trust (16.1%)">
+        <attvalues>
+          <attvalue for="0" value="emotion" />
+          <attvalue for="1" value="1610" />
+          <attvalue for="2" value="#06b6d4" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="emo_optimism" label="Optimism (12.4%)">
+        <attvalues>
+          <attvalue for="0" value="emotion" />
+          <attvalue for="1" value="1240" />
+          <attvalue for="2" value="#8b5cf6" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="emo_surprise" label="Surprise (9.8%)">
+        <attvalues>
+          <attvalue for="0" value="emotion" />
+          <attvalue for="1" value="980" />
+          <attvalue for="2" value="#f59e0b" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="emo_love" label="Love (7.6%)">
+        <attvalues>
+          <attvalue for="0" value="emotion" />
+          <attvalue for="1" value="760" />
+          <attvalue for="2" value="#ec4899" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="emo_sadness" label="Sadness (5.1%)">
+        <attvalues>
+          <attvalue for="0" value="emotion" />
+          <attvalue for="1" value="510" />
+          <attvalue for="2" value="#64748b" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="emo_anger" label="Anger (3.8%)">
+        <attvalues>
+          <attvalue for="0" value="emotion" />
+          <attvalue for="1" value="380" />
+          <attvalue for="2" value="#ef4444" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="emo_fear" label="Fear (2.5%)">
+        <attvalues>
+          <attvalue for="0" value="emotion" />
+          <attvalue for="1" value="250" />
+          <attvalue for="2" value="#991b1b" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="mod_reels" label="Modality: Reels (w=0.42)">
+        <attvalues>
+          <attvalue for="0" value="modality" />
+          <attvalue for="1" value="4200" />
+          <attvalue for="2" value="#f43f5e" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="mod_story" label="Modality: Story (w=0.28)">
+        <attvalues>
+          <attvalue for="0" value="modality" />
+          <attvalue for="1" value="2800" />
+          <attvalue for="2" value="#fb923c" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="mod_likes" label="Modality: Likes (w=0.14)">
+        <attvalues>
+          <attvalue for="0" value="modality" />
+          <attvalue for="1" value="1400" />
+          <attvalue for="2" value="#a855f7" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="mod_comments" label="Modality: Komen (w=0.08)">
+        <attvalues>
+          <attvalue for="0" value="modality" />
+          <attvalue for="1" value="800" />
+          <attvalue for="2" value="#38bdf8" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="mod_share" label="Modality: Share (w=0.06)">
+        <attvalues>
+          <attvalue for="0" value="modality" />
+          <attvalue for="1" value="600" />
+          <attvalue for="2" value="#4ade80" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="mod_live" label="Modality: Live (w=0.02)">
+        <attvalues>
+          <attvalue for="0" value="modality" />
+          <attvalue for="1" value="200" />
+          <attvalue for="2" value="#eab308" />
+          <attvalue for="3" value="0" />
+        </attvalues>
+      </node>
+      <node id="kw_keren" label="#keren">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="353" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_mantap" label="#mantap">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="496" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_puas" label="#puas">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="450" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_asik" label="#asik">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="400" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_hebat" label="#hebat">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="321" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_menunggu" label="#menunggu">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="180" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_segera" label="#segera">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="650" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_rilis" label="#rilis">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="482" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_update" label="#update">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="571" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_harapan" label="#harapan">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="594" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_rekomendasi" label="#rekomendasi">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="399" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_amanah" label="#amanah">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="167" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_trusted" label="#trusted">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="729" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_terbukti" label="#terbukti">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="164" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_resmi" label="#resmi">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="341" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_semangat" label="#semangat">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="174" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_sukses" label="#sukses">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="274" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_bangkit" label="#bangkit">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="322" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_maju" label="#maju">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="196" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_terbaik" label="#terbaik">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="538" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_kaget" label="#kaget">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="435" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="kw_syok" label="#syok">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="356" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="kw_plot_twist" label="#plot_twist">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="302" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="kw_wow" label="#wow">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="404" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="kw_tiba2" label="#tiba2">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="571" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="2" />
+        </attvalues>
+      </node>
+      <node id="kw_sayang" label="#sayang">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="487" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_cinta" label="#cinta">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="160" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_luv" label="#luv">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="289" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_manis" label="#manis">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="308" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_gemes" label="#gemes">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="732" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="1" />
+        </attvalues>
+      </node>
+      <node id="kw_kecewa" label="#kecewa">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="528" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_sedih" label="#sedih">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="439" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_nyesek" label="#nyesek">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="286" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_patah_hati" label="#patah_hati">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="751" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_tangis" label="#tangis">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="180" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_kesal" label="#kesal">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="238" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_emosi" label="#emosi">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="670" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_bobrok" label="#bobrok">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="372" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_parah" label="#parah">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="334" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_sampah" label="#sampah">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="354" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_takut" label="#takut">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="764" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_waspada" label="#waspada">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="193" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_scam" label="#scam">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="175" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_bahaya" label="#bahaya">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="541" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+      <node id="kw_curiga" label="#curiga">
+        <attvalues>
+          <attvalue for="0" value="keyword" />
+          <attvalue for="1" value="668" />
+          <attvalue for="2" value="#94a3b8" />
+          <attvalue for="3" value="3" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="emo_joy" target="kw_keren" id="0" weight="0.901628636744329">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="kw_mantap" id="1" weight="0.7215165558422583">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="kw_puas" id="2" weight="0.7505594365457521">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="kw_asik" id="3" weight="0.8933222879687045">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="kw_hebat" id="4" weight="0.7257977723687467">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="mod_reels" id="5" weight="0.85">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="mod_story" id="6" weight="0.85">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="mod_likes" id="7" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="mod_share" id="8" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="mod_live" id="9" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="emo_optimism" id="10" weight="0.88">
+        <attvalues>
+          <attvalue for="4" value="affective_transition" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="emo_anticipation" id="11" weight="0.79">
+        <attvalues>
+          <attvalue for="4" value="affective_transition" />
+        </attvalues>
+      </edge>
+      <edge source="emo_joy" target="emo_love" id="12" weight="0.84">
+        <attvalues>
+          <attvalue for="4" value="affective_transition" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anticipation" target="kw_menunggu" id="13" weight="0.7398641018375283">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anticipation" target="kw_segera" id="14" weight="0.8757238801990034">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anticipation" target="kw_rilis" id="15" weight="0.9395853151642922">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anticipation" target="kw_update" id="16" weight="0.672814350808832">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anticipation" target="kw_harapan" id="17" weight="0.9412212276933706">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anticipation" target="mod_reels" id="18" weight="0.85">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anticipation" target="mod_live" id="19" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_trust" target="kw_rekomendasi" id="20" weight="0.9437482485800468">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_trust" target="kw_amanah" id="21" weight="0.7349778409001079">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_trust" target="kw_trusted" id="22" weight="0.6846372097741991">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_trust" target="kw_terbukti" id="23" weight="0.8238203561250717">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_trust" target="kw_resmi" id="24" weight="0.7637539107235827">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_trust" target="mod_story" id="25" weight="0.85">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_trust" target="mod_comments" id="26" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_trust" target="mod_live" id="27" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_trust" target="emo_optimism" id="28" weight="0.72">
+        <attvalues>
+          <attvalue for="4" value="affective_transition" />
+        </attvalues>
+      </edge>
+      <edge source="emo_optimism" target="kw_semangat" id="29" weight="0.6692250435352202">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_optimism" target="kw_sukses" id="30" weight="0.9248317571458867">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_optimism" target="kw_bangkit" id="31" weight="0.7902574339156753">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_optimism" target="kw_maju" id="32" weight="0.7724165482182624">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_optimism" target="kw_terbaik" id="33" weight="0.929023307142286">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_optimism" target="mod_story" id="34" weight="0.85">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_optimism" target="mod_likes" id="35" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_surprise" target="kw_kaget" id="36" weight="0.7243873176051202">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_surprise" target="kw_syok" id="37" weight="0.8003835706936581">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_surprise" target="kw_plot_twist" id="38" weight="0.682277430524628">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_surprise" target="kw_wow" id="39" weight="0.7787964021574728">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_surprise" target="kw_tiba2" id="40" weight="0.7934413033579859">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_surprise" target="mod_reels" id="41" weight="0.85">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_surprise" target="mod_comments" id="42" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_surprise" target="mod_share" id="43" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_surprise" target="emo_fear" id="44" weight="0.58">
+        <attvalues>
+          <attvalue for="4" value="affective_transition" />
+        </attvalues>
+      </edge>
+      <edge source="emo_love" target="kw_sayang" id="45" weight="0.6770681046221121">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_love" target="kw_cinta" id="46" weight="0.7370488355642659">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_love" target="kw_luv" id="47" weight="0.7167778683810763">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_love" target="kw_manis" id="48" weight="0.8030645873129766">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_love" target="kw_gemes" id="49" weight="0.8986080562545409">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_love" target="mod_reels" id="50" weight="0.85">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_love" target="mod_story" id="51" weight="0.85">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_love" target="mod_likes" id="52" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_sadness" target="kw_kecewa" id="53" weight="0.8951105827172455">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_sadness" target="kw_sedih" id="54" weight="0.8037243240834439">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_sadness" target="kw_nyesek" id="55" weight="0.680987913824951">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_sadness" target="kw_patah_hati" id="56" weight="0.8303782969553151">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_sadness" target="kw_tangis" id="57" weight="0.7156914902250048">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_sadness" target="mod_comments" id="58" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_sadness" target="emo_anger" id="59" weight="0.69">
+        <attvalues>
+          <attvalue for="4" value="affective_transition" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anger" target="kw_kesal" id="60" weight="0.7781895194983136">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anger" target="kw_emosi" id="61" weight="0.6650775903495302">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anger" target="kw_bobrok" id="62" weight="0.738857164801103">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anger" target="kw_parah" id="63" weight="0.9107441543890471">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anger" target="kw_sampah" id="64" weight="0.9236117957842107">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anger" target="mod_comments" id="65" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_anger" target="mod_share" id="66" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+      <edge source="emo_fear" target="kw_takut" id="67" weight="0.7870906309378155">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_fear" target="kw_waspada" id="68" weight="0.7878005706916672">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_fear" target="kw_scam" id="69" weight="0.7874236700812351">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_fear" target="kw_bahaya" id="70" weight="0.708189480889491">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_fear" target="kw_curiga" id="71" weight="0.7606457926480773">
+        <attvalues>
+          <attvalue for="4" value="lexical_trigger" />
+        </attvalues>
+      </edge>
+      <edge source="emo_fear" target="mod_share" id="72" weight="0.6">
+        <attvalues>
+          <attvalue for="4" value="modality_affiliation" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

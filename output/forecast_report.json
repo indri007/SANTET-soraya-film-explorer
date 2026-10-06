@@ -1,0 +1,27 @@
+{
+  "forecast_status": "INSUFFICIENT_TEMPORAL_DATA",
+  "target_horizon": "2027-Q4",
+  "historical_period": "None (Timestamps absent in raw review export)",
+  "training_period": "None (Awaiting longitudinal ingestion)",
+  "validation_period": "None",
+  "candidate_models": [
+    "SARIMAX (with Indonesian seasonal calendar covariates: Ramadan, Harbolnas)",
+    "Prophet (Bayesian trend decomposition with changepoints)",
+    "Temporal Fusion Transformer (TFT multimodal deep learning)"
+  ],
+  "metrics": {
+    "MAE": null,
+    "RMSE": null,
+    "MAPE": null,
+    "status": "INSUFFICIENT_TEMPORAL_DATA",
+    "reason": "Empirical training blocked due to absent longitudinal timestamps in 1,000-record dataset."
+  },
+  "confidence_intervals": null,
+  "minimum_requirements_for_valid_forecast": [
+    "Minimum 24-36 months of continuous daily/weekly post volume telemetry",
+    "Explicit post-creation timestamps (ISO 8601 UTC+7)",
+    "Multi-period engagement decay trajectories (t+1h, t+24h, t+7d, t+30d)",
+    "Hashtag and topic velocity transition logs"
+  ],
+  "limitations": "The current 1,000-record dataset is a cross-sectional snapshot of app reviews. Per research integrity guidelines, synthetic temporal points are not created."
+}

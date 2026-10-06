@@ -1,0 +1,2041 @@
+{
+  "nodes": [
+    {
+      "id": "tolong",
+      "frequency": 414
+    },
+    {
+      "id": "padahal",
+      "frequency": 261
+    },
+    {
+      "id": "akun",
+      "frequency": 251
+    },
+    {
+      "id": "fitur",
+      "frequency": 246
+    },
+    {
+      "id": "story",
+      "frequency": 212
+    },
+    {
+      "id": "malah",
+      "frequency": 197
+    },
+    {
+      "id": "update",
+      "frequency": 186
+    },
+    {
+      "id": "perbaiki",
+      "frequency": 174
+    },
+    {
+      "id": "banyak",
+      "frequency": 173
+    },
+    {
+      "id": "bug",
+      "frequency": 172
+    },
+    {
+      "id": "bagus",
+      "frequency": 159
+    },
+    {
+      "id": "foto",
+      "frequency": 152
+    },
+    {
+      "id": "lain",
+      "frequency": 136
+    },
+    {
+      "id": "video",
+      "frequency": 136
+    },
+    {
+      "id": "sangat",
+      "frequency": 128
+    },
+    {
+      "id": "sekarang",
+      "frequency": 124
+    },
+    {
+      "id": "lama",
+      "frequency": 120
+    },
+    {
+      "id": "baru",
+      "frequency": 116
+    },
+    {
+      "id": "diperbaiki",
+      "frequency": 111
+    },
+    {
+      "id": "mohon",
+      "frequency": 111
+    },
+    {
+      "id": "dong",
+      "frequency": 107
+    },
+    {
+      "id": "jangan",
+      "frequency": 106
+    },
+    {
+      "id": "pas",
+      "frequency": 100
+    },
+    {
+      "id": "masih",
+      "frequency": 98
+    },
+    {
+      "id": "arsip",
+      "frequency": 98
+    },
+    {
+      "id": "muncul",
+      "frequency": 97
+    },
+    {
+      "id": "seperti",
+      "frequency": 93
+    },
+    {
+      "id": "hilang",
+      "frequency": 93
+    },
+    {
+      "id": "orang",
+      "frequency": 92
+    },
+    {
+      "id": "semua",
+      "frequency": 91
+    }
+  ],
+  "edges": [
+    {
+      "source": "baru",
+      "target": "padahal",
+      "weight": 30
+    },
+    {
+      "source": "akun",
+      "target": "baru",
+      "weight": 45
+    },
+    {
+      "source": "baru",
+      "target": "tolong",
+      "weight": 49
+    },
+    {
+      "source": "baru",
+      "target": "lama",
+      "weight": 23
+    },
+    {
+      "source": "padahal",
+      "target": "sangat",
+      "weight": 22
+    },
+    {
+      "source": "akun",
+      "target": "sangat",
+      "weight": 28
+    },
+    {
+      "source": "sangat",
+      "target": "tolong",
+      "weight": 54
+    },
+    {
+      "source": "lama",
+      "target": "sangat",
+      "weight": 17
+    },
+    {
+      "source": "akun",
+      "target": "padahal",
+      "weight": 80
+    },
+    {
+      "source": "padahal",
+      "target": "tolong",
+      "weight": 112
+    },
+    {
+      "source": "lama",
+      "target": "padahal",
+      "weight": 37
+    },
+    {
+      "source": "akun",
+      "target": "tolong",
+      "weight": 117
+    },
+    {
+      "source": "akun",
+      "target": "lama",
+      "weight": 33
+    },
+    {
+      "source": "lama",
+      "target": "tolong",
+      "weight": 49
+    },
+    {
+      "source": "baru",
+      "target": "bug",
+      "weight": 17
+    },
+    {
+      "source": "bagus",
+      "target": "baru",
+      "weight": 20
+    },
+    {
+      "source": "bug",
+      "target": "padahal",
+      "weight": 48
+    },
+    {
+      "source": "bug",
+      "target": "tolong",
+      "weight": 83
+    },
+    {
+      "source": "bug",
+      "target": "lama",
+      "weight": 15
+    },
+    {
+      "source": "bagus",
+      "target": "bug",
+      "weight": 29
+    },
+    {
+      "source": "bagus",
+      "target": "padahal",
+      "weight": 46
+    },
+    {
+      "source": "bagus",
+      "target": "tolong",
+      "weight": 68
+    },
+    {
+      "source": "bagus",
+      "target": "lama",
+      "weight": 19
+    },
+    {
+      "source": "bug",
+      "target": "diperbaiki",
+      "weight": 22
+    },
+    {
+      "source": "bug",
+      "target": "seperti",
+      "weight": 19
+    },
+    {
+      "source": "bug",
+      "target": "muncul",
+      "weight": 22
+    },
+    {
+      "source": "diperbaiki",
+      "target": "seperti",
+      "weight": 12
+    },
+    {
+      "source": "diperbaiki",
+      "target": "muncul",
+      "weight": 17
+    },
+    {
+      "source": "lain",
+      "target": "malah",
+      "weight": 32
+    },
+    {
+      "source": "bug",
+      "target": "malah",
+      "weight": 40
+    },
+    {
+      "source": "malah",
+      "target": "padahal",
+      "weight": 60
+    },
+    {
+      "source": "malah",
+      "target": "update",
+      "weight": 62
+    },
+    {
+      "source": "malah",
+      "target": "sekarang",
+      "weight": 36
+    },
+    {
+      "source": "malah",
+      "target": "story",
+      "weight": 45
+    },
+    {
+      "source": "bagus",
+      "target": "malah",
+      "weight": 30
+    },
+    {
+      "source": "malah",
+      "target": "orang",
+      "weight": 21
+    },
+    {
+      "source": "banyak",
+      "target": "malah",
+      "weight": 36
+    },
+    {
+      "source": "bug",
+      "target": "lain",
+      "weight": 22
+    },
+    {
+      "source": "lain",
+      "target": "padahal",
+      "weight": 48
+    },
+    {
+      "source": "lain",
+      "target": "update",
+      "weight": 34
+    },
+    {
+      "source": "lain",
+      "target": "sekarang",
+      "weight": 18
+    },
+    {
+      "source": "lain",
+      "target": "story",
+      "weight": 25
+    },
+    {
+      "source": "bagus",
+      "target": "lain",
+      "weight": 27
+    },
+    {
+      "source": "lain",
+      "target": "orang",
+      "weight": 35
+    },
+    {
+      "source": "banyak",
+      "target": "lain",
+      "weight": 32
+    },
+    {
+      "source": "bug",
+      "target": "update",
+      "weight": 45
+    },
+    {
+      "source": "bug",
+      "target": "sekarang",
+      "weight": 19
+    },
+    {
+      "source": "bug",
+      "target": "story",
+      "weight": 45
+    },
+    {
+      "source": "bug",
+      "target": "orang",
+      "weight": 14
+    },
+    {
+      "source": "banyak",
+      "target": "bug",
+      "weight": 50
+    },
+    {
+      "source": "padahal",
+      "target": "update",
+      "weight": 61
+    },
+    {
+      "source": "padahal",
+      "target": "sekarang",
+      "weight": 39
+    },
+    {
+      "source": "padahal",
+      "target": "story",
+      "weight": 64
+    },
+    {
+      "source": "orang",
+      "target": "padahal",
+      "weight": 25
+    },
+    {
+      "source": "banyak",
+      "target": "padahal",
+      "weight": 47
+    },
+    {
+      "source": "sekarang",
+      "target": "update",
+      "weight": 27
+    },
+    {
+      "source": "story",
+      "target": "update",
+      "weight": 42
+    },
+    {
+      "source": "bagus",
+      "target": "update",
+      "weight": 29
+    },
+    {
+      "source": "orang",
+      "target": "update",
+      "weight": 17
+    },
+    {
+      "source": "banyak",
+      "target": "update",
+      "weight": 25
+    },
+    {
+      "source": "sekarang",
+      "target": "story",
+      "weight": 26
+    },
+    {
+      "source": "bagus",
+      "target": "sekarang",
+      "weight": 23
+    },
+    {
+      "source": "orang",
+      "target": "sekarang",
+      "weight": 13
+    },
+    {
+      "source": "banyak",
+      "target": "sekarang",
+      "weight": 32
+    },
+    {
+      "source": "bagus",
+      "target": "story",
+      "weight": 42
+    },
+    {
+      "source": "orang",
+      "target": "story",
+      "weight": 20
+    },
+    {
+      "source": "banyak",
+      "target": "story",
+      "weight": 44
+    },
+    {
+      "source": "bagus",
+      "target": "orang",
+      "weight": 21
+    },
+    {
+      "source": "bagus",
+      "target": "banyak",
+      "weight": 32
+    },
+    {
+      "source": "banyak",
+      "target": "orang",
+      "weight": 24
+    },
+    {
+      "source": "bagus",
+      "target": "dong",
+      "weight": 20
+    },
+    {
+      "source": "bug",
+      "target": "semua",
+      "weight": 16
+    },
+    {
+      "source": "semua",
+      "target": "video",
+      "weight": 12
+    },
+    {
+      "source": "padahal",
+      "target": "semua",
+      "weight": 22
+    },
+    {
+      "source": "semua",
+      "target": "tolong",
+      "weight": 44
+    },
+    {
+      "source": "lama",
+      "target": "semua",
+      "weight": 10
+    },
+    {
+      "source": "semua",
+      "target": "story",
+      "weight": 23
+    },
+    {
+      "source": "bagus",
+      "target": "semua",
+      "weight": 10
+    },
+    {
+      "source": "banyak",
+      "target": "semua",
+      "weight": 16
+    },
+    {
+      "source": "bug",
+      "target": "pas",
+      "weight": 20
+    },
+    {
+      "source": "pas",
+      "target": "video",
+      "weight": 16
+    },
+    {
+      "source": "padahal",
+      "target": "pas",
+      "weight": 33
+    },
+    {
+      "source": "masih",
+      "target": "pas",
+      "weight": 14
+    },
+    {
+      "source": "diperbaiki",
+      "target": "pas",
+      "weight": 14
+    },
+    {
+      "source": "pas",
+      "target": "tolong",
+      "weight": 46
+    },
+    {
+      "source": "lama",
+      "target": "pas",
+      "weight": 14
+    },
+    {
+      "source": "pas",
+      "target": "story",
+      "weight": 21
+    },
+    {
+      "source": "bagus",
+      "target": "pas",
+      "weight": 20
+    },
+    {
+      "source": "banyak",
+      "target": "pas",
+      "weight": 16
+    },
+    {
+      "source": "bug",
+      "target": "video",
+      "weight": 13
+    },
+    {
+      "source": "bug",
+      "target": "masih",
+      "weight": 23
+    },
+    {
+      "source": "padahal",
+      "target": "video",
+      "weight": 40
+    },
+    {
+      "source": "masih",
+      "target": "video",
+      "weight": 12
+    },
+    {
+      "source": "diperbaiki",
+      "target": "video",
+      "weight": 22
+    },
+    {
+      "source": "tolong",
+      "target": "video",
+      "weight": 61
+    },
+    {
+      "source": "lama",
+      "target": "video",
+      "weight": 18
+    },
+    {
+      "source": "story",
+      "target": "video",
+      "weight": 24
+    },
+    {
+      "source": "bagus",
+      "target": "video",
+      "weight": 31
+    },
+    {
+      "source": "banyak",
+      "target": "video",
+      "weight": 25
+    },
+    {
+      "source": "masih",
+      "target": "padahal",
+      "weight": 37
+    },
+    {
+      "source": "diperbaiki",
+      "target": "padahal",
+      "weight": 34
+    },
+    {
+      "source": "diperbaiki",
+      "target": "masih",
+      "weight": 13
+    },
+    {
+      "source": "masih",
+      "target": "tolong",
+      "weight": 37
+    },
+    {
+      "source": "lama",
+      "target": "masih",
+      "weight": 16
+    },
+    {
+      "source": "masih",
+      "target": "story",
+      "weight": 13
+    },
+    {
+      "source": "bagus",
+      "target": "masih",
+      "weight": 20
+    },
+    {
+      "source": "banyak",
+      "target": "masih",
+      "weight": 19
+    },
+    {
+      "source": "diperbaiki",
+      "target": "tolong",
+      "weight": 83
+    },
+    {
+      "source": "diperbaiki",
+      "target": "lama",
+      "weight": 11
+    },
+    {
+      "source": "diperbaiki",
+      "target": "story",
+      "weight": 29
+    },
+    {
+      "source": "bagus",
+      "target": "diperbaiki",
+      "weight": 18
+    },
+    {
+      "source": "banyak",
+      "target": "diperbaiki",
+      "weight": 19
+    },
+    {
+      "source": "story",
+      "target": "tolong",
+      "weight": 90
+    },
+    {
+      "source": "banyak",
+      "target": "tolong",
+      "weight": 73
+    },
+    {
+      "source": "lama",
+      "target": "story",
+      "weight": 28
+    },
+    {
+      "source": "banyak",
+      "target": "lama",
+      "weight": 24
+    },
+    {
+      "source": "baru",
+      "target": "hilang",
+      "weight": 14
+    },
+    {
+      "source": "baru",
+      "target": "malah",
+      "weight": 32
+    },
+    {
+      "source": "baru",
+      "target": "diperbaiki",
+      "weight": 18
+    },
+    {
+      "source": "hilang",
+      "target": "malah",
+      "weight": 22
+    },
+    {
+      "source": "diperbaiki",
+      "target": "hilang",
+      "weight": 11
+    },
+    {
+      "source": "akun",
+      "target": "hilang",
+      "weight": 31
+    },
+    {
+      "source": "hilang",
+      "target": "tolong",
+      "weight": 41
+    },
+    {
+      "source": "hilang",
+      "target": "lama",
+      "weight": 12
+    },
+    {
+      "source": "diperbaiki",
+      "target": "malah",
+      "weight": 31
+    },
+    {
+      "source": "akun",
+      "target": "malah",
+      "weight": 51
+    },
+    {
+      "source": "malah",
+      "target": "tolong",
+      "weight": 77
+    },
+    {
+      "source": "lama",
+      "target": "malah",
+      "weight": 28
+    },
+    {
+      "source": "akun",
+      "target": "diperbaiki",
+      "weight": 32
+    },
+    {
+      "source": "baru",
+      "target": "foto",
+      "weight": 19
+    },
+    {
+      "source": "foto",
+      "target": "padahal",
+      "weight": 37
+    },
+    {
+      "source": "foto",
+      "target": "sekarang",
+      "weight": 15
+    },
+    {
+      "source": "foto",
+      "target": "story",
+      "weight": 37
+    },
+    {
+      "source": "bagus",
+      "target": "foto",
+      "weight": 22
+    },
+    {
+      "source": "baru",
+      "target": "sekarang",
+      "weight": 13
+    },
+    {
+      "source": "baru",
+      "target": "story",
+      "weight": 20
+    },
+    {
+      "source": "hilang",
+      "target": "lain",
+      "weight": 14
+    },
+    {
+      "source": "bug",
+      "target": "hilang",
+      "weight": 24
+    },
+    {
+      "source": "hilang",
+      "target": "perbaiki",
+      "weight": 21
+    },
+    {
+      "source": "banyak",
+      "target": "hilang",
+      "weight": 26
+    },
+    {
+      "source": "lain",
+      "target": "perbaiki",
+      "weight": 26
+    },
+    {
+      "source": "lain",
+      "target": "muncul",
+      "weight": 15
+    },
+    {
+      "source": "bug",
+      "target": "perbaiki",
+      "weight": 58
+    },
+    {
+      "source": "muncul",
+      "target": "perbaiki",
+      "weight": 14
+    },
+    {
+      "source": "banyak",
+      "target": "perbaiki",
+      "weight": 28
+    },
+    {
+      "source": "banyak",
+      "target": "muncul",
+      "weight": 20
+    },
+    {
+      "source": "foto",
+      "target": "pas",
+      "weight": 14
+    },
+    {
+      "source": "foto",
+      "target": "jangan",
+      "weight": 19
+    },
+    {
+      "source": "foto",
+      "target": "mohon",
+      "weight": 17
+    },
+    {
+      "source": "jangan",
+      "target": "mohon",
+      "weight": 18
+    },
+    {
+      "source": "bagus",
+      "target": "jangan",
+      "weight": 15
+    },
+    {
+      "source": "bagus",
+      "target": "mohon",
+      "weight": 16
+    },
+    {
+      "source": "fitur",
+      "target": "foto",
+      "weight": 33
+    },
+    {
+      "source": "foto",
+      "target": "sangat",
+      "weight": 20
+    },
+    {
+      "source": "foto",
+      "target": "malah",
+      "weight": 29
+    },
+    {
+      "source": "diperbaiki",
+      "target": "foto",
+      "weight": 17
+    },
+    {
+      "source": "foto",
+      "target": "seperti",
+      "weight": 14
+    },
+    {
+      "source": "foto",
+      "target": "tolong",
+      "weight": 56
+    },
+    {
+      "source": "foto",
+      "target": "orang",
+      "weight": 11
+    },
+    {
+      "source": "banyak",
+      "target": "foto",
+      "weight": 34
+    },
+    {
+      "source": "foto",
+      "target": "perbaiki",
+      "weight": 19
+    },
+    {
+      "source": "fitur",
+      "target": "sangat",
+      "weight": 50
+    },
+    {
+      "source": "fitur",
+      "target": "malah",
+      "weight": 40
+    },
+    {
+      "source": "fitur",
+      "target": "mohon",
+      "weight": 34
+    },
+    {
+      "source": "diperbaiki",
+      "target": "fitur",
+      "weight": 17
+    },
+    {
+      "source": "fitur",
+      "target": "padahal",
+      "weight": 38
+    },
+    {
+      "source": "fitur",
+      "target": "seperti",
+      "weight": 26
+    },
+    {
+      "source": "fitur",
+      "target": "tolong",
+      "weight": 107
+    },
+    {
+      "source": "fitur",
+      "target": "story",
+      "weight": 60
+    },
+    {
+      "source": "fitur",
+      "target": "orang",
+      "weight": 30
+    },
+    {
+      "source": "banyak",
+      "target": "fitur",
+      "weight": 51
+    },
+    {
+      "source": "fitur",
+      "target": "perbaiki",
+      "weight": 28
+    },
+    {
+      "source": "malah",
+      "target": "sangat",
+      "weight": 10
+    },
+    {
+      "source": "mohon",
+      "target": "sangat",
+      "weight": 19
+    },
+    {
+      "source": "sangat",
+      "target": "seperti",
+      "weight": 22
+    },
+    {
+      "source": "sangat",
+      "target": "story",
+      "weight": 34
+    },
+    {
+      "source": "orang",
+      "target": "sangat",
+      "weight": 17
+    },
+    {
+      "source": "banyak",
+      "target": "sangat",
+      "weight": 33
+    },
+    {
+      "source": "perbaiki",
+      "target": "sangat",
+      "weight": 18
+    },
+    {
+      "source": "malah",
+      "target": "mohon",
+      "weight": 25
+    },
+    {
+      "source": "malah",
+      "target": "seperti",
+      "weight": 17
+    },
+    {
+      "source": "malah",
+      "target": "perbaiki",
+      "weight": 29
+    },
+    {
+      "source": "diperbaiki",
+      "target": "mohon",
+      "weight": 21
+    },
+    {
+      "source": "mohon",
+      "target": "padahal",
+      "weight": 27
+    },
+    {
+      "source": "mohon",
+      "target": "seperti",
+      "weight": 18
+    },
+    {
+      "source": "mohon",
+      "target": "tolong",
+      "weight": 26
+    },
+    {
+      "source": "mohon",
+      "target": "story",
+      "weight": 26
+    },
+    {
+      "source": "mohon",
+      "target": "orang",
+      "weight": 12
+    },
+    {
+      "source": "banyak",
+      "target": "mohon",
+      "weight": 15
+    },
+    {
+      "source": "mohon",
+      "target": "perbaiki",
+      "weight": 27
+    },
+    {
+      "source": "padahal",
+      "target": "seperti",
+      "weight": 17
+    },
+    {
+      "source": "padahal",
+      "target": "perbaiki",
+      "weight": 49
+    },
+    {
+      "source": "seperti",
+      "target": "tolong",
+      "weight": 35
+    },
+    {
+      "source": "seperti",
+      "target": "story",
+      "weight": 23
+    },
+    {
+      "source": "orang",
+      "target": "seperti",
+      "weight": 14
+    },
+    {
+      "source": "banyak",
+      "target": "seperti",
+      "weight": 18
+    },
+    {
+      "source": "perbaiki",
+      "target": "seperti",
+      "weight": 18
+    },
+    {
+      "source": "orang",
+      "target": "tolong",
+      "weight": 36
+    },
+    {
+      "source": "perbaiki",
+      "target": "tolong",
+      "weight": 121
+    },
+    {
+      "source": "perbaiki",
+      "target": "story",
+      "weight": 29
+    },
+    {
+      "source": "orang",
+      "target": "perbaiki",
+      "weight": 19
+    },
+    {
+      "source": "baru",
+      "target": "pas",
+      "weight": 17
+    },
+    {
+      "source": "pas",
+      "target": "perbaiki",
+      "weight": 19
+    },
+    {
+      "source": "baru",
+      "target": "perbaiki",
+      "weight": 20
+    },
+    {
+      "source": "bagus",
+      "target": "perbaiki",
+      "weight": 27
+    },
+    {
+      "source": "foto",
+      "target": "muncul",
+      "weight": 15
+    },
+    {
+      "source": "bagus",
+      "target": "fitur",
+      "weight": 40
+    },
+    {
+      "source": "fitur",
+      "target": "muncul",
+      "weight": 24
+    },
+    {
+      "source": "bagus",
+      "target": "sangat",
+      "weight": 23
+    },
+    {
+      "source": "bagus",
+      "target": "seperti",
+      "weight": 15
+    },
+    {
+      "source": "bagus",
+      "target": "muncul",
+      "weight": 17
+    },
+    {
+      "source": "fitur",
+      "target": "hilang",
+      "weight": 35
+    },
+    {
+      "source": "fitur",
+      "target": "lain",
+      "weight": 38
+    },
+    {
+      "source": "bug",
+      "target": "fitur",
+      "weight": 29
+    },
+    {
+      "source": "akun",
+      "target": "fitur",
+      "weight": 56
+    },
+    {
+      "source": "fitur",
+      "target": "sekarang",
+      "weight": 23
+    },
+    {
+      "source": "hilang",
+      "target": "padahal",
+      "weight": 23
+    },
+    {
+      "source": "hilang",
+      "target": "sekarang",
+      "weight": 19
+    },
+    {
+      "source": "bagus",
+      "target": "hilang",
+      "weight": 11
+    },
+    {
+      "source": "akun",
+      "target": "lain",
+      "weight": 44
+    },
+    {
+      "source": "akun",
+      "target": "bug",
+      "weight": 45
+    },
+    {
+      "source": "akun",
+      "target": "sekarang",
+      "weight": 38
+    },
+    {
+      "source": "akun",
+      "target": "bagus",
+      "weight": 27
+    },
+    {
+      "source": "akun",
+      "target": "banyak",
+      "weight": 39
+    },
+    {
+      "source": "baru",
+      "target": "fitur",
+      "weight": 40
+    },
+    {
+      "source": "fitur",
+      "target": "jangan",
+      "weight": 59
+    },
+    {
+      "source": "fitur",
+      "target": "masih",
+      "weight": 21
+    },
+    {
+      "source": "fitur",
+      "target": "update",
+      "weight": 49
+    },
+    {
+      "source": "fitur",
+      "target": "lama",
+      "weight": 25
+    },
+    {
+      "source": "baru",
+      "target": "masih",
+      "weight": 16
+    },
+    {
+      "source": "baru",
+      "target": "update",
+      "weight": 34
+    },
+    {
+      "source": "jangan",
+      "target": "update",
+      "weight": 19
+    },
+    {
+      "source": "jangan",
+      "target": "lama",
+      "weight": 15
+    },
+    {
+      "source": "masih",
+      "target": "update",
+      "weight": 25
+    },
+    {
+      "source": "lama",
+      "target": "update",
+      "weight": 28
+    },
+    {
+      "source": "foto",
+      "target": "video",
+      "weight": 48
+    },
+    {
+      "source": "foto",
+      "target": "update",
+      "weight": 29
+    },
+    {
+      "source": "malah",
+      "target": "video",
+      "weight": 26
+    },
+    {
+      "source": "seperti",
+      "target": "video",
+      "weight": 18
+    },
+    {
+      "source": "update",
+      "target": "video",
+      "weight": 23
+    },
+    {
+      "source": "seperti",
+      "target": "update",
+      "weight": 15
+    },
+    {
+      "source": "dong",
+      "target": "pas",
+      "weight": 13
+    },
+    {
+      "source": "dong",
+      "target": "video",
+      "weight": 15
+    },
+    {
+      "source": "dong",
+      "target": "tolong",
+      "weight": 82
+    },
+    {
+      "source": "baru",
+      "target": "video",
+      "weight": 13
+    },
+    {
+      "source": "hilang",
+      "target": "video",
+      "weight": 13
+    },
+    {
+      "source": "akun",
+      "target": "masih",
+      "weight": 37
+    },
+    {
+      "source": "pas",
+      "target": "update",
+      "weight": 16
+    },
+    {
+      "source": "muncul",
+      "target": "pas",
+      "weight": 13
+    },
+    {
+      "source": "banyak",
+      "target": "baru",
+      "weight": 12
+    },
+    {
+      "source": "muncul",
+      "target": "update",
+      "weight": 20
+    },
+    {
+      "source": "foto",
+      "target": "hilang",
+      "weight": 16
+    },
+    {
+      "source": "arsip",
+      "target": "foto",
+      "weight": 23
+    },
+    {
+      "source": "arsip",
+      "target": "hilang",
+      "weight": 22
+    },
+    {
+      "source": "hilang",
+      "target": "update",
+      "weight": 14
+    },
+    {
+      "source": "hilang",
+      "target": "story",
+      "weight": 27
+    },
+    {
+      "source": "arsip",
+      "target": "video",
+      "weight": 22
+    },
+    {
+      "source": "arsip",
+      "target": "update",
+      "weight": 15
+    },
+    {
+      "source": "arsip",
+      "target": "story",
+      "weight": 39
+    },
+    {
+      "source": "arsip",
+      "target": "bagus",
+      "weight": 10
+    },
+    {
+      "source": "fitur",
+      "target": "video",
+      "weight": 32
+    },
+    {
+      "source": "lama",
+      "target": "seperti",
+      "weight": 12
+    },
+    {
+      "source": "tolong",
+      "target": "update",
+      "weight": 77
+    },
+    {
+      "source": "perbaiki",
+      "target": "update",
+      "weight": 35
+    },
+    {
+      "source": "lama",
+      "target": "perbaiki",
+      "weight": 26
+    },
+    {
+      "source": "akun",
+      "target": "pas",
+      "weight": 29
+    },
+    {
+      "source": "akun",
+      "target": "semua",
+      "weight": 26
+    },
+    {
+      "source": "perbaiki",
+      "target": "semua",
+      "weight": 14
+    },
+    {
+      "source": "akun",
+      "target": "perbaiki",
+      "weight": 49
+    },
+    {
+      "source": "lain",
+      "target": "sangat",
+      "weight": 20
+    },
+    {
+      "source": "sangat",
+      "target": "sekarang",
+      "weight": 13
+    },
+    {
+      "source": "lain",
+      "target": "mohon",
+      "weight": 16
+    },
+    {
+      "source": "diperbaiki",
+      "target": "lain",
+      "weight": 19
+    },
+    {
+      "source": "lain",
+      "target": "tolong",
+      "weight": 59
+    },
+    {
+      "source": "dong",
+      "target": "lain",
+      "weight": 15
+    },
+    {
+      "source": "dong",
+      "target": "padahal",
+      "weight": 29
+    },
+    {
+      "source": "dong",
+      "target": "mohon",
+      "weight": 10
+    },
+    {
+      "source": "mohon",
+      "target": "sekarang",
+      "weight": 19
+    },
+    {
+      "source": "diperbaiki",
+      "target": "dong",
+      "weight": 15
+    },
+    {
+      "source": "diperbaiki",
+      "target": "sekarang",
+      "weight": 15
+    },
+    {
+      "source": "sekarang",
+      "target": "tolong",
+      "weight": 50
+    },
+    {
+      "source": "dong",
+      "target": "story",
+      "weight": 24
+    },
+    {
+      "source": "dong",
+      "target": "sekarang",
+      "weight": 19
+    },
+    {
+      "source": "banyak",
+      "target": "dong",
+      "weight": 19
+    },
+    {
+      "source": "malah",
+      "target": "pas",
+      "weight": 34
+    },
+    {
+      "source": "dong",
+      "target": "malah",
+      "weight": 32
+    },
+    {
+      "source": "bug",
+      "target": "dong",
+      "weight": 25
+    },
+    {
+      "source": "jangan",
+      "target": "video",
+      "weight": 20
+    },
+    {
+      "source": "perbaiki",
+      "target": "video",
+      "weight": 15
+    },
+    {
+      "source": "jangan",
+      "target": "padahal",
+      "weight": 21
+    },
+    {
+      "source": "jangan",
+      "target": "tolong",
+      "weight": 60
+    },
+    {
+      "source": "dong",
+      "target": "jangan",
+      "weight": 17
+    },
+    {
+      "source": "banyak",
+      "target": "jangan",
+      "weight": 23
+    },
+    {
+      "source": "jangan",
+      "target": "perbaiki",
+      "weight": 14
+    },
+    {
+      "source": "masih",
+      "target": "perbaiki",
+      "weight": 12
+    },
+    {
+      "source": "dong",
+      "target": "perbaiki",
+      "weight": 19
+    },
+    {
+      "source": "sangat",
+      "target": "video",
+      "weight": 14
+    },
+    {
+      "source": "lain",
+      "target": "semua",
+      "weight": 10
+    },
+    {
+      "source": "jangan",
+      "target": "semua",
+      "weight": 16
+    },
+    {
+      "source": "jangan",
+      "target": "lain",
+      "weight": 14
+    },
+    {
+      "source": "bug",
+      "target": "jangan",
+      "weight": 10
+    },
+    {
+      "source": "jangan",
+      "target": "story",
+      "weight": 32
+    },
+    {
+      "source": "hilang",
+      "target": "semua",
+      "weight": 14
+    },
+    {
+      "source": "malah",
+      "target": "semua",
+      "weight": 13
+    },
+    {
+      "source": "hilang",
+      "target": "jangan",
+      "weight": 13
+    },
+    {
+      "source": "jangan",
+      "target": "malah",
+      "weight": 18
+    },
+    {
+      "source": "arsip",
+      "target": "malah",
+      "weight": 21
+    },
+    {
+      "source": "arsip",
+      "target": "lama",
+      "weight": 14
+    },
+    {
+      "source": "akun",
+      "target": "update",
+      "weight": 35
+    },
+    {
+      "source": "foto",
+      "target": "lama",
+      "weight": 24
+    },
+    {
+      "source": "jangan",
+      "target": "sangat",
+      "weight": 22
+    },
+    {
+      "source": "mohon",
+      "target": "video",
+      "weight": 13
+    },
+    {
+      "source": "lama",
+      "target": "mohon",
+      "weight": 11
+    },
+    {
+      "source": "arsip",
+      "target": "semua",
+      "weight": 18
+    },
+    {
+      "source": "baru",
+      "target": "lain",
+      "weight": 19
+    },
+    {
+      "source": "malah",
+      "target": "muncul",
+      "weight": 26
+    },
+    {
+      "source": "jangan",
+      "target": "sekarang",
+      "weight": 10
+    },
+    {
+      "source": "muncul",
+      "target": "padahal",
+      "weight": 25
+    },
+    {
+      "source": "muncul",
+      "target": "tolong",
+      "weight": 33
+    },
+    {
+      "source": "muncul",
+      "target": "sekarang",
+      "weight": 14
+    },
+    {
+      "source": "muncul",
+      "target": "story",
+      "weight": 24
+    },
+    {
+      "source": "foto",
+      "target": "semua",
+      "weight": 18
+    },
+    {
+      "source": "orang",
+      "target": "semua",
+      "weight": 14
+    },
+    {
+      "source": "muncul",
+      "target": "semua",
+      "weight": 10
+    },
+    {
+      "source": "fitur",
+      "target": "semua",
+      "weight": 37
+    },
+    {
+      "source": "sangat",
+      "target": "semua",
+      "weight": 12
+    },
+    {
+      "source": "semua",
+      "target": "seperti",
+      "weight": 12
+    },
+    {
+      "source": "arsip",
+      "target": "jangan",
+      "weight": 46
+    },
+    {
+      "source": "arsip",
+      "target": "padahal",
+      "weight": 17
+    },
+    {
+      "source": "arsip",
+      "target": "banyak",
+      "weight": 30
+    },
+    {
+      "source": "fitur",
+      "target": "pas",
+      "weight": 16
+    },
+    {
+      "source": "hilang",
+      "target": "mohon",
+      "weight": 13
+    },
+    {
+      "source": "baru",
+      "target": "semua",
+      "weight": 12
+    },
+    {
+      "source": "arsip",
+      "target": "tolong",
+      "weight": 43
+    },
+    {
+      "source": "arsip",
+      "target": "fitur",
+      "weight": 57
+    },
+    {
+      "source": "arsip",
+      "target": "lain",
+      "weight": 10
+    },
+    {
+      "source": "hilang",
+      "target": "seperti",
+      "weight": 11
+    },
+    {
+      "source": "arsip",
+      "target": "mohon",
+      "weight": 11
+    },
+    {
+      "source": "muncul",
+      "target": "video",
+      "weight": 15
+    },
+    {
+      "source": "jangan",
+      "target": "seperti",
+      "weight": 10
+    },
+    {
+      "source": "mohon",
+      "target": "muncul",
+      "weight": 11
+    },
+    {
+      "source": "lain",
+      "target": "masih",
+      "weight": 18
+    },
+    {
+      "source": "masih",
+      "target": "orang",
+      "weight": 10
+    },
+    {
+      "source": "akun",
+      "target": "orang",
+      "weight": 24
+    },
+    {
+      "source": "bug",
+      "target": "foto",
+      "weight": 18
+    },
+    {
+      "source": "semua",
+      "target": "update",
+      "weight": 17
+    },
+    {
+      "source": "bug",
+      "target": "mohon",
+      "weight": 17
+    },
+    {
+      "source": "diperbaiki",
+      "target": "update",
+      "weight": 21
+    },
+    {
+      "source": "mohon",
+      "target": "update",
+      "weight": 16
+    },
+    {
+      "source": "dong",
+      "target": "foto",
+      "weight": 17
+    },
+    {
+      "source": "dong",
+      "target": "fitur",
+      "weight": 28
+    },
+    {
+      "source": "dong",
+      "target": "update",
+      "weight": 20
+    },
+    {
+      "source": "sekarang",
+      "target": "semua",
+      "weight": 14
+    },
+    {
+      "source": "sekarang",
+      "target": "seperti",
+      "weight": 18
+    },
+    {
+      "source": "perbaiki",
+      "target": "sekarang",
+      "weight": 23
+    },
+    {
+      "source": "akun",
+      "target": "mohon",
+      "weight": 35
+    },
+    {
+      "source": "lama",
+      "target": "muncul",
+      "weight": 11
+    },
+    {
+      "source": "lain",
+      "target": "video",
+      "weight": 18
+    },
+    {
+      "source": "sekarang",
+      "target": "video",
+      "weight": 15
+    },
+    {
+      "source": "bug",
+      "target": "sangat",
+      "weight": 13
+    },
+    {
+      "source": "lain",
+      "target": "lama",
+      "weight": 12
+    },
+    {
+      "source": "akun",
+      "target": "story",
+      "weight": 23
+    },
+    {
+      "source": "malah",
+      "target": "masih",
+      "weight": 17
+    },
+    {
+      "source": "lain",
+      "target": "pas",
+      "weight": 14
+    },
+    {
+      "source": "foto",
+      "target": "lain",
+      "weight": 30
+    },
+    {
+      "source": "lain",
+      "target": "seperti",
+      "weight": 14
+    },
+    {
+      "source": "masih",
+      "target": "muncul",
+      "weight": 12
+    },
+    {
+      "source": "akun",
+      "target": "muncul",
+      "weight": 28
+    },
+    {
+      "source": "lama",
+      "target": "sekarang",
+      "weight": 20
+    },
+    {
+      "source": "akun",
+      "target": "dong",
+      "weight": 27
+    },
+    {
+      "source": "dong",
+      "target": "orang",
+      "weight": 12
+    },
+    {
+      "source": "foto",
+      "target": "masih",
+      "weight": 11
+    },
+    {
+      "source": "akun",
+      "target": "foto",
+      "weight": 28
+    },
+    {
+      "source": "masih",
+      "target": "mohon",
+      "weight": 10
+    },
+    {
+      "source": "masih",
+      "target": "sekarang",
+      "weight": 12
+    },
+    {
+      "source": "akun",
+      "target": "jangan",
+      "weight": 12
+    },
+    {
+      "source": "akun",
+      "target": "seperti",
+      "weight": 27
+    },
+    {
+      "source": "arsip",
+      "target": "sangat",
+      "weight": 17
+    },
+    {
+      "source": "masih",
+      "target": "seperti",
+      "weight": 12
+    },
+    {
+      "source": "jangan",
+      "target": "orang",
+      "weight": 17
+    },
+    {
+      "source": "dong",
+      "target": "semua",
+      "weight": 10
+    },
+    {
+      "source": "baru",
+      "target": "dong",
+      "weight": 14
+    },
+    {
+      "source": "dong",
+      "target": "lama",
+      "weight": 12
+    }
+  ]
+}

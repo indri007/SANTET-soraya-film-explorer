@@ -1,0 +1,29 @@
+[21:56:57] =======================================================
+[21:56:57] Instagram Indonesia Crawler
+[21:56:57] Target: 10000 baris | Min followers: 100
+[21:56:57] =======================================================
+[21:56:57] Login baru sebagai @indrikartika444...
+Traceback (most recent call last):
+  File "<string>", line 40, in init_loader
+    L.load_session_from_file(IG_USERNAME)
+    ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/instaloader/instaloader.py", line 635, in load_session_from_file
+    with open(filename, 'rb') as sessionfile:
+         ~~~~^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/var/folders/7r/x063t3n96rvc1gx4fd84trh80000gn/t/.instaloader-jevin/session-indrikartika444'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "<string>", line 138, in <module>
+    L = init_loader()
+  File "<string>", line 44, in init_loader
+    L.login(IG_USERNAME, IG_PASSWORD)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/instaloader/instaloader.py", line 656, in login
+    self.context.login(user, passwd)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "/opt/miniconda3/lib/python3.13/site-packages/instaloader/instaloadercontext.py", line 313, in login
+    raise LoginException("Login error: \"{}\" status, message \"{}\".".format(resp_json['status'],
+                                                                              resp_json['message']))
+instaloader.exceptions.LoginException: Login error: "fail" status, message "".

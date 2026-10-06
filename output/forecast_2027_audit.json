@@ -1,0 +1,32 @@
+{
+  "forecast_status": "PARTIAL",
+  "target_horizon": "2027-Q4",
+  "prediction_prohibition_compliance": "TRUE. No simulated or synthetic time-series data points are generated. Forecast status is strictly PARTIAL due to cross-sectional nature of current review data.",
+  "research_questions_addressed": [
+    "RQ2: How do topic, sentiment, emotion, and engagement shift toward 2027?",
+    "RQ6: How can trend momentum serve as an early signal for 2027 predictive modeling?"
+  ],
+  "proposed_architectures": {
+    "econometric_baseline": "SARIMAX with exogenous calendar covariates (Ramadan, Harbolnas, National Holidays)",
+    "bayesian_trend_decomposition": "Prophet with custom Indonesian seasonal changepoints",
+    "deep_learning_multimodal": "Temporal Fusion Transformer (TFT) combining textual embeddings with time-varying engagement deltas"
+  },
+  "projected_research_dimensions_2027": {
+    "short_form_video_dominance": "Reels / short video algorithmic priority and audio meme propagation",
+    "ai_generated_content_density": "Prevalence of synthetic/AI-assisted captions and visuals in Indonesian marketing",
+    "e_commerce_integration": "Affiliate and shopping tag conversion dynamics within Instagram posts",
+    "creator_tier_polarization": "Engagement concentration shift between nano-creators vs mega-influencers"
+  },
+  "data_collection_prerequisites_for_full_forecast": [
+    "Minimum 24 months of continuous longitudinal post telemetry (daily aggregation)",
+    "Exact post creation timestamps (UTC+7 / WIB)",
+    "Multi-point engagement snapshots (t+1h, t+24h, t+7d, t+30d) to measure decay rates",
+    "Hashtag co-occurrence graph transitions over consecutive months"
+  ],
+  "methodology_roadmap": [
+    "Phase 1: Ingestion of longitudinal post-level engagement API",
+    "Phase 2: Seasonality decomposition and changepoint detection (2024-2026)",
+    "Phase 3: Multi-scenario projection (Base Case, High-AI Saturation, Regulatory Shift)",
+    "Phase 4: Calibration with 2027 Indonesian digital economy growth indicators"
+  ]
+}

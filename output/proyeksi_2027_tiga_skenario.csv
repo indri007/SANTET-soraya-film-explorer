@@ -1,0 +1,9 @@
+kategori,tahun,metrik,nilai_juta,pertumbuhan_persen,keterangan
+Historis,2022,Rata-rata Konsensus,100.2,0.0,NapoleonCat (101.3M) & GoodStats (99.1M)
+Historis,2023,Rata-rata Konsensus,110.2,9.98,Puncak estimasi sebelum penyesuaian metode Meta
+Historis,2024,Rata-rata Konsensus,96.05,-12.84,Penyesuaian metode estimasi jangkauan iklan Meta Ads
+Historis,2025,Rata-rata Konsensus,104.15,8.43,"Konsensus 4 sumber (NapoleonCat, GoodStats, Statista, DataReportal)"
+Historis,2026,Rata-rata Berjalan,120.75,15.94,NapoleonCat Sept 2026 (123.0M) & GoodStats S2 (118.5M)
+Proyeksi 2027,2027,Rendah (Konservatif / Saturasi),124.37,3.0,Efek saturasi digital demografi usia produktif
+Proyeksi 2027,2027,Sedang (Baseline / Moderat),128.0,6.0,Kelanjutan momentum pemulihan dan penetrasi stabil
+Proyeksi 2027,2027,Tinggi (Optimis / Ekspansi),132.83,10.0,"Akselerasi ekosistem AI, Live Shopping, & Gen-Z"

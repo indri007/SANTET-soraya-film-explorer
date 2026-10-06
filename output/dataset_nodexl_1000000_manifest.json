@@ -1,0 +1,33 @@
+{
+  "dataset_name": "NODEXL_CRAWL_GRAPH_INDONESIA_1000000",
+  "total_edges": 1000000,
+  "unique_vertices": 8081,
+  "time_span": "2020-2026",
+  "temporal_distribution": {
+    "2020": 108402,
+    "2021": 150000,
+    "2022": 150000,
+    "2023": 150000,
+    "2024": 150000,
+    "2025": 148985,
+    "2026": 142613
+  },
+  "topic_distribution": {
+    "Technology": 303440,
+    "General_Lifestyle": 554300,
+    "Comedy_Entertainment": 8740,
+    "Fashion_Beauty": 52060,
+    "Culinary": 59740,
+    "Business_Finance": 4040,
+    "Travel_Lifestyle": 17680
+  },
+  "sentiment_distribution": {
+    "neutral": 869980,
+    "positive": 117680,
+    "negative": 12340
+  },
+  "storage_format": "GZIP Compressed CSV (Compliant with GitHub 100MB limit)",
+  "file_size_mb": 23.45,
+  "node_xl_importable": true,
+  "description": "1,000,000 Indonesian Instagram relational edges (2020-2026) for NodeXL Social Network Analysis"
+}

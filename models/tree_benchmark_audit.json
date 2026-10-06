@@ -1,0 +1,61 @@
+{
+  "dataset_records": 1000,
+  "target_records": 10000,
+  "remaining_records": 9000,
+  "dataset_status": "TARGET_NOT_REACHED",
+  "executed_at": "2026-09-27T23:01:35.809199",
+  "models": [
+    {
+      "model": "xgboost",
+      "status": "VERIFIED",
+      "accuracy": 0.505,
+      "precision_macro": 0.37085175361037426,
+      "recall_macro": 0.29010902031063324,
+      "f1_macro": 0.2681816761696477,
+      "precision_weighted": 0.4197520630710286,
+      "recall_weighted": 0.505,
+      "f1_weighted": 0.4152597850330217,
+      "error": ""
+    },
+    {
+      "model": "lightgbm",
+      "status": "VERIFIED",
+      "accuracy": 0.495,
+      "precision_macro": 0.2955353126405758,
+      "recall_macro": 0.28063470728793305,
+      "f1_macro": 0.26050573648196734,
+      "precision_weighted": 0.39761808367071516,
+      "recall_weighted": 0.495,
+      "f1_weighted": 0.41490276277203264,
+      "error": ""
+    }
+  ],
+  "cross_validation": [
+    {
+      "model": "xgboost",
+      "status": "VERIFIED",
+      "accuracy_mean": 0.48375,
+      "accuracy_std": 0.033447720400649125,
+      "precision_macro_mean": 0.3518561130052088,
+      "precision_macro_std": 0.0644997262518627,
+      "recall_macro_mean": 0.26796649437519,
+      "recall_macro_std": 0.022893918802288377,
+      "f1_macro_mean": 0.25584037700377676,
+      "f1_macro_std": 0.025036054270116338,
+      "error": ""
+    },
+    {
+      "model": "lightgbm",
+      "status": "VERIFIED",
+      "accuracy_mean": 0.4575,
+      "accuracy_std": 0.024173849507267142,
+      "precision_macro_mean": 0.2854865356219172,
+      "precision_macro_std": 0.025323740543101308,
+      "recall_macro_mean": 0.262041874067961,
+      "recall_macro_std": 0.021117878114876747,
+      "f1_macro_mean": 0.25216693490374825,
+      "f1_macro_std": 0.017951037336380888,
+      "error": ""
+    }
+  ]
+}

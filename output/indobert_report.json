@@ -1,0 +1,42 @@
+{
+  "model_name": "indobenchmark/indobert-base-p1 & mdhugol/indonesia-bert-sentiment-classification",
+  "model_source": "Local HuggingFace Cache (~/.cache/huggingface/hub)",
+  "device": "mps",
+  "number_of_records": 1000,
+  "batch_size": 32,
+  "inference_status": "AVAILABLE",
+  "processing_time_seconds": 8.89,
+  "sentiment_distribution": {
+    "negative": 816,
+    "neutral": 105,
+    "positive": 79
+  },
+  "emotion_distribution": {
+    "anger": 365,
+    "surprise": 295,
+    "sadness": 141,
+    "joy": 136,
+    "neutral": 61,
+    "fear": 2
+  },
+  "embedding_shape": [
+    1000,
+    768
+  ],
+  "labels": {
+    "sentiment": [
+      "positive",
+      "neutral",
+      "negative"
+    ],
+    "emotion": [
+      "joy",
+      "sadness",
+      "anger",
+      "fear",
+      "surprise",
+      "neutral"
+    ]
+  },
+  "limitations": "Emotion classification combines neural sentiment priors with lexical affective triggers; ground truth human emotion labels are not present in raw app review export."
+}

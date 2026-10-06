@@ -1,0 +1,54 @@
+{
+  "rows": 1000,
+  "columns": [
+    "username",
+    "review_text",
+    "rating",
+    "url_count",
+    "mention_count",
+    "hashtag_count",
+    "emoji_count",
+    "clean_text",
+    "text_length",
+    "token_count"
+  ],
+  "dtypes": {
+    "username": "object",
+    "review_text": "object",
+    "rating": "int64",
+    "url_count": "int64",
+    "mention_count": "int64",
+    "hashtag_count": "int64",
+    "emoji_count": "int64",
+    "clean_text": "object",
+    "text_length": "int64",
+    "token_count": "int64"
+  },
+  "null_counts": {
+    "username": 0,
+    "review_text": 0,
+    "rating": 0,
+    "url_count": 0,
+    "mention_count": 0,
+    "hashtag_count": 0,
+    "emoji_count": 0,
+    "clean_text": 0,
+    "text_length": 0,
+    "token_count": 0
+  },
+  "null_total": 0,
+  "duplicate_rows": 0,
+  "duplicate_text": 0,
+  "empty_text": 0,
+  "rating_distribution": {
+    "1": 481,
+    "2": 156,
+    "3": 134,
+    "4": 82,
+    "5": 147
+  },
+  "rating_dtype": "int64",
+  "rating_nulls": 0,
+  "source_file": "/Users/jevin/instagramindonesia/data/Review Instagram.csv",
+  "output_file": "/Users/jevin/instagramindonesia/output/ig_01_cleaned.csv"
+}

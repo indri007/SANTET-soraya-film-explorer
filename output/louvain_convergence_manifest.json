@@ -1,0 +1,76 @@
+{
+  "title": "Louvain Convergence & Resolution Stability 8-Bit Binary Manifest",
+  "algorithm": "Blondel et al. (2008) Greedy Modularity Optimization",
+  "total_nodes": 30,
+  "total_edges": 383,
+  "total_bits": 19024,
+  "total_octets": 2378,
+  "resolution_benchmark": {
+    "0.5": {
+      "mean_modularity": -0.0013626983523518257,
+      "std_modularity": 0.0012081252355980148,
+      "mean_communities": 2.2,
+      "stability_ari": 0.08491240908926899,
+      "modularity_samples": [
+        -0.002439607708159041,
+        0.0,
+        -0.0004317734022001832,
+        -0.0031274148475310473,
+        -0.0008146958038688565
+      ]
+    },
+    "0.8": {
+      "mean_modularity": 0.015077686525225165,
+      "std_modularity": 0.02068099329355743,
+      "mean_communities": 4.6,
+      "stability_ari": 0.09204855177505686,
+      "modularity_samples": [
+        0.04797326248079202,
+        0.019099804585590976,
+        -0.009908985765716251,
+        0.022240630160971917,
+        -0.004016278835512831
+      ]
+    },
+    "1.0": {
+      "mean_modularity": 0.052581898132376195,
+      "std_modularity": 0.00013578184557563321,
+      "mean_communities": 2.0,
+      "stability_ari": 0.8969543147208121,
+      "modularity_samples": [
+        0.052649789055164015,
+        0.05231033444122493,
+        0.052649789055164015,
+        0.052649789055164015,
+        0.052649789055164015
+      ]
+    },
+    "1.2": {
+      "mean_modularity": 0.025808424928604544,
+      "std_modularity": 0.00027766971143642244,
+      "mean_communities": 7.0,
+      "stability_ari": 0.9738418916306939,
+      "modularity_samples": [
+        0.025669590072886335,
+        0.025669590072886335,
+        0.02566959007288633,
+        0.02636376435147739,
+        0.025669590072886335
+      ]
+    },
+    "1.5": {
+      "mean_modularity": -0.0021546531569028417,
+      "std_modularity": 0.002133394534830053,
+      "mean_communities": 15.2,
+      "stability_ari": 0.6940315992270701,
+      "modularity_samples": [
+        -0.002911419346875135,
+        -0.0036507312498559037,
+        -0.0004014041348996784,
+        0.0009888649709621968,
+        -0.004798576023845686
+      ]
+    }
+  },
+  "lossless_verified": true
+}

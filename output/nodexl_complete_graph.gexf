@@ -1,0 +1,734 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-10-03">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequency" type="long" />
+      <attribute id="1" title="degree_centrality" type="double" />
+      <attribute id="2" title="betweenness_centrality" type="double" />
+      <attribute id="3" title="closeness_centrality" type="double" />
+      <attribute id="4" title="eigenvector_centrality" type="double" />
+      <attribute id="5" title="pagerank" type="double" />
+      <attribute id="6" title="louvain_community" type="long" />
+    </attributes>
+    <nodes>
+      <node id="tolong" label="tolong">
+        <attvalues>
+          <attvalue for="0" value="414" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0.41190876795161635" />
+          <attvalue for="5" value="0.08296060192672783" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="padahal" label="padahal">
+        <attvalues>
+          <attvalue for="0" value="261" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0.28112260633820535" />
+          <attvalue for="5" value="0.0534355037391126" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="akun" label="akun">
+        <attvalues>
+          <attvalue for="0" value="251" />
+          <attvalue for="1" value="0.9310344827586207" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.9354838709677419" />
+          <attvalue for="4" value="0.25608784220039654" />
+          <attvalue for="5" value="0.04842638269158492" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="fitur" label="fitur">
+        <attvalues>
+          <attvalue for="0" value="246" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0.25884990889475207" />
+          <attvalue for="5" value="0.05199007447312133" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="story" label="story">
+        <attvalues>
+          <attvalue for="0" value="212" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0.23369074098698564" />
+          <attvalue for="5" value="0.045726920251376243" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="malah" label="malah">
+        <attvalues>
+          <attvalue for="0" value="197" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0.22502333598458613" />
+          <attvalue for="5" value="0.04403803136009478" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="update" label="update">
+        <attvalues>
+          <attvalue for="0" value="186" />
+          <attvalue for="1" value="0.9655172413793103" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.9666666666666667" />
+          <attvalue for="4" value="0.21113651566137634" />
+          <attvalue for="5" value="0.04010323205751619" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="perbaiki" label="perbaiki">
+        <attvalues>
+          <attvalue for="0" value="174" />
+          <attvalue for="1" value="0.9310344827586207" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.9354838709677419" />
+          <attvalue for="4" value="0.20642209915716486" />
+          <attvalue for="5" value="0.03690785192313693" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="banyak" label="banyak">
+        <attvalues>
+          <attvalue for="0" value="173" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0.20645979517626278" />
+          <attvalue for="5" value="0.04081763404671117" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="bug" label="bug">
+        <attvalues>
+          <attvalue for="0" value="172" />
+          <attvalue for="1" value="0.9655172413793103" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="0.9666666666666667" />
+          <attvalue for="4" value="0.20263839332164985" />
+          <attvalue for="5" value="0.03802345618847909" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="bagus" label="bagus">
+        <attvalues>
+          <attvalue for="0" value="159" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.0024630541871921183" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0.17850403967650497" />
+          <attvalue for="5" value="0.03515424137408935" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="foto" label="foto">
+        <attvalues>
+          <attvalue for="0" value="152" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.0" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0.16420234033367054" />
+          <attvalue for="5" value="0.0336747097603866" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="lain" label="lain">
+        <attvalues>
+          <attvalue for="0" value="136" />
+          <attvalue for="1" value="1.0" />
+          <attvalue for="2" value="0.017241379310344827" />
+          <attvalue for="3" value="1.0" />
+          <attvalue for="4" value="0.17112831766883138" />
+          <attvalue for="5" value="0.033906835757144094" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="video" label="video">
+        <attvalues>
+          <attvalue for="0" value="136" />
+          <attvalue for="1" value="0.9310344827586207" />
+          <attvalue for="2" value="0.0024630541871921183" />
+          <attvalue for="3" value="0.9354838709677419" />
+          <attvalue for="4" value="0.14397276514893959" />
+          <attvalue for="5" value="0.02965377847645851" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="sangat" label="sangat">
+        <attvalues>
+          <attvalue for="0" value="128" />
+          <attvalue for="1" value="0.7241379310344828" />
+          <attvalue for="2" value="0.009852216748768473" />
+          <attvalue for="3" value="0.7837837837837838" />
+          <attvalue for="4" value="0.12424962060955382" />
+          <attvalue for="5" value="0.02462091830128082" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="sekarang" label="sekarang">
+        <attvalues>
+          <attvalue for="0" value="124" />
+          <attvalue for="1" value="0.9310344827586207" />
+          <attvalue for="2" value="0.019909688013136286" />
+          <attvalue for="3" value="0.9354838709677419" />
+          <attvalue for="4" value="0.1449723899618092" />
+          <attvalue for="5" value="0.029055612611990158" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="lama" label="lama">
+        <attvalues>
+          <attvalue for="0" value="120" />
+          <attvalue for="1" value="0.9655172413793103" />
+          <attvalue for="2" value="0.011904761904761904" />
+          <attvalue for="3" value="0.9666666666666667" />
+          <attvalue for="4" value="0.13946990662675213" />
+          <attvalue for="5" value="0.028298750107575987" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="baru" label="baru">
+        <attvalues>
+          <attvalue for="0" value="116" />
+          <attvalue for="1" value="0.7586206896551724" />
+          <attvalue for="2" value="0.008620689655172414" />
+          <attvalue for="3" value="0.8055555555555556" />
+          <attvalue for="4" value="0.1318480107614767" />
+          <attvalue for="5" value="0.025275125192840805" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="diperbaiki" label="diperbaiki">
+        <attvalues>
+          <attvalue for="0" value="111" />
+          <attvalue for="1" value="0.7931034482758621" />
+          <attvalue for="2" value="0.008210180623973726" />
+          <attvalue for="3" value="0.8285714285714286" />
+          <attvalue for="4" value="0.13880352834800938" />
+          <attvalue for="5" value="0.025901883477167854" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="mohon" label="mohon">
+        <attvalues>
+          <attvalue for="0" value="111" />
+          <attvalue for="1" value="0.896551724137931" />
+          <attvalue for="2" value="0.07389162561576355" />
+          <attvalue for="3" value="0.90625" />
+          <attvalue for="4" value="0.11636465098366279" />
+          <attvalue for="5" value="0.02497393571616048" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="dong" label="dong">
+        <attvalues>
+          <attvalue for="0" value="107" />
+          <attvalue for="1" value="0.7931034482758621" />
+          <attvalue for="2" value="0.009236453201970444" />
+          <attvalue for="3" value="0.8285714285714286" />
+          <attvalue for="4" value="0.1382297191605184" />
+          <attvalue for="5" value="0.025063639895942593" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="jangan" label="jangan">
+        <attvalues>
+          <attvalue for="0" value="106" />
+          <attvalue for="1" value="0.8275862068965517" />
+          <attvalue for="2" value="0.05952380952380953" />
+          <attvalue for="3" value="0.8529411764705882" />
+          <attvalue for="4" value="0.131198504883018" />
+          <attvalue for="5" value="0.02649574347562379" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="pas" label="pas">
+        <attvalues>
+          <attvalue for="0" value="100" />
+          <attvalue for="1" value="0.6896551724137931" />
+          <attvalue for="2" value="0.018062397372742203" />
+          <attvalue for="3" value="0.7631578947368421" />
+          <attvalue for="4" value="0.10843451617919825" />
+          <attvalue for="5" value="0.021215476253435624" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="masih" label="masih">
+        <attvalues>
+          <attvalue for="0" value="98" />
+          <attvalue for="1" value="0.7931034482758621" />
+          <attvalue for="2" value="0.05808702791461413" />
+          <attvalue for="3" value="0.8285714285714286" />
+          <attvalue for="4" value="0.10802422146518828" />
+          <attvalue for="5" value="0.022078321461146033" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="arsip" label="arsip">
+        <attvalues>
+          <attvalue for="0" value="98" />
+          <attvalue for="1" value="0.5862068965517241" />
+          <attvalue for="2" value="0.011083743842364532" />
+          <attvalue for="3" value="0.7073170731707317" />
+          <attvalue for="4" value="0.10646529804822195" />
+          <attvalue for="5" value="0.022035703665184897" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="muncul" label="muncul">
+        <attvalues>
+          <attvalue for="0" value="97" />
+          <attvalue for="1" value="0.7241379310344828" />
+          <attvalue for="2" value="0.013546798029556651" />
+          <attvalue for="3" value="0.7837837837837838" />
+          <attvalue for="4" value="0.10110740638859117" />
+          <attvalue for="5" value="0.020744609828144883" />
+          <attvalue for="6" value="1" />
+        </attvalues>
+      </node>
+      <node id="seperti" label="seperti">
+        <attvalues>
+          <attvalue for="0" value="93" />
+          <attvalue for="1" value="0.8275862068965517" />
+          <attvalue for="2" value="0.031198686371100164" />
+          <attvalue for="3" value="0.8529411764705882" />
+          <attvalue for="4" value="0.10293831074566068" />
+          <attvalue for="5" value="0.022196662122090014" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="hilang" label="hilang">
+        <attvalues>
+          <attvalue for="0" value="93" />
+          <attvalue for="1" value="0.7931034482758621" />
+          <attvalue for="2" value="0.006157635467980296" />
+          <attvalue for="3" value="0.8285714285714286" />
+          <attvalue for="4" value="0.1153695070588169" />
+          <attvalue for="5" value="0.02330827736962818" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="orang" label="orang">
+        <attvalues>
+          <attvalue for="0" value="92" />
+          <attvalue for="1" value="0.7241379310344828" />
+          <attvalue for="2" value="0.006978653530377668" />
+          <attvalue for="3" value="0.7837837837837838" />
+          <attvalue for="4" value="0.10472990476415456" />
+          <attvalue for="5" value="0.021620354935668124" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+      <node id="semua" label="semua">
+        <attvalues>
+          <attvalue for="0" value="91" />
+          <attvalue for="1" value="0.8620689655172413" />
+          <attvalue for="2" value="0.08394909688013136" />
+          <attvalue for="3" value="0.8787878787878788" />
+          <attvalue for="4" value="0.10712751144907304" />
+          <attvalue for="5" value="0.02229573156018013" />
+          <attvalue for="6" value="0" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="tolong" target="baru" id="0" weight="49.0" />
+      <edge source="tolong" target="sangat" id="1" weight="54.0" />
+      <edge source="tolong" target="padahal" id="2" weight="112.0" />
+      <edge source="tolong" target="akun" id="3" weight="117.0" />
+      <edge source="tolong" target="lama" id="4" weight="49.0" />
+      <edge source="tolong" target="bug" id="5" weight="83.0" />
+      <edge source="tolong" target="bagus" id="6" weight="68.0" />
+      <edge source="tolong" target="semua" id="7" weight="44.0" />
+      <edge source="tolong" target="pas" id="8" weight="46.0" />
+      <edge source="tolong" target="video" id="9" weight="61.0" />
+      <edge source="tolong" target="masih" id="10" weight="37.0" />
+      <edge source="tolong" target="diperbaiki" id="11" weight="83.0" />
+      <edge source="tolong" target="story" id="12" weight="90.0" />
+      <edge source="tolong" target="banyak" id="13" weight="73.0" />
+      <edge source="tolong" target="hilang" id="14" weight="41.0" />
+      <edge source="tolong" target="malah" id="15" weight="77.0" />
+      <edge source="tolong" target="foto" id="16" weight="56.0" />
+      <edge source="tolong" target="fitur" id="17" weight="107.0" />
+      <edge source="tolong" target="mohon" id="18" weight="26.0" />
+      <edge source="tolong" target="seperti" id="19" weight="35.0" />
+      <edge source="tolong" target="orang" id="20" weight="36.0" />
+      <edge source="tolong" target="perbaiki" id="21" weight="121.0" />
+      <edge source="tolong" target="dong" id="22" weight="82.0" />
+      <edge source="tolong" target="update" id="23" weight="77.0" />
+      <edge source="tolong" target="lain" id="24" weight="59.0" />
+      <edge source="tolong" target="sekarang" id="25" weight="50.0" />
+      <edge source="tolong" target="jangan" id="26" weight="60.0" />
+      <edge source="tolong" target="muncul" id="27" weight="33.0" />
+      <edge source="tolong" target="arsip" id="28" weight="43.0" />
+      <edge source="padahal" target="baru" id="29" weight="30.0" />
+      <edge source="padahal" target="sangat" id="30" weight="22.0" />
+      <edge source="padahal" target="akun" id="31" weight="80.0" />
+      <edge source="padahal" target="lama" id="32" weight="37.0" />
+      <edge source="padahal" target="bug" id="33" weight="48.0" />
+      <edge source="padahal" target="bagus" id="34" weight="46.0" />
+      <edge source="padahal" target="malah" id="35" weight="60.0" />
+      <edge source="padahal" target="lain" id="36" weight="48.0" />
+      <edge source="padahal" target="update" id="37" weight="61.0" />
+      <edge source="padahal" target="sekarang" id="38" weight="39.0" />
+      <edge source="padahal" target="story" id="39" weight="64.0" />
+      <edge source="padahal" target="orang" id="40" weight="25.0" />
+      <edge source="padahal" target="banyak" id="41" weight="47.0" />
+      <edge source="padahal" target="semua" id="42" weight="22.0" />
+      <edge source="padahal" target="pas" id="43" weight="33.0" />
+      <edge source="padahal" target="video" id="44" weight="40.0" />
+      <edge source="padahal" target="masih" id="45" weight="37.0" />
+      <edge source="padahal" target="diperbaiki" id="46" weight="34.0" />
+      <edge source="padahal" target="foto" id="47" weight="37.0" />
+      <edge source="padahal" target="fitur" id="48" weight="38.0" />
+      <edge source="padahal" target="mohon" id="49" weight="27.0" />
+      <edge source="padahal" target="seperti" id="50" weight="17.0" />
+      <edge source="padahal" target="perbaiki" id="51" weight="49.0" />
+      <edge source="padahal" target="hilang" id="52" weight="23.0" />
+      <edge source="padahal" target="dong" id="53" weight="29.0" />
+      <edge source="padahal" target="jangan" id="54" weight="21.0" />
+      <edge source="padahal" target="muncul" id="55" weight="25.0" />
+      <edge source="padahal" target="arsip" id="56" weight="17.0" />
+      <edge source="akun" target="baru" id="57" weight="45.0" />
+      <edge source="akun" target="sangat" id="58" weight="28.0" />
+      <edge source="akun" target="lama" id="59" weight="33.0" />
+      <edge source="akun" target="hilang" id="60" weight="31.0" />
+      <edge source="akun" target="malah" id="61" weight="51.0" />
+      <edge source="akun" target="diperbaiki" id="62" weight="32.0" />
+      <edge source="akun" target="fitur" id="63" weight="56.0" />
+      <edge source="akun" target="lain" id="64" weight="44.0" />
+      <edge source="akun" target="bug" id="65" weight="45.0" />
+      <edge source="akun" target="sekarang" id="66" weight="38.0" />
+      <edge source="akun" target="bagus" id="67" weight="27.0" />
+      <edge source="akun" target="banyak" id="68" weight="39.0" />
+      <edge source="akun" target="masih" id="69" weight="37.0" />
+      <edge source="akun" target="pas" id="70" weight="29.0" />
+      <edge source="akun" target="semua" id="71" weight="26.0" />
+      <edge source="akun" target="perbaiki" id="72" weight="49.0" />
+      <edge source="akun" target="update" id="73" weight="35.0" />
+      <edge source="akun" target="orang" id="74" weight="24.0" />
+      <edge source="akun" target="mohon" id="75" weight="35.0" />
+      <edge source="akun" target="story" id="76" weight="23.0" />
+      <edge source="akun" target="muncul" id="77" weight="28.0" />
+      <edge source="akun" target="dong" id="78" weight="27.0" />
+      <edge source="akun" target="foto" id="79" weight="28.0" />
+      <edge source="akun" target="jangan" id="80" weight="12.0" />
+      <edge source="akun" target="seperti" id="81" weight="27.0" />
+      <edge source="fitur" target="foto" id="82" weight="33.0" />
+      <edge source="fitur" target="sangat" id="83" weight="50.0" />
+      <edge source="fitur" target="malah" id="84" weight="40.0" />
+      <edge source="fitur" target="mohon" id="85" weight="34.0" />
+      <edge source="fitur" target="diperbaiki" id="86" weight="17.0" />
+      <edge source="fitur" target="seperti" id="87" weight="26.0" />
+      <edge source="fitur" target="story" id="88" weight="60.0" />
+      <edge source="fitur" target="orang" id="89" weight="30.0" />
+      <edge source="fitur" target="banyak" id="90" weight="51.0" />
+      <edge source="fitur" target="perbaiki" id="91" weight="28.0" />
+      <edge source="fitur" target="bagus" id="92" weight="40.0" />
+      <edge source="fitur" target="muncul" id="93" weight="24.0" />
+      <edge source="fitur" target="hilang" id="94" weight="35.0" />
+      <edge source="fitur" target="lain" id="95" weight="38.0" />
+      <edge source="fitur" target="bug" id="96" weight="29.0" />
+      <edge source="fitur" target="sekarang" id="97" weight="23.0" />
+      <edge source="fitur" target="baru" id="98" weight="40.0" />
+      <edge source="fitur" target="jangan" id="99" weight="59.0" />
+      <edge source="fitur" target="masih" id="100" weight="21.0" />
+      <edge source="fitur" target="update" id="101" weight="49.0" />
+      <edge source="fitur" target="lama" id="102" weight="25.0" />
+      <edge source="fitur" target="video" id="103" weight="32.0" />
+      <edge source="fitur" target="semua" id="104" weight="37.0" />
+      <edge source="fitur" target="pas" id="105" weight="16.0" />
+      <edge source="fitur" target="arsip" id="106" weight="57.0" />
+      <edge source="fitur" target="dong" id="107" weight="28.0" />
+      <edge source="story" target="malah" id="108" weight="45.0" />
+      <edge source="story" target="lain" id="109" weight="25.0" />
+      <edge source="story" target="bug" id="110" weight="45.0" />
+      <edge source="story" target="update" id="111" weight="42.0" />
+      <edge source="story" target="sekarang" id="112" weight="26.0" />
+      <edge source="story" target="bagus" id="113" weight="42.0" />
+      <edge source="story" target="orang" id="114" weight="20.0" />
+      <edge source="story" target="banyak" id="115" weight="44.0" />
+      <edge source="story" target="semua" id="116" weight="23.0" />
+      <edge source="story" target="pas" id="117" weight="21.0" />
+      <edge source="story" target="video" id="118" weight="24.0" />
+      <edge source="story" target="masih" id="119" weight="13.0" />
+      <edge source="story" target="diperbaiki" id="120" weight="29.0" />
+      <edge source="story" target="lama" id="121" weight="28.0" />
+      <edge source="story" target="foto" id="122" weight="37.0" />
+      <edge source="story" target="baru" id="123" weight="20.0" />
+      <edge source="story" target="sangat" id="124" weight="34.0" />
+      <edge source="story" target="mohon" id="125" weight="26.0" />
+      <edge source="story" target="seperti" id="126" weight="23.0" />
+      <edge source="story" target="perbaiki" id="127" weight="29.0" />
+      <edge source="story" target="hilang" id="128" weight="27.0" />
+      <edge source="story" target="arsip" id="129" weight="39.0" />
+      <edge source="story" target="dong" id="130" weight="24.0" />
+      <edge source="story" target="jangan" id="131" weight="32.0" />
+      <edge source="story" target="muncul" id="132" weight="24.0" />
+      <edge source="malah" target="lain" id="133" weight="32.0" />
+      <edge source="malah" target="bug" id="134" weight="40.0" />
+      <edge source="malah" target="update" id="135" weight="62.0" />
+      <edge source="malah" target="sekarang" id="136" weight="36.0" />
+      <edge source="malah" target="bagus" id="137" weight="30.0" />
+      <edge source="malah" target="orang" id="138" weight="21.0" />
+      <edge source="malah" target="banyak" id="139" weight="36.0" />
+      <edge source="malah" target="baru" id="140" weight="32.0" />
+      <edge source="malah" target="hilang" id="141" weight="22.0" />
+      <edge source="malah" target="diperbaiki" id="142" weight="31.0" />
+      <edge source="malah" target="lama" id="143" weight="28.0" />
+      <edge source="malah" target="foto" id="144" weight="29.0" />
+      <edge source="malah" target="sangat" id="145" weight="10.0" />
+      <edge source="malah" target="mohon" id="146" weight="25.0" />
+      <edge source="malah" target="seperti" id="147" weight="17.0" />
+      <edge source="malah" target="perbaiki" id="148" weight="29.0" />
+      <edge source="malah" target="video" id="149" weight="26.0" />
+      <edge source="malah" target="pas" id="150" weight="34.0" />
+      <edge source="malah" target="dong" id="151" weight="32.0" />
+      <edge source="malah" target="semua" id="152" weight="13.0" />
+      <edge source="malah" target="jangan" id="153" weight="18.0" />
+      <edge source="malah" target="arsip" id="154" weight="21.0" />
+      <edge source="malah" target="muncul" id="155" weight="26.0" />
+      <edge source="malah" target="masih" id="156" weight="17.0" />
+      <edge source="update" target="lain" id="157" weight="34.0" />
+      <edge source="update" target="bug" id="158" weight="45.0" />
+      <edge source="update" target="sekarang" id="159" weight="27.0" />
+      <edge source="update" target="bagus" id="160" weight="29.0" />
+      <edge source="update" target="orang" id="161" weight="17.0" />
+      <edge source="update" target="banyak" id="162" weight="25.0" />
+      <edge source="update" target="baru" id="163" weight="34.0" />
+      <edge source="update" target="jangan" id="164" weight="19.0" />
+      <edge source="update" target="masih" id="165" weight="25.0" />
+      <edge source="update" target="lama" id="166" weight="28.0" />
+      <edge source="update" target="foto" id="167" weight="29.0" />
+      <edge source="update" target="video" id="168" weight="23.0" />
+      <edge source="update" target="seperti" id="169" weight="15.0" />
+      <edge source="update" target="pas" id="170" weight="16.0" />
+      <edge source="update" target="muncul" id="171" weight="20.0" />
+      <edge source="update" target="hilang" id="172" weight="14.0" />
+      <edge source="update" target="arsip" id="173" weight="15.0" />
+      <edge source="update" target="perbaiki" id="174" weight="35.0" />
+      <edge source="update" target="semua" id="175" weight="17.0" />
+      <edge source="update" target="diperbaiki" id="176" weight="21.0" />
+      <edge source="update" target="mohon" id="177" weight="16.0" />
+      <edge source="update" target="dong" id="178" weight="20.0" />
+      <edge source="perbaiki" target="hilang" id="179" weight="21.0" />
+      <edge source="perbaiki" target="lain" id="180" weight="26.0" />
+      <edge source="perbaiki" target="bug" id="181" weight="58.0" />
+      <edge source="perbaiki" target="muncul" id="182" weight="14.0" />
+      <edge source="perbaiki" target="banyak" id="183" weight="28.0" />
+      <edge source="perbaiki" target="foto" id="184" weight="19.0" />
+      <edge source="perbaiki" target="sangat" id="185" weight="18.0" />
+      <edge source="perbaiki" target="mohon" id="186" weight="27.0" />
+      <edge source="perbaiki" target="seperti" id="187" weight="18.0" />
+      <edge source="perbaiki" target="orang" id="188" weight="19.0" />
+      <edge source="perbaiki" target="pas" id="189" weight="19.0" />
+      <edge source="perbaiki" target="baru" id="190" weight="20.0" />
+      <edge source="perbaiki" target="bagus" id="191" weight="27.0" />
+      <edge source="perbaiki" target="lama" id="192" weight="26.0" />
+      <edge source="perbaiki" target="semua" id="193" weight="14.0" />
+      <edge source="perbaiki" target="video" id="194" weight="15.0" />
+      <edge source="perbaiki" target="jangan" id="195" weight="14.0" />
+      <edge source="perbaiki" target="masih" id="196" weight="12.0" />
+      <edge source="perbaiki" target="dong" id="197" weight="19.0" />
+      <edge source="perbaiki" target="sekarang" id="198" weight="23.0" />
+      <edge source="banyak" target="lain" id="199" weight="32.0" />
+      <edge source="banyak" target="bug" id="200" weight="50.0" />
+      <edge source="banyak" target="sekarang" id="201" weight="32.0" />
+      <edge source="banyak" target="bagus" id="202" weight="32.0" />
+      <edge source="banyak" target="orang" id="203" weight="24.0" />
+      <edge source="banyak" target="semua" id="204" weight="16.0" />
+      <edge source="banyak" target="pas" id="205" weight="16.0" />
+      <edge source="banyak" target="video" id="206" weight="25.0" />
+      <edge source="banyak" target="masih" id="207" weight="19.0" />
+      <edge source="banyak" target="diperbaiki" id="208" weight="19.0" />
+      <edge source="banyak" target="lama" id="209" weight="24.0" />
+      <edge source="banyak" target="hilang" id="210" weight="26.0" />
+      <edge source="banyak" target="muncul" id="211" weight="20.0" />
+      <edge source="banyak" target="foto" id="212" weight="34.0" />
+      <edge source="banyak" target="sangat" id="213" weight="33.0" />
+      <edge source="banyak" target="mohon" id="214" weight="15.0" />
+      <edge source="banyak" target="seperti" id="215" weight="18.0" />
+      <edge source="banyak" target="baru" id="216" weight="12.0" />
+      <edge source="banyak" target="dong" id="217" weight="19.0" />
+      <edge source="banyak" target="jangan" id="218" weight="23.0" />
+      <edge source="banyak" target="arsip" id="219" weight="30.0" />
+      <edge source="bug" target="baru" id="220" weight="17.0" />
+      <edge source="bug" target="lama" id="221" weight="15.0" />
+      <edge source="bug" target="bagus" id="222" weight="29.0" />
+      <edge source="bug" target="diperbaiki" id="223" weight="22.0" />
+      <edge source="bug" target="seperti" id="224" weight="19.0" />
+      <edge source="bug" target="muncul" id="225" weight="22.0" />
+      <edge source="bug" target="lain" id="226" weight="22.0" />
+      <edge source="bug" target="sekarang" id="227" weight="19.0" />
+      <edge source="bug" target="orang" id="228" weight="14.0" />
+      <edge source="bug" target="semua" id="229" weight="16.0" />
+      <edge source="bug" target="pas" id="230" weight="20.0" />
+      <edge source="bug" target="video" id="231" weight="13.0" />
+      <edge source="bug" target="masih" id="232" weight="23.0" />
+      <edge source="bug" target="hilang" id="233" weight="24.0" />
+      <edge source="bug" target="dong" id="234" weight="25.0" />
+      <edge source="bug" target="jangan" id="235" weight="10.0" />
+      <edge source="bug" target="foto" id="236" weight="18.0" />
+      <edge source="bug" target="mohon" id="237" weight="17.0" />
+      <edge source="bug" target="sangat" id="238" weight="13.0" />
+      <edge source="bagus" target="baru" id="239" weight="20.0" />
+      <edge source="bagus" target="lama" id="240" weight="19.0" />
+      <edge source="bagus" target="lain" id="241" weight="27.0" />
+      <edge source="bagus" target="sekarang" id="242" weight="23.0" />
+      <edge source="bagus" target="orang" id="243" weight="21.0" />
+      <edge source="bagus" target="dong" id="244" weight="20.0" />
+      <edge source="bagus" target="semua" id="245" weight="10.0" />
+      <edge source="bagus" target="pas" id="246" weight="20.0" />
+      <edge source="bagus" target="video" id="247" weight="31.0" />
+      <edge source="bagus" target="masih" id="248" weight="20.0" />
+      <edge source="bagus" target="diperbaiki" id="249" weight="18.0" />
+      <edge source="bagus" target="foto" id="250" weight="22.0" />
+      <edge source="bagus" target="jangan" id="251" weight="15.0" />
+      <edge source="bagus" target="mohon" id="252" weight="16.0" />
+      <edge source="bagus" target="sangat" id="253" weight="23.0" />
+      <edge source="bagus" target="seperti" id="254" weight="15.0" />
+      <edge source="bagus" target="muncul" id="255" weight="17.0" />
+      <edge source="bagus" target="hilang" id="256" weight="11.0" />
+      <edge source="bagus" target="arsip" id="257" weight="10.0" />
+      <edge source="foto" target="baru" id="258" weight="19.0" />
+      <edge source="foto" target="sekarang" id="259" weight="15.0" />
+      <edge source="foto" target="pas" id="260" weight="14.0" />
+      <edge source="foto" target="jangan" id="261" weight="19.0" />
+      <edge source="foto" target="mohon" id="262" weight="17.0" />
+      <edge source="foto" target="sangat" id="263" weight="20.0" />
+      <edge source="foto" target="diperbaiki" id="264" weight="17.0" />
+      <edge source="foto" target="seperti" id="265" weight="14.0" />
+      <edge source="foto" target="orang" id="266" weight="11.0" />
+      <edge source="foto" target="muncul" id="267" weight="15.0" />
+      <edge source="foto" target="video" id="268" weight="48.0" />
+      <edge source="foto" target="hilang" id="269" weight="16.0" />
+      <edge source="foto" target="arsip" id="270" weight="23.0" />
+      <edge source="foto" target="lama" id="271" weight="24.0" />
+      <edge source="foto" target="semua" id="272" weight="18.0" />
+      <edge source="foto" target="dong" id="273" weight="17.0" />
+      <edge source="foto" target="lain" id="274" weight="30.0" />
+      <edge source="foto" target="masih" id="275" weight="11.0" />
+      <edge source="lain" target="sekarang" id="276" weight="18.0" />
+      <edge source="lain" target="orang" id="277" weight="35.0" />
+      <edge source="lain" target="hilang" id="278" weight="14.0" />
+      <edge source="lain" target="muncul" id="279" weight="15.0" />
+      <edge source="lain" target="sangat" id="280" weight="20.0" />
+      <edge source="lain" target="mohon" id="281" weight="16.0" />
+      <edge source="lain" target="diperbaiki" id="282" weight="19.0" />
+      <edge source="lain" target="dong" id="283" weight="15.0" />
+      <edge source="lain" target="semua" id="284" weight="10.0" />
+      <edge source="lain" target="jangan" id="285" weight="14.0" />
+      <edge source="lain" target="baru" id="286" weight="19.0" />
+      <edge source="lain" target="arsip" id="287" weight="10.0" />
+      <edge source="lain" target="masih" id="288" weight="18.0" />
+      <edge source="lain" target="video" id="289" weight="18.0" />
+      <edge source="lain" target="lama" id="290" weight="12.0" />
+      <edge source="lain" target="pas" id="291" weight="14.0" />
+      <edge source="lain" target="seperti" id="292" weight="14.0" />
+      <edge source="video" target="semua" id="293" weight="12.0" />
+      <edge source="video" target="pas" id="294" weight="16.0" />
+      <edge source="video" target="masih" id="295" weight="12.0" />
+      <edge source="video" target="diperbaiki" id="296" weight="22.0" />
+      <edge source="video" target="lama" id="297" weight="18.0" />
+      <edge source="video" target="seperti" id="298" weight="18.0" />
+      <edge source="video" target="dong" id="299" weight="15.0" />
+      <edge source="video" target="baru" id="300" weight="13.0" />
+      <edge source="video" target="hilang" id="301" weight="13.0" />
+      <edge source="video" target="arsip" id="302" weight="22.0" />
+      <edge source="video" target="jangan" id="303" weight="20.0" />
+      <edge source="video" target="sangat" id="304" weight="14.0" />
+      <edge source="video" target="mohon" id="305" weight="13.0" />
+      <edge source="video" target="muncul" id="306" weight="15.0" />
+      <edge source="video" target="sekarang" id="307" weight="15.0" />
+      <edge source="sangat" target="lama" id="308" weight="17.0" />
+      <edge source="sangat" target="mohon" id="309" weight="19.0" />
+      <edge source="sangat" target="seperti" id="310" weight="22.0" />
+      <edge source="sangat" target="orang" id="311" weight="17.0" />
+      <edge source="sangat" target="sekarang" id="312" weight="13.0" />
+      <edge source="sangat" target="jangan" id="313" weight="22.0" />
+      <edge source="sangat" target="semua" id="314" weight="12.0" />
+      <edge source="sangat" target="arsip" id="315" weight="17.0" />
+      <edge source="sekarang" target="orang" id="316" weight="13.0" />
+      <edge source="sekarang" target="baru" id="317" weight="13.0" />
+      <edge source="sekarang" target="hilang" id="318" weight="19.0" />
+      <edge source="sekarang" target="mohon" id="319" weight="19.0" />
+      <edge source="sekarang" target="diperbaiki" id="320" weight="15.0" />
+      <edge source="sekarang" target="dong" id="321" weight="19.0" />
+      <edge source="sekarang" target="jangan" id="322" weight="10.0" />
+      <edge source="sekarang" target="muncul" id="323" weight="14.0" />
+      <edge source="sekarang" target="semua" id="324" weight="14.0" />
+      <edge source="sekarang" target="seperti" id="325" weight="18.0" />
+      <edge source="sekarang" target="lama" id="326" weight="20.0" />
+      <edge source="sekarang" target="masih" id="327" weight="12.0" />
+      <edge source="lama" target="baru" id="328" weight="23.0" />
+      <edge source="lama" target="semua" id="329" weight="10.0" />
+      <edge source="lama" target="pas" id="330" weight="14.0" />
+      <edge source="lama" target="masih" id="331" weight="16.0" />
+      <edge source="lama" target="diperbaiki" id="332" weight="11.0" />
+      <edge source="lama" target="hilang" id="333" weight="12.0" />
+      <edge source="lama" target="jangan" id="334" weight="15.0" />
+      <edge source="lama" target="seperti" id="335" weight="12.0" />
+      <edge source="lama" target="arsip" id="336" weight="14.0" />
+      <edge source="lama" target="mohon" id="337" weight="11.0" />
+      <edge source="lama" target="muncul" id="338" weight="11.0" />
+      <edge source="lama" target="dong" id="339" weight="12.0" />
+      <edge source="baru" target="hilang" id="340" weight="14.0" />
+      <edge source="baru" target="diperbaiki" id="341" weight="18.0" />
+      <edge source="baru" target="pas" id="342" weight="17.0" />
+      <edge source="baru" target="masih" id="343" weight="16.0" />
+      <edge source="baru" target="semua" id="344" weight="12.0" />
+      <edge source="baru" target="dong" id="345" weight="14.0" />
+      <edge source="diperbaiki" target="seperti" id="346" weight="12.0" />
+      <edge source="diperbaiki" target="muncul" id="347" weight="17.0" />
+      <edge source="diperbaiki" target="pas" id="348" weight="14.0" />
+      <edge source="diperbaiki" target="masih" id="349" weight="13.0" />
+      <edge source="diperbaiki" target="hilang" id="350" weight="11.0" />
+      <edge source="diperbaiki" target="mohon" id="351" weight="21.0" />
+      <edge source="diperbaiki" target="dong" id="352" weight="15.0" />
+      <edge source="mohon" target="jangan" id="353" weight="18.0" />
+      <edge source="mohon" target="seperti" id="354" weight="18.0" />
+      <edge source="mohon" target="orang" id="355" weight="12.0" />
+      <edge source="mohon" target="dong" id="356" weight="10.0" />
+      <edge source="mohon" target="hilang" id="357" weight="13.0" />
+      <edge source="mohon" target="arsip" id="358" weight="11.0" />
+      <edge source="mohon" target="muncul" id="359" weight="11.0" />
+      <edge source="mohon" target="masih" id="360" weight="10.0" />
+      <edge source="dong" target="pas" id="361" weight="13.0" />
+      <edge source="dong" target="jangan" id="362" weight="17.0" />
+      <edge source="dong" target="orang" id="363" weight="12.0" />
+      <edge source="dong" target="semua" id="364" weight="10.0" />
+      <edge source="jangan" target="semua" id="365" weight="16.0" />
+      <edge source="jangan" target="hilang" id="366" weight="13.0" />
+      <edge source="jangan" target="arsip" id="367" weight="46.0" />
+      <edge source="jangan" target="seperti" id="368" weight="10.0" />
+      <edge source="jangan" target="orang" id="369" weight="17.0" />
+      <edge source="pas" target="masih" id="370" weight="14.0" />
+      <edge source="pas" target="muncul" id="371" weight="13.0" />
+      <edge source="masih" target="orang" id="372" weight="10.0" />
+      <edge source="masih" target="muncul" id="373" weight="12.0" />
+      <edge source="masih" target="seperti" id="374" weight="12.0" />
+      <edge source="arsip" target="hilang" id="375" weight="22.0" />
+      <edge source="arsip" target="semua" id="376" weight="18.0" />
+      <edge source="muncul" target="semua" id="377" weight="10.0" />
+      <edge source="seperti" target="orang" id="378" weight="14.0" />
+      <edge source="seperti" target="semua" id="379" weight="12.0" />
+      <edge source="seperti" target="hilang" id="380" weight="11.0" />
+      <edge source="hilang" target="semua" id="381" weight="14.0" />
+      <edge source="orang" target="semua" id="382" weight="14.0" />
+    </edges>
+  </graph>
+</gexf>

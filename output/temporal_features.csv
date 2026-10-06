@@ -1,0 +1,2 @@
+﻿aggregation_level,post_count,unique_users,average_rating,median_rating,top_topics,sentiment_distribution,emotion_distribution,temporal_status,historical_period
+cross_sectional_snapshot,1000,992,2.26,2.0,"Topic 0 (54.9%), Topic 1 (45.1%)","negative: 816, neutral: 105, positive: 79","anger: 365, surprise: 295, sadness: 141, joy: 136, neutral: 61, fear: 2",INSUFFICIENT_TEMPORAL_DATA,None (Timestamps absent in raw export)

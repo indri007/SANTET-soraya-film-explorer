@@ -1,0 +1,5131 @@
+feature,mean_abs_shap
+kenapa,0.10379405
+yang,0.08690766
+bisa,0.085416384
+bagus,0.07886907
+untuk,0.077571526
+nya,0.060271636
+di,0.059827637
+fitur,0.05859072
+instagram,0.05415962
+akun,0.053143412
+malah,0.05112242
+udah,0.049296867
+lagi,0.047176324
+bug,0.045861628
+ya,0.045441773
+dan,0.043762136
+ini,0.043554816
+aja,0.043020003
+ada,0.041650616
+padahal,0.040916845
+ga,0.04029411
+tolong,0.040134892
+ke,0.03988541
+saya,0.039508566
+sudah,0.039013132
+ig,0.038238976
+perbaiki,0.037884627
+update,0.037769053
+tidak,0.03722476
+foto,0.03270434
+gabisa,0.032574393
+saat,0.032360606
+aplikasi,0.03009083
+kalo,0.029644862
+video,0.02827433
+banyak,0.028001722
+lama,0.026225684
+tidak bisa,0.025692517
+baru,0.025338179
+itu,0.025327971
+story,0.025232455
+jadi,0.024422228
+arsip,0.024184361
+muncul,0.023509948
+sangat,0.022084134
+dengan,0.021631634
+hilang,0.021120923
+tapi,0.020672627
+reels,0.020586677
+atau,0.02019962
+makin,0.019000728
+terimakasih,0.018794442
+yg,0.018750627
+kadang,0.017859943
+di perbaiki,0.01661128
+gak,0.016545128
+suka,0.01596719
+beberapa,0.015831498
+setelah,0.015689554
+jangan,0.015294641
+mau,0.015222307
+juga,0.015193651
+sekarang,0.0146716265
+karena,0.01413183
+dong,0.013664276
+apa,0.013644395
+kali,0.013583343
+dari,0.013565278
+sama,0.012910658
+sering,0.012758616
+pas,0.012385161
+sekali,0.012327182
+login,0.012110046
+terjadi,0.01196848
+lain,0.0119049335
+lah,0.011798411
+gitu,0.011758365
+pada,0.011527871
+masalah,0.011527407
+akun saya,0.011302147
+selalu,0.01119827
+buat,0.011013668
+semoga,0.010730459
+semua,0.010665309
+apk,0.010491697
+seperti,0.010490939
+diperbaiki,0.010303017
+jelas,0.010017492
+lancar,0.009921019
+postingan,0.009843657
+dibuka,0.0094156
+terus,0.008805595
+menjadi,0.008761938
+setiap,0.008732709
+kesini,0.00868844
+sendiri,0.0083919335
+pihak,0.008385089
+hp,0.0081768185
+mudah,0.007926288
+segera,0.0077505177
+gimana,0.0076017026
+cukup,0.0074810507
+sampe,0.007419909
+mohon,0.0073552844
+cuma,0.007346826
+kok,0.0070989835
+lagu,0.0070928005
+buka,0.0068141683
+font,0.006800699
+kalau,0.0064646113
+biar,0.0062847096
+eh,0.006147897
+banget,0.006101193
+saja,0.0060970075
+orang,0.00602685
+memang,0.0059769736
+tiba tiba,0.0057138326
+benar,0.0056874617
+lebih,0.0055835694
+kenangan,0.005513833
+post,0.005463138
+beda,0.005449085
+hapus,0.0054457993
+pihak instagram,0.0052890424
+nyaman,0.0052789603
+bikin,0.005206079
+akan,0.004973135
+tolong di,0.0049294513
+suara,0.004921525
+durasi,0.0048986874
+kasih,0.0048792646
+mengirim,0.0048051155
+sih,0.004788239
+masih,0.0047549075
+tolong pihak,0.0047531817
+di instagram,0.0047091777
+dan bisa,0.0046785483
+tolong perbaiki,0.004513682
+nya ga,0.0043633943
+ga bisa,0.004350564
+parah,0.0042541614
+suaranya,0.0042271954
+filter,0.0040896097
+dulu,0.0040864656
+saya sudah,0.0040810257
+aku,0.004068969
+saya tidak,0.003989562
+menggunakan,0.0039570653
+cuman,0.0037984385
+tdk,0.0037940098
+jika,0.0037838977
+ku,0.0037635285
+apalagi,0.003740439
+tiap,0.0037011316
+sedikit,0.0036575547
+tiba,0.0036108755
+menambahkan,0.0035527905
+ketika,0.0035495744
+selalu ada,0.0035479018
+lihat,0.0034321295
+bintang,0.0034007744
+catatan,0.0033962594
+jelek,0.0033536074
+saya kasih,0.0032772524
+vidio,0.00323323
+berguna,0.0032301676
+instal,0.003089579
+tersedia,0.00307888
+tpi,0.003058064
+dapat,0.0029701472
+tanpa,0.0029615099
+melihat,0.0029285185
+hari,0.0029049742
+begitu,0.0028867659
+si,0.0028751586
+harus,0.0028661876
+nge,0.0028403243
+punya,0.002837525
+tetapi,0.0027657298
+kaya,0.0027245495
+min,0.0026687644
+musik,0.002607362
+biasanya,0.002571922
+pasti,0.0025645406
+story ig,0.0024912665
+tulisan,0.0024693813
+masuk,0.0024641822
+pake,0.002451218
+media,0.0024332444
+gak bisa,0.0024135716
+seperti ini,0.002405766
+tahun,0.0023981417
+kan,0.002394069
+memberikan,0.0023936843
+karna,0.0023796465
+bukan,0.002321672
+jaringan,0.0023211865
+repost,0.0022838677
+ada masalah,0.002282654
+diupdate,0.0022046885
+error,0.002187931
+stuck di,0.0021824639
+terbaru,0.002178924
+begini,0.0021698738
+akun yang,0.002153239
+belum,0.0021523414
+masa,0.002112451
+udh,0.0021064577
+perbaiki lagi,0.002077819
+tetap,0.0020723275
+upload,0.0019644904
+kek,0.001960182
+senang,0.0019547332
+dah,0.0019271948
+dihapus,0.0019105987
+membuat,0.0019042942
+mungkin,0.0018801155
+kurang,0.0018772271
+gajelas,0.0018711343
+cerita,0.0018555808
+kecewa,0.0018045808
+hanya,0.0017692755
+gua,0.0017220288
+pernah,0.0017094982
+menghapus,0.0017089159
+yaa,0.0017062384
+kita,0.0017030861
+ketika saya,0.0016893254
+tidak ada,0.0016892204
+sebelumnya,0.0016580789
+jg,0.001640509
+berubah,0.0016257844
+lebih dari,0.0016051928
+makin kesini,0.0015960315
+ada bug,0.0015730445
+proses,0.0015532671
+fitur ini,0.0015499286
+yang lain,0.001512974
+main,0.0015083048
+apapun,0.0014904954
+agar,0.001462901
+kemarin,0.0014613752
+diperbaiki lagi,0.0014572507
+baguss,0.0014560577
+gk,0.0014093374
+data,0.0014051148
+kenapa fitur,0.0014045142
+bug nya,0.0013805033
+gini,0.0013618855
+sinyal,0.0013496669
+bisa di,0.0013271378
+kedua,0.0012925273
+fiturnya,0.001291624
+ganti,0.0012834414
+meta,0.001275539
+instagram lagi,0.0012575067
+notifikasi,0.0012501929
+sempat,0.0011982355
+log out,0.0011763115
+padahal saya,0.0011539595
+saran,0.0011487701
+instagram sekarang,0.0011363252
+archive,0.0011059644
+liat,0.0010842257
+mengalami,0.0010812492
+di akun,0.001074727
+tolong dong,0.0010665979
+udah di,0.0010592202
+satu,0.0010417992
+knp,0.0010351434
+lama banget,0.0010339932
+di update,0.0010151167
+android,0.0010091168
+ingin,0.0009994933
+aneh,0.0009769804
+buat story,0.00097030663
+dan tidak,0.00096940575
+fitur arsip,0.00095231424
+bermanfaat,0.00095179916
+banding,0.00094605936
+lainnya,0.00092784135
+saya bisa,0.0009276551
+doang,0.00089304626
+awalnya,0.00088899606
+full,0.0008850779
+ulang,0.0008812525
+email,0.00087638665
+memakai,0.00086214644
+mau buat,0.0008520124
+yang ada,0.000823366
+ikut,0.00081431965
+kesini makin,0.0007889335
+klo,0.0007877968
+setelah update,0.00078555034
+mohon diperbaiki,0.00077849434
+gada,0.00077660556
+ig saya,0.0007753268
+terlalu,0.0007660893
+hal,0.0007633099
+soalnya,0.0007627498
+pengguna,0.000755371
+kesalahan,0.0007523641
+privasi,0.0007263915
+tak,0.00072428153
+coba,0.0007162982
+please,0.00071566936
+berkali,0.00070765486
+tersebut,0.0006997857
+musik di,0.0006868177
+ada di,0.0006755113
+cara,0.00066827616
+hari ini,0.00066393695
+tapi tolong,0.0006561401
+sama sekali,0.00064183475
+trus,0.0006263655
+ga ada,0.00061593496
+bgt,0.0006014534
+kualitas,0.00058597483
+mulu,0.0005705102
+langsung,0.00056098413
+instagram tolong,0.00055656605
+aj,0.0005564591
+tiba2,0.0005513095
+tadi,0.0005504701
+pertama,0.0005435192
+wifi,0.0005207868
+waktu,0.00051028363
+harusnya,0.000501821
+sampai,0.0004998159
+kirim,0.0004986113
+keluar,0.0004972183
+developer,0.0004911406
+aplikasi lain,0.0004909797
+bug ini,0.00048456772
+sengaja,0.00048351366
+instagram ku,0.00046555314
+momen,0.00044999653
+semuanya,0.00043899467
+mohon untuk,0.0004382149
+plis,0.00042843414
+sosial,0.00042809194
+trs,0.00042725095
+sorotan,0.0004264877
+jadinya,0.0004220675
+alasan,0.00042146893
+balikin,0.00041735248
+sy,0.0004166887
+kembali,0.00041653297
+bisa tolong,0.00041641062
+walaupun,0.00041163785
+perbaiki bug,0.00041117283
+membantu,0.00040668875
+eror,0.00040184517
+tp,0.00040177503
+kasih bintang,0.00040131246
+arsip story,0.0003978285
+mengecewakan,0.0003960971
+ga muncul,0.0003877465
+oke,0.00038530194
+instagram saya,0.00038517677
+ada fitur,0.00038394454
+tapi ada,0.0003822923
+update tapi,0.00038018858
+merasa,0.0003788797
+sedangkan,0.0003786597
+tolong diperbaiki,0.00037411103
+kayak,0.0003612275
+akhir,0.00035398715
+ilangin,0.00035394152
+bugnya,0.00035342257
+cek,0.0003523541
+mohon segera,0.0003511256
+di tangguhkan,0.00034871697
+aplikasinya,0.000334966
+dalam,0.0003330721
+harap,0.0003288592
+memiliki,0.0003284712
+password,0.000326711
+tolong buat,0.00032351885
+sudah di,0.00031315853
+instagram nya,0.00030838908
+deh,0.0003006826
+nah,0.00030051876
+baik,0.00029538566
+nge bug,0.0002938566
+teman,0.00028692491
+profil,0.00028669907
+bisa dibuka,0.00028577642
+namun,0.00028392966
+yang sangat,0.00028329992
+menyimpan,0.00028201353
+bikin story,0.00028069568
+simpan,0.0002778727
+awal,0.00027527314
+membuka,0.00027056987
+salah satu,0.0002681522
+paling,0.00026389395
+saya di,0.00026173197
+ig sekarang,0.00025873358
+ini kenapa,0.00025734786
+keamanan,0.00025249762
+dan itu,0.0002517197
+tolong ya,0.0002460192
+gambar,0.00023200887
+di hapus,0.00023016252
+kalau mau,0.00022870908
+saya jadi,0.00022859641
+bisa muncul,0.00022782519
+bentuk,0.0002264121
+mulai,0.00022489254
+tapi saya,0.00022435511
+minta,0.00022185425
+kalo mau,0.00022047802
+kita bisa,0.00022043561
+udah bagus,0.00021724787
+bener,0.00021488173
+sandi,0.00021462412
+sedang,0.00021421094
+reels ke,0.00020604776
+yang saya,0.00020396471
+saya yang,0.00020167022
+menambahkan lagu,0.00019126857
+ditangguhkan,0.00019102066
+menunggu koneksi,0.00019064063
+pun,0.0001872692
+banyak yang,0.00018560587
+an,0.0001815263
+dilihat,0.00018089674
+aplikasi instagram,0.00017523802
+di story,0.00017344006
+yg tidak,0.00017147731
+kata,0.00016964896
+versi,0.00016893804
+di arsip,0.00016838034
+mencari,0.00016832692
+menit,0.00016799402
+bagian,0.00016779522
+dll,0.00016642643
+yang ga,0.00016464177
+beranda,0.00016197386
+akunnya,0.0001597479
+reel,0.00015939692
+perbaiki ya,0.0001579019
+bagaimana,0.00015664208
+untuk instagram,0.00015520533
+tolong segera,0.0001528267
+tidak hanya,0.00015192738
+sya,0.00014817997
+saat saya,0.00014204021
+di ig,0.00014202946
+pada postingan,0.00014148196
+mengenai,0.00014023652
+terbaik,0.00013984302
+pakai,0.00013910433
+fb,0.00013876466
+upload story,0.00013625258
+tolong lebih,0.00013563572
+pliss,0.00013544166
+kamera,0.0001346416
+kena,0.00013114279
+lain yang,0.00013111287
+dongg,0.00012897198
+utama,0.00012746698
+lag,0.00012712191
+foto lama,0.0001268879
+pdhl,0.00012640754
+tangguhkan,0.00012430416
+sg,0.00012170398
+karena fitur,0.000116981646
+balik,0.00011658947
+tiba²,0.000114700684
+gw,0.000114197326
+nya mohon,0.00011220095
+dari instagram,0.00011149465
+terima kasih,0.00010645702
+hp saya,0.0001056303
+out,0.00010560068
+ini lagi,0.00010361374
+koneksi,0.00010349448
+nomor,0.00010294044
+loh,0.000102340746
+habis di,0.00010210694
+telah,0.00010128689
+video saya,0.00010029526
+tidak tersedia,9.8320976e-05
+akun kedua,9.5929114e-05
+punya saya,9.578523e-05
+mengapa,9.278194e-05
+tambahkan,9.03559e-05
+ke akun,8.955984e-05
+bantuannya,8.920107e-05
+saya gabisa,8.879693e-05
+fitur yg,8.613618e-05
+disimpan,8.4764804e-05
+postingan saya,8.4753854e-05
+masih ada,8.416649e-05
+bug seperti,8.379849e-05
+instastory,8.366413e-05
+laporan,8.319295e-05
+fitur yang,8.299346e-05
+kalo bisa,8.281409e-05
+sound,8.136148e-05
+laporkan,8.0812606e-05
+hilang padahal,8.023588e-05
+laporkan masalah,7.9994716e-05
+kenapa setiap,7.9664125e-05
+sangat kecewa,7.90056e-05
+akun baru,7.8766396e-05
+sangat bagus,7.792276e-05
+saat ini,7.7803496e-05
+ataupun,7.738014e-05
+bukannya,7.728818e-05
+nya di,7.651636e-05
+disitu,7.6270844e-05
+sangat sangat,7.595927e-05
+sama instagram,7.584027e-05
+10,7.4569434e-05
+secepatnya,7.414701e-05
+terbuka,7.0006536e-05
+jangan hapus,6.8112044e-05
+nonton,6.744323e-05
+lagi ya,6.66322e-05
+ya padahal,6.462376e-05
+kenapa ya,6.3202664e-05
+masalah nya,6.3000465e-05
+nya bagus,6.235088e-05
+live,6.113846e-05
+bahkan,5.9788235e-05
+uninstall,5.9416125e-05
+fitur tersebut,5.873193e-05
+ngelag,5.8650723e-05
+orang lain,5.548372e-05
+malah makin,5.1998446e-05
+instagram yang,5.183037e-05
+kami,5.0566916e-05
+lancar²,4.9832677e-05
+di profil,4.8945574e-05
+instagram di,4.8474307e-05
+lagu yang,4.825978e-05
+loading,4.7517424e-05
+bacaan,4.501643e-05
+memposting,4.3907454e-05
+nya tolong,4.2976186e-05
+habis,4.2832526e-05
+menggunakan instagram,4.190293e-05
+nggak,4.1091767e-05
+hitam,4.0181676e-05
+bingung,4.0029678e-05
+tiba ig,3.8371767e-05
+dan video,3.5806115e-05
+posting,3.2536187e-05
+padahal sinyal,3.226321e-05
+karena itu,3.0429306e-05
+ada malah,2.815631e-05
+nih,2.55632e-05
+banyak bug,2.5558022e-05
+di hp,2.1794292e-05
+pengguna yang,0.0
+penggunaan,0.0
+salah terus,0.0
+penggunanya,0.0
+pengguna merasa,0.0
+masalah dengan,0.0
+masalah dan,0.0
+pengguna lain,0.0
+penghapusan,0.0
+penghapusan arsip,0.0
+pengguna jadi,0.0
+reset,0.0
+pengen,0.0
+pengguna instagram,0.0
+pengaturan,0.0
+masalah saat,0.0
+luas,0.0
+sama aja,0.0
+penangguhan,0.0
+penangguhan akun,0.0
+pencarian,0.0
+pencet,0.0
+pengajuan,0.0
+pengajuan saya,0.0
+pengalaman,0.0
+pengaturan nya,0.0
+pengguna ig,0.0
+pengecekan,0.0
+pengeditan,0.0
+lucu,0.0
+masalah jaringan,0.0
+pengikut,0.0
+pengetahuan,0.0
+masalah ini,0.0
+lumayan,0.0
+masalah di,0.0
+pengguna android,0.0
+masalah bug,0.0
+penting bagi,0.0
+pengikut yang,0.0
+masa tiap,0.0
+perbaiki dan,0.0
+perbaiki doang,0.0
+masa saya,0.0
+perbaiki dong,0.0
+lupa,0.0
+perbaiki fitur,0.0
+perbaiki juga,0.0
+masa iya,0.0
+perbaiki kembali,0.0
+perbaiki klo,0.0
+masa akun,0.0
+salah,0.0
+masa aku,0.0
+perbaiki lagii,0.0
+perbaiki lah,0.0
+perbaiki masalah,0.0
+perbaiki saya,0.0
+perbaiki secepatnya,0.0
+manual,0.0
+perbaiki sistemnya,0.0
+perbaiki terimakasih,0.0
+perbaiki tolong,0.0
+saja yang,0.0
+perbaikin,0.0
+perbaikin bug,0.0
+masa setiap,0.0
+perbaikannya,0.0
+pengiriman,0.0
+perbaikan nya,0.0
+penilaian,0.0
+peningkatan,0.0
+penipuan,0.0
+penjualan,0.0
+penting,0.0
+pemulihan akun,0.0
+penting bgt,0.0
+penting dan,0.0
+salah saya,0.0
+lumayan bagus,0.0
+penting karena,0.0
+penting lebih,0.0
+penuh,0.0
+penuh tapi,0.0
+penyimpanan,0.0
+penyimpanan juga,0.0
+per,0.0
+perasaan,0.0
+peraturan,0.0
+salah padahal,0.0
+perbaharui,0.0
+masalah apa,0.0
+perbaikan,0.0
+masak,0.0
+masa udah,0.0
+masalah saya,0.0
+pembaharuan,0.0
+masalah yang,0.0
+pake instagram,0.0
+pake wifi,0.0
+samanya,0.0
+pakek,0.0
+paket,0.0
+sama vidio,0.0
+masuk di,0.0
+paling baru,0.0
+paling berguna,0.0
+palsu,0.0
+panjang,0.0
+papa,0.0
+para,0.0
+para pengguna,0.0
+masuk akun,0.0
+masuk akal,0.0
+lu,0.0
+sama tolong,0.0
+sama tapi,0.0
+masing masing,0.0
+pas awal,0.0
+masing,0.0
+masih tidak,0.0
+masih tetap,0.0
+pas buka,0.0
+masih sama,0.0
+pake kode,0.0
+pake ig,0.0
+masalahnya,0.0
+masuk galeri,0.0
+masukin password,0.0
+padahal udh,0.0
+padahal video,0.0
+padahal waktu,0.0
+padahal wifi,0.0
+masukin ke,0.0
+pagi,0.0
+sampah,0.0
+loh ini,0.0
+pakai akun,0.0
+pakai aplikasi,0.0
+pakai filter,0.0
+sambil,0.0
+pakai instagram,0.0
+pakai lagu,0.0
+masukin,0.0
+lohh,0.0
+masukan,0.0
+pake akun,0.0
+masuk lagi,0.0
+pake apk,0.0
+pake aplikasi,0.0
+pake efek,0.0
+masuk ke,0.0
+pake hp,0.0
+masih luas,0.0
+pas di,0.0
+pas dibuka,0.0
+sama skali,0.0
+sama ig,0.0
+masih aktif,0.0
+pdhl apk,0.0
+pdhl di,0.0
+sama di,0.0
+pdhl jaringan,0.0
+masih aja,0.0
+pdhl udah,0.0
+sama aplikasi,0.0
+pecah,0.0
+pedoman,0.0
+pedoman komunitas,0.0
+peduli,0.0
+masi ada,0.0
+pelanggaran,0.0
+pelanggaran apapun,0.0
+masi,0.0
+sama akun,0.0
+pelanggaran sedangkan,0.0
+percaya,0.0
+pembaruan,0.0
+pemberitahuan,0.0
+pemilik,0.0
+peminat,0.0
+pemulihan,0.0
+pdhal,0.0
+pdahal kuota,0.0
+masih bagus,0.0
+masih bunyi,0.0
+pas gw,0.0
+masih loading,0.0
+luar,0.0
+masih ga,0.0
+sama postingan,0.0
+pas keluar,0.0
+pas lagi,0.0
+pas liat,0.0
+pas mau,0.0
+pas saya,0.0
+pas udah,0.0
+password yang,0.0
+pdahal,0.0
+masih bisa,0.0
+pasti ada,0.0
+pasti selalu,0.0
+masih belum,0.0
+masih banyak,0.0
+pastinya,0.0
+pastinya banyak,0.0
+pause,0.0
+payah,0.0
+pc,0.0
+pd,0.0
+perbarui,0.0
+permasalahan,0.0
+lupa sandi,0.0
+rasio,0.0
+pula,0.0
+pulih,0.0
+pulihkan,0.0
+main instagram,0.0
+pun ada,0.0
+pun bagus,0.0
+pun lancar,0.0
+pun sama,0.0
+pun tidak,0.0
+makin parah,0.0
+punya akun,0.0
+maka,0.0
+pusat,0.0
+pusat bantuan,0.0
+makin ngebug,0.0
+makin ngaco,0.0
+putar,0.0
+putih,0.0
+makin lama,0.0
+ragu,0.0
+makin kesana,0.0
+rajin,0.0
+ramah,0.0
+rasa,0.0
+rasanya,0.0
+makin rusak,0.0
+makin sering,0.0
+publik,0.0
+profesional,0.0
+poto,0.0
+pribadi,0.0
+pribadi saya,0.0
+malah ga,0.0
+pribadi terus,0.0
+malah error,0.0
+privat,0.0
+main ig,0.0
+private,0.0
+ruwet,0.0
+problem,0.0
+malah disuruh,0.0
+proses nya,0.0
+malah dinonaktifkan,0.0
+profil lagu,0.0
+malah di,0.0
+profil nya,0.0
+malah bisa,0.0
+profile,0.0
+malah bikin,0.0
+promosi,0.0
+malah ada,0.0
+maksudnya,0.0
+makin update,0.0
+rusak,0.0
+rasionya,0.0
+malah gabisa,0.0
+rata,0.0
+restart,0.0
+reels yg,0.0
+reelsnya,0.0
+makin di,0.0
+responnya,0.0
+refresh,0.0
+respon foto,0.0
+rekam,0.0
+rekam muka,0.0
+rekam video,0.0
+rekomendasi,0.0
+respon dari,0.0
+rela,0.0
+relevan,0.0
+rendah,0.0
+report,0.0
+makin buruk,0.0
+repost reels,0.0
+makin banyak,0.0
+repost story,0.0
+make,0.0
+respon,0.0
+respect,0.0
+resmi,0.0
+makin bagus,0.0
+makasih,0.0
+reels yang,0.0
+reels tidak,0.0
+makin gak,0.0
+makin jelek,0.0
+rata rata,0.0
+rating,0.0
+reals,0.0
+rumit,0.0
+rugi,0.0
+rubah,0.0
+makin hancur,0.0
+reels atau,0.0
+reels cuma,0.0
+reels dan,0.0
+reels dengan,0.0
+ribet,0.0
+ruang penyimpanan,0.0
+reels kita,0.0
+reels nya,0.0
+reels saya,0.0
+maka dari,0.0
+makin gajelas,0.0
+reels sering,0.0
+ruang,0.0
+riwayat,0.0
+makin ga,0.0
+makanan,0.0
+postingannya,0.0
+postingan yg,0.0
+percuma,0.0
+pilihannya,0.0
+pertama saya,0.0
+pertimbangkan,0.0
+saja tidak,0.0
+perubahan,0.0
+pesan,0.0
+pesan malah,0.0
+saja terimakasih,0.0
+pesan yang,0.0
+malah ngga,0.0
+maaf saya,0.0
+photo,0.0
+malah nge,0.0
+pihak ig,0.0
+malah muncul,0.0
+saja tapi,0.0
+saja saya,0.0
+pihak meta,0.0
+pikir,0.0
+pilih,0.0
+malah membuat,0.0
+maaf ya,0.0
+saja padahal,0.0
+pilih mungkin,0.0
+pilihan,0.0
+saja jangan,0.0
+pertama kali,0.0
+malah sekarang,0.0
+pertahankan fitur,0.0
+permintaan,0.0
+perhatikan,0.0
+perhatikan lagi,0.0
+saja tolong,0.0
+peringatan,0.0
+perlu,0.0
+maaf,0.0
+mantan,0.0
+permanen,0.0
+permanen di,0.0
+makin aneh,0.0
+permasalahan saya,0.0
+permintaan anda,0.0
+pertahankan,0.0
+maaf ada,0.0
+mana yang,0.0
+pernah di,0.0
+pernah melakukan,0.0
+mana,0.0
+pernah melanggar,0.0
+persulit,0.0
+males,0.0
+malah tidak,0.0
+malah tambah,0.0
+malah sering,0.0
+pilihan musik,0.0
+pindah,0.0
+postingan yang,0.0
+saja itu,0.0
+saat mengupload,0.0
+post foto,0.0
+post story,0.0
+post video,0.0
+posting dan,0.0
+posting foto,0.0
+posting video,0.0
+malah hilang,0.0
+postingan atau,0.0
+postingan dan,0.0
+postingan foto,0.0
+postingan ga,0.0
+saat menambahkan,0.0
+postingan nya,0.0
+saat mau,0.0
+postingan orang,0.0
+saat ingin,0.0
+saat di,0.0
+postingan padahal,0.0
+postingan reels,0.0
+saat aku,0.0
+postingan tidak,0.0
+postingan untuk,0.0
+malah gak,0.0
+postingan video,0.0
+positif,0.0
+saat nonton,0.0
+saat upload,0.0
+malah ke,0.0
+malah mau,0.0
+padahal tidak,0.0
+pke,0.0
+platform,0.0
+playstore,0.0
+please aku,0.0
+macet,0.0
+pleasee,0.0
+malah kek,0.0
+plis lah,0.0
+pliss tolong,0.0
+plisss,0.0
+sabar,0.0
+saja fitur,0.0
+plissss,0.0
+malah kata,0.0
+pls,0.0
+mah,0.0
+plus,0.0
+pokoknya,0.0
+sadar,0.0
+ponsel,0.0
+malah jadi,0.0
+pornografi,0.0
+padahal udah,0.0
+mengganggu,0.0
+padahal sudah,0.0
+mempermudah,0.0
+mempertahankan fitur,0.0
+muncul itu,0.0
+muncul kesalahan,0.0
+muncul ketika,0.0
+muncul layar,0.0
+muncul malah,0.0
+mempertahankan,0.0
+muncul notifikasi,0.0
+muncul padahal,0.0
+muncul pas,0.0
+muncul terus,0.0
+muncul tulisan,0.0
+munculnya,0.0
+memperbaiki nya,0.0
+memposting foto,0.0
+mungkin bisa,0.0
+mungkin tidak,0.0
+murni,0.0
+memperbaiki bug,0.0
+memperbaiki,0.0
+music,0.0
+memori hp,0.0
+memori,0.0
+music di,0.0
+memo,0.0
+meminta,0.0
+musik juga,0.0
+musik nya,0.0
+muncul di,0.0
+mulus,0.0
+memiliki banyak,0.0
+mu,0.0
+menambahkan musik,0.0
+menambahkan media,0.0
+mohon jangan,0.0
+mohon maaf,0.0
+mohon perbaiki,0.0
+mohon pihak,0.0
+mohon solusinya,0.0
+menambahkan fitur,0.0
+menambah,0.0
+momen berharga,0.0
+memutar,0.0
+memulihkan akun,0.0
+moment,0.0
+muak,0.0
+memuat,0.0
+muat,0.0
+muat ulang,0.0
+memulihkan,0.0
+mudah digunakan,0.0
+memulai,0.0
+mudah untuk,0.0
+muka,0.0
+mula,0.0
+memudahkan pengguna,0.0
+mula nya,0.0
+mulai dari,0.0
+memudahkan,0.0
+mulu padahal,0.0
+musik yang,0.0
+memfollow,0.0
+padahal story,0.0
+ngapa ngapain,0.0
+nanti kalo,0.0
+memberi like,0.0
+napa,0.0
+memberi bintang,0.0
+memberi,0.0
+negara,0.0
+negatif,0.0
+membatasi,0.0
+ngaco,0.0
+ngak,0.0
+ngak bisa,0.0
+ngalamin,0.0
+ngapa,0.0
+ngapain,0.0
+nanti ada,0.0
+ngapus,0.0
+membantu saya,0.0
+ngasih,0.0
+ngasih bintang,0.0
+ngawur,0.0
+membaik,0.0
+membagikannya secara,0.0
+nge freeze,0.0
+nge lag,0.0
+nge post,0.0
+ngebug,0.0
+membagikannya,0.0
+ngebug dan,0.0
+nanti kalau,0.0
+nanti,0.0
+musiknya,0.0
+nambah fitur,0.0
+muter,0.0
+muter doang,0.0
+muter muter,0.0
+muter terus,0.0
+memenuhi syarat,0.0
+muter2,0.0
+mw,0.0
+memenuhi,0.0
+membuka story,0.0
+naik,0.0
+naikin,0.0
+nama,0.0
+nambah,0.0
+membuka aplikasi,0.0
+memberikan bintang,0.0
+membuat saya,0.0
+nambahin,0.0
+membuat reels,0.0
+nambahin fitur,0.0
+membuat kita,0.0
+namun kenapa,0.0
+namun ketika,0.0
+membuat fitur,0.0
+namun saat,0.0
+namun saya,0.0
+membuat akun,0.0
+namun tetap,0.0
+namun tidak,0.0
+menampilkan,0.0
+mohon di,0.0
+mohon bantuannya,0.0
+menikmati,0.0
+mengikuti orang,0.0
+mengambil,0.0
+mengikuti suatu,0.0
+mengirim pesan,0.0
+mengirimkan,0.0
+mengisi,0.0
+mengizinkan,0.0
+mengubah,0.0
+mengunggah,0.0
+mengupdate,0.0
+mengupload,0.0
+mengupload foto,0.0
+mengupload story,0.0
+meningkatkan,0.0
+mengikuti,0.0
+meninjau,0.0
+menipu,0.0
+mengalami masalah,0.0
+menjadi lebih,0.0
+menjadi tidak,0.0
+menjangkau,0.0
+menjual,0.0
+menonaktifkan,0.0
+menonton,0.0
+menonton reels,0.0
+menonton video,0.0
+mentok,0.0
+menu,0.0
+mengikuti kita,0.0
+menghilangkan fitur,0.0
+menanggapi,0.0
+menggunakan efek,0.0
+mengganggu banget,0.0
+menggangu,0.0
+mengganti,0.0
+mengenang,0.0
+mengenai hal,0.0
+mengganti kata,0.0
+mengeluhkan,0.0
+mengganti musik,0.0
+mengekspresikan diri,0.0
+menggunakan apk,0.0
+mengekspresikan,0.0
+mengedit,0.0
+menggunakan aplikasi,0.0
+mengatur,0.0
+menghilangkan,0.0
+menggunakan foto,0.0
+menggunakannya,0.0
+mengatasinya,0.0
+menghambat,0.0
+mengatasi,0.0
+mengapa akun,0.0
+menganti,0.0
+menghapus arsip,0.0
+menganggu,0.0
+menghapus fitur,0.0
+menghibur,0.0
+mengambil video,0.0
+menghilang,0.0
+menuhin,0.0
+menunggu,0.0
+menurun,0.0
+minta ampun,0.0
+merugikan,0.0
+mendapatkan,0.0
+merusak,0.0
+mencurigakan,0.0
+milik,0.0
+mencoba untuk,0.0
+mencoba,0.0
+minggu,0.0
+minggu lalu,0.0
+mencet,0.0
+minimal,0.0
+mencari akun,0.0
+minnn,0.0
+minta bantuan,0.0
+mengalami kendala,0.0
+minta tolong,0.0
+minus,0.0
+minus nya,0.0
+mirip,0.0
+misal,0.0
+mksd,0.0
+mlh,0.0
+mna,0.0
+menarik dan,0.0
+mode,0.0
+modelnya,0.0
+menarik,0.0
+mohon bantuan,0.0
+merespon,0.0
+mendapatkan fitur,0.0
+meresahkan,0.0
+mendengarkan,0.0
+menurut,0.0
+menurut saya,0.0
+menurutku,0.0
+menyebabkan,0.0
+menyebalkan,0.0
+menyediakan,0.0
+menyediakan fitur,0.0
+menyembunyikan,0.0
+mengalami bug,0.0
+menyimpan kenangan,0.0
+menyukai,0.0
+menyukai tampilan,0.0
+mengakses,0.0
+mengajukan banding,0.0
+menyusahkan,0.0
+mengajukan,0.0
+merasa melakukan,0.0
+merasa sangat,0.0
+meng upload,0.0
+meng,0.0
+merasa terganggu,0.0
+menerima,0.0
+merasa tidak,0.0
+merata,0.0
+mereka,0.0
+merepotkan,0.0
+mending,0.0
+ngebug juga,0.0
+ngecek,0.0
+membagikan,0.0
+nyusahin,0.0
+nyaman sama,0.0
+nyari,0.0
+nyarinya,0.0
+nyebelin,0.0
+nyesel,0.0
+mau login,0.0
+nyimpan,0.0
+nyimpan vidio,0.0
+nyimpen,0.0
+nyimpen foto,0.0
+nyimpen video,0.0
+mau log,0.0
+nyoba,0.0
+obrolan,0.0
+mau minta,0.0
+oh,0.0
+mau liat,0.0
+oh ya,0.0
+ok,0.0
+mau hapus,0.0
+mau ganti,0.0
+oke aja,0.0
+oke banget,0.0
+oleh,0.0
+oleh instagram,0.0
+mau foto,0.0
+oleh pihak,0.0
+online,0.0
+mau masuk,0.0
+nyaa,0.0
+nya nge,0.0
+nya tapi,0.0
+nya padahal,0.0
+nya sangat,0.0
+nya saya,0.0
+nya sekarang,0.0
+nya seperti,0.0
+nya setelah,0.0
+nya si,0.0
+nya sih,0.0
+mau posting,0.0
+nya stabil,0.0
+nya sudah,0.0
+nya suka,0.0
+nya susah,0.0
+nya terimakasih,0.0
+nya yang,0.0
+nya terlalu,0.0
+mau post,0.0
+mau pake,0.0
+mau pakai,0.0
+nya tetap,0.0
+nya tidak,0.0
+mau nyimpan,0.0
+mau ngirim,0.0
+mau ngepost,0.0
+mau nge,0.0
+nya udah,0.0
+nya udh,0.0
+nya ya,0.0
+opsi,0.0
+mau follow,0.0
+optimalkan,0.0
+padahal ga,0.0
+pada story,0.0
+pada tidak,0.0
+padahal aku,0.0
+padahal akun,0.0
+mati,0.0
+padahal aplikasi,0.0
+padahal baru,0.0
+padahal belum,0.0
+padahal buka,0.0
+padahal di,0.0
+mata,0.0
+padahal dulu,0.0
+padahal fitur,0.0
+padahal gak,0.0
+or,0.0
+padahal internet,0.0
+padahal itu,0.0
+padahal jaringan,0.0
+padahal kalo,0.0
+padahal kata,0.0
+padahal koneksi,0.0
+padahal kuota,0.0
+masukkan kode,0.0
+padahal mau,0.0
+padahal memori,0.0
+padahal password,0.0
+masukkan,0.0
+masukin username,0.0
+pada saat,0.0
+matiin,0.0
+mau bikin,0.0
+pada instagram,0.0
+orang cuma,0.0
+orang juga,0.0
+orang ke,0.0
+orang luar,0.0
+orang orang,0.0
+orang tertentu,0.0
+orang yang,0.0
+orang2,0.0
+org,0.0
+original,0.0
+orng,0.0
+otomatis,0.0
+otomatis saya,0.0
+otomatis terhapus,0.0
+otp,0.0
+out dari,0.0
+mau di,0.0
+out sendiri,0.0
+over,0.0
+overall,0.0
+mau daftar,0.0
+overall bagus,0.0
+mau buka,0.0
+pada akun,0.0
+mengenang kembali,0.0
+pada arsip,0.0
+pada berubah,0.0
+mau rekam,0.0
+nya nanti,0.0
+ngedit,0.0
+melihat story,0.0
+ni aplikasi,0.0
+ni instagram,0.0
+nih aplikasi,0.0
+nih kalo,0.0
+nnton,0.0
+no,0.0
+memang bagus,0.0
+memakai instagram,0.0
+no hp,0.0
+nomer,0.0
+memakai filter,0.0
+melulu,0.0
+nomor hp,0.0
+nomor ponsel,0.0
+memang benar,0.0
+nomor telepon,0.0
+nonaktifkan,0.0
+nonaktifkan padahal,0.0
+nonaktifkan secara,0.0
+melihat stories,0.0
+melihat semua,0.0
+nonton reels,0.0
+nonton video,0.0
+nonton youtube,0.0
+normal,0.0
+normal dan,0.0
+melihat postingan,0.0
+note,0.0
+ni apk,0.0
+ni,0.0
+mau repost,0.0
+ngetag,0.0
+ngefollow,0.0
+ngeganggu,0.0
+memasukkan kode,0.0
+ngelag parah,0.0
+ngelag2,0.0
+ngelakuin,0.0
+ngeliat,0.0
+ngeliat sg,0.0
+ngepost,0.0
+ngerepotin,0.0
+memasukkan,0.0
+ngesave,0.0
+ngeselin,0.0
+ngetik,0.0
+ngk bisa,0.0
+ngga,0.0
+ngga bisa,0.0
+memasukan,0.0
+nggak ada,0.0
+nggak bisa,0.0
+memang nya,0.0
+nggk,0.0
+nggk bisa,0.0
+ngikutin,0.0
+ngikutin kita,0.0
+ngirim,0.0
+ngirim pesan,0.0
+ngk,0.0
+notice,0.0
+melihat kembali,0.0
+notif,0.0
+medsos,0.0
+medsos lain,0.0
+nya gk,0.0
+nya gmn,0.0
+nya hitam,0.0
+nya iklan,0.0
+nya itu,0.0
+nya jadi,0.0
+nya jangan,0.0
+nya juga,0.0
+nya kadang,0.0
+nya kalo,0.0
+nya kaya,0.0
+nya kenapa,0.0
+nya kurang,0.0
+melihat di,0.0
+nya lama,0.0
+media sosial,0.0
+nya lebih,0.0
+nya makin,0.0
+maupun,0.0
+maunya,0.0
+nya malah,0.0
+nya masih,0.0
+mau upload,0.0
+nya mau,0.0
+nya meta,0.0
+mau update,0.0
+mau saya,0.0
+nya gak,0.0
+nya gabisa,0.0
+melainkan,0.0
+nya dong,0.0
+notifikasi nya,0.0
+melaporkan ke,0.0
+notifnya,0.0
+ntah,0.0
+ntar,0.0
+nunggu,0.0
+ny,0.0
+melaporkan,0.0
+melanggar peraturan,0.0
+melanggar ketentuan,0.0
+nya agar,0.0
+nya apa,0.0
+melanggar aturan,0.0
+melanggar,0.0
+melakukan pelanggaran,0.0
+nya banyak,0.0
+nya baru,0.0
+nya begini,0.0
+nya begitu,0.0
+nya belum,0.0
+melakukan nya,0.0
+nya bener,0.0
+nya bisa,0.0
+melakukan,0.0
+nya cerita,0.0
+nya cuma,0.0
+nya dan,0.0
+pada aplikasi,0.0
+saya memposting,0.0
+sampai hilang,0.0
+tidak mau,0.0
+tidak ingin,0.0
+tidak hilang,0.0
+tidak diketahui,0.0
+tidak dihapus,0.0
+tidak dianggap,0.0
+tidak di,0.0
+tidak dapat,0.0
+tidak berjalan,0.0
+tidak berguna,0.0
+tidak aktif,0.0
+tidak akan,0.0
+tiba² hilang,0.0
+tiba² akun,0.0
+tiba2 keluar,0.0
+tiba2 ke,0.0
+tidak kelihatan,0.0
+tidak melakukan,0.0
+tiba muncul,0.0
+tidak melanggar,0.0
+tidak tahu,0.0
+tidak setuju,0.0
+tidak sesuai,0.0
+tidak seperti,0.0
+tidak sengaja,0.0
+tidak pernah,0.0
+tidak perlu,0.0
+tidak penting,0.0
+tidak nyaman,0.0
+tidak muncul,0.0
+tidak merespon,0.0
+tidak mengikuti,0.0
+tidak menghapus,0.0
+tidak menerima,0.0
+tidak memenuhi,0.0
+tiba2 hilang,0.0
+tiba kena,0.0
+tetap gak,0.0
+thank,0.0
+tetep gak,0.0
+tetep ga,0.0
+tetep aja,0.0
+tetep,0.0
+tetapi waktu,0.0
+tetapi tidak,0.0
+tetapi saya,0.0
+tetapi ketika,0.0
+tetapi hanya,0.0
+tetapi di,0.0
+tetap tidak,0.0
+tetap tersimpan,0.0
+tetap sama,0.0
+tetap saja,0.0
+tetap mempertahankan,0.0
+text,0.0
+thanks,0.0
+tiba keluar,0.0
+the,0.0
+tiba hilang,0.0
+tiba ga,0.0
+tiba ditangguhkan,0.0
+tiba di,0.0
+tiba bisa,0.0
+tiba akunku,0.0
+tiba akun,0.0
+tiap update,0.0
+tiap mau,0.0
+tiap liat,0.0
+tiap hari,0.0
+tiap di,0.0
+tiap buka,0.0
+tiap bikin,0.0
+threads,0.0
+tidak tau,0.0
+tidak terkirim,0.0
+tidak terlalu,0.0
+tontonan yang,0.0
+tombolnya,0.0
+tombol,0.0
+tolonglah perbaiki,0.0
+tolonglah,0.0
+tolongg perbaiki,0.0
+tolongg,0.0
+tolong yaa,0.0
+tolong update,0.0
+tolong untuk,0.0
+tolong tambahkan,0.0
+tolong saya,0.0
+tolong meta,0.0
+tolong lah,0.0
+tolong kualitas,0.0
+tolong kepada,0.0
+tontonan,0.0
+total,0.0
+tidak terlihat,0.0
+tp tetep,0.0
+tulisan terjadi,0.0
+tulisan kesalahan,0.0
+tulisan cerita,0.0
+tulis,0.0
+tuh ada,0.0
+tuh,0.0
+tugas,0.0
+tu,0.0
+ttp,0.0
+tsb,0.0
+truss,0.0
+trus pas,0.0
+trus mau,0.0
+tpi kenapa,0.0
+tpi di,0.0
+tolong kembalikan,0.0
+tolong kasih,0.0
+tolong jangan,0.0
+tolong instagram,0.0
+tlg,0.0
+titik,0.0
+tipe orang,0.0
+tipe,0.0
+tingkatkan lagi,0.0
+tingkatkan keamanan,0.0
+tingkatkan fitur,0.0
+tingkatkan,0.0
+tinggi,0.0
+tinggal,0.0
+tindakan,0.0
+tim instagram,0.0
+tim,0.0
+tiktok,0.0
+tiga,0.0
+tlong,0.0
+tlong lah,0.0
+to,0.0
+tolong developer,0.0
+tolong ini,0.0
+tolong ig,0.0
+tolong fitur,0.0
+tolong donk,0.0
+tolong dongg,0.0
+tolong dibantu,0.0
+tolong cepat,0.0
+tolong adakan,0.0
+tolong bug,0.0
+tolong bgt,0.0
+tolong beri,0.0
+tolong bantu,0.0
+tolong banget,0.0
+tolong admin,0.0
+tetap juga,0.0
+tetap gabisa,0.0
+sampai saat,0.0
+temen,0.0
+teman teman,0.0
+teman saya,0.0
+teman dan,0.0
+telepon,0.0
+telat,0.0
+telah dihapus,0.0
+telah berhenti,0.0
+teks,0.0
+teknis,0.0
+tekan,0.0
+tdk bisa,0.0
+tdk berguna,0.0
+tbtb,0.0
+tb,0.0
+tau kenapa,0.0
+temanku,0.0
+temen saya,0.0
+tau apa,0.0
+tempat,0.0
+terbarunya,0.0
+terbaru tolong,0.0
+terbaru nya,0.0
+terbaru malah,0.0
+terbaru instagram,0.0
+terbaru ini,0.0
+terbaru dan,0.0
+teramat,0.0
+ter update,0.0
+ter,0.0
+tepat waktu,0.0
+tepat,0.0
+tentang instagram,0.0
+tentang,0.0
+template,0.0
+tau ini,0.0
+tau,0.0
+tetap bisa,0.0
+tapi mohon,0.0
+tapi malah,0.0
+tapi makin,0.0
+tapi kok,0.0
+tapi ketika,0.0
+tapi kenapa,0.0
+tapi kalo,0.0
+tapi kalau,0.0
+tapi kadang,0.0
+tapi instagram,0.0
+tapi ini,0.0
+tapi gk,0.0
+tapi giliran,0.0
+tapi gak,0.0
+tapi gada,0.0
+tapi ga,0.0
+tapi masih,0.0
+tapi pas,0.0
+tata letak,0.0
+tapi reels,0.0
+tata,0.0
+taro,0.0
+tapi yg,0.0
+tapi ya,0.0
+tapi waktu,0.0
+tapi untuk,0.0
+tapi udh,0.0
+tapi tidak,0.0
+tapi tetep,0.0
+tapi tetap,0.0
+tapi setiap,0.0
+tapi setelah,0.0
+tapi sampai,0.0
+tapi sama,0.0
+tapi saat,0.0
+terbatas,0.0
+terbuka kadang,0.0
+terdapat,0.0
+terus gabisa,0.0
+terus di,0.0
+terus buka,0.0
+terus berhenti,0.0
+terupdate,0.0
+teruntuk,0.0
+terulang,0.0
+tertunda,0.0
+tertulis,0.0
+tertentu,0.0
+tertaut,0.0
+tertarik,0.0
+tersimpan di,0.0
+tersimpan,0.0
+tersedia tolong,0.0
+tersedia semua,0.0
+terus ga,0.0
+terus harus,0.0
+terdapat bug,0.0
+terus juga,0.0
+tetap ada,0.0
+terutama pas,0.0
+terutama bug,0.0
+terutama,0.0
+teruss,0.0
+terus waktu,0.0
+terus tolong,0.0
+terus tetep,0.0
+terus tapi,0.0
+terus saya,0.0
+terus pas,0.0
+terus padahal,0.0
+terus muncul,0.0
+terus mau,0.0
+terus kenapa,0.0
+tersedia pdahal,0.0
+tersedia lagi,0.0
+tersedia kadang,0.0
+tersedia di,0.0
+terjadi masalah,0.0
+terjadi lagi,0.0
+terjadi kesalahan,0.0
+terjadi di,0.0
+terjadi bug,0.0
+terimakasii,0.0
+terima,0.0
+terhenti,0.0
+terhapus tolong,0.0
+terhapus,0.0
+terhadap,0.0
+terganggu dengan,0.0
+terganggu,0.0
+terduga,0.0
+terdeteksi,0.0
+terkadang,0.0
+terkait,0.0
+terkena,0.0
+ternyata,0.0
+tersebut saya,0.0
+tersebut mohon,0.0
+tersebut dan,0.0
+terpotong,0.0
+terpaksa,0.0
+ternyata ada,0.0
+termasuk saya,0.0
+terkirim,0.0
+termasuk,0.0
+terlihat,0.0
+terlanjur,0.0
+terlalu lama,0.0
+terlalu banyak,0.0
+terkirim padahal,0.0
+tulisannya,0.0
+tulisannya cerita,0.0
+tunggu,0.0
+ya tolong,0.0
+ya sudah,0.0
+ya story,0.0
+ya soalnya,0.0
+ya sekarang,0.0
+ya saya,0.0
+ya pas,0.0
+ya mohon,0.0
+ya min,0.0
+ya kok,0.0
+ya kenapa,0.0
+ya kasih,0.0
+ya kalo,0.0
+ya kalau,0.0
+ya kak,0.0
+ya instagram,0.0
+ya terimakasih,0.0
+ya untuk,0.0
+ya diperbaiki,0.0
+ya yang,0.0
+yang belum,0.0
+yang baru,0.0
+yang aneh,0.0
+yang anda,0.0
+yang akunnya,0.0
+yang aku,0.0
+yang akan,0.0
+yakin,0.0
+yakali,0.0
+yaitu,0.0
+yah,0.0
+yaaa,0.0
+yaa tolong,0.0
+yaa setiap,0.0
+yaa padahal,0.0
+ya ini,0.0
+ya cukup,0.0
+turun,0.0
+wajah,0.0
+wa,0.0
+vidionya,0.0
+vidio yg,0.0
+vidio yang,0.0
+vidio saya,0.0
+vidio nya,0.0
+vidio foto,0.0
+vidio di,0.0
+videonya,0.0
+video yg,0.0
+video yang,0.0
+video untuk,0.0
+video sering,0.0
+video selalu,0.0
+video sama,0.0
+wa dan,0.0
+wajar,0.0
+ya akun,0.0
+waktu nya,0.0
+ya ada,0.0
+woi,0.0
+wkwk,0.0
+wifi nya,0.0
+wifi dan,0.0
+wifi bagus,0.0
+wifi atau,0.0
+why,0.0
+whatsapp,0.0
+what,0.0
+web,0.0
+warna,0.0
+walau sudah,0.0
+walau,0.0
+waktu saya,0.0
+yang benar,0.0
+yang benar2,0.0
+yang berbau,0.0
+yg kita,0.0
+yg hilang,0.0
+yg harus,0.0
+yg ga,0.0
+yg dulu,0.0
+yg diarsipkan,0.0
+yg di,0.0
+yg bisa,0.0
+yg bikin,0.0
+yg berubah,0.0
+yg bermanfaat,0.0
+yg baru,0.0
+yg baik,0.0
+yg ada,0.0
+yang udah,0.0
+yang tidak,0.0
+yg ingin,0.0
+yg lain,0.0
+yang bermanfaat,0.0
+yg lama,0.0
+yt,0.0
+youtube,0.0
+you,0.0
+yg udh,0.0
+yg udah,0.0
+yg tepat,0.0
+yg sudah,0.0
+yg sekarang,0.0
+yg saya,0.0
+yg sama,0.0
+yg salah,0.0
+yg muncul,0.0
+yg melanggar,0.0
+yg masih,0.0
+yg lebih,0.0
+yang terjadi,0.0
+yang telah,0.0
+yang tahun,0.0
+yang suka,0.0
+yang kecewa,0.0
+yang jelas,0.0
+yang ingin,0.0
+yang harusnya,0.0
+yang gak,0.0
+yang dulu,0.0
+yang disimpan,0.0
+yang dikirim,0.0
+yang di,0.0
+yang cukup,0.0
+yang bukan,0.0
+yang buat,0.0
+yang bisa,0.0
+yang bikin,0.0
+yang berubah,0.0
+yang kedua,0.0
+yang kita,0.0
+yang kurang,0.0
+yang paling,0.0
+yang sudah,0.0
+yang sering,0.0
+yang sebelumnya,0.0
+yang sama,0.0
+yang salah,0.0
+yang perlu,0.0
+yang muncul,0.0
+yang lalu,0.0
+yang menghibur,0.0
+yang menggunakan,0.0
+yang memang,0.0
+yang masuk,0.0
+yang lupa,0.0
+yang lama,0.0
+video reels,0.0
+video nya,0.0
+video malah,0.0
+uninstall aplikasi,0.0
+unggahan,0.0
+unggah,0.0
+unfollow,0.0
+unfoll,0.0
+unfol,0.0
+unduh,0.0
+undang,0.0
+umum,0.0
+ulasan akan,0.0
+ulasan,0.0
+ulangi,0.0
+ulang kali,0.0
+ulang juga,0.0
+ukuran,0.0
+ujungnya,0.0
+uninstal,0.0
+uninstall terus,0.0
+untuk mengambil,0.0
+untuk apa,0.0
+untuk mendapatkan,0.0
+untuk menambahkan,0.0
+untuk memulihkan,0.0
+untuk memperbaiki,0.0
+untuk login,0.0
+untuk lebih,0.0
+untuk kami,0.0
+untuk ig,0.0
+untuk foto,0.0
+untuk fitur,0.0
+untuk diperbaiki,0.0
+untuk di,0.0
+untuk developer,0.0
+untuk bisa,0.0
+untuk aplikasi,0.0
+ujung ujungnya,0.0
+ujung nya,0.0
+ujung,0.0
+uji,0.0
+udah hari,0.0
+udah ga,0.0
+udah follow,0.0
+udah dua,0.0
+udah diupdate,0.0
+udah dari,0.0
+udah berkali,0.0
+udah berapa,0.0
+udah baguss,0.0
+udah aku,0.0
+udah ada,0.0
+uda,0.0
+ubah,0.0
+tutup,0.0
+tutor,0.0
+udah jadi,0.0
+udah kehapus,0.0
+udah lama,0.0
+udh coba,0.0
+ui,0.0
+udh update,0.0
+udh sebulan,0.0
+udh saya,0.0
+udh hampir,0.0
+udh di,0.0
+udh bisa,0.0
+udah minggu,0.0
+udh bener,0.0
+udh bagus,0.0
+udah update,0.0
+udah tiga,0.0
+udah saya,0.0
+udah oke,0.0
+untuk meng,0.0
+untuk menyimpan,0.0
+video ke,0.0
+username,0.0
+user instagram,0.0
+user,0.0
+usahakan,0.0
+usah,0.0
+urgent,0.0
+upload video,0.0
+upload reels,0.0
+upload postingan,0.0
+upload foto,0.0
+upload dan,0.0
+upgrade lagi,0.0
+upgrade instagram,0.0
+upgrade aplikasi,0.0
+upgrade,0.0
+updatenya,0.0
+user yang,0.0
+utama tidak,0.0
+untuk pihak,0.0
+vc,0.0
+video jangan,0.0
+video jadi,0.0
+video itu,0.0
+video foto,0.0
+video di,0.0
+video dan,0.0
+video call,0.0
+video atau,0.0
+video arsip,0.0
+vid,0.0
+versi terbaru,0.0
+versi sebelumnya,0.0
+versi paling,0.0
+verifikasi ke,0.0
+verifikasi,0.0
+update tuh,0.0
+update terus,0.0
+update tan,0.0
+update sudah,0.0
+update berkali,0.0
+update banyak,0.0
+update aplikasi,0.0
+update an,0.0
+up video,0.0
+up story,0.0
+up ke,0.0
+up,0.0
+untuk yg,0.0
+untuk yang,0.0
+untuk tidak,0.0
+untuk story,0.0
+untuk sementara,0.0
+untuk segera,0.0
+untuk saya,0.0
+update bisa,0.0
+update dan,0.0
+update fitur,0.0
+update malah,0.0
+update semakin,0.0
+update selalu,0.0
+update sekarang,0.0
+update saya,0.0
+update padahal,0.0
+update masih,0.0
+update makin,0.0
+update instagram,0.0
+update lagi,0.0
+update kok,0.0
+update ke,0.0
+update kalo,0.0
+update juga,0.0
+update jadi,0.0
+tapi fiturnya,0.0
+tapi di,0.0
+tapi belum,0.0
+second acc,0.0
+secara tiba,0.0
+secara permanen,0.0
+secara,0.0
+sebulan,0.0
+sebuah,0.0
+sebentar,0.0
+sebenernya udah,0.0
+sebenernya,0.0
+sebenarnya instagram,0.0
+sebenarnya fitur,0.0
+sebenarnya bisa,0.0
+sebenarnya aplikasinya,0.0
+sebenarnya,0.0
+sebelumnya tidak,0.0
+sebelumnya sudah,0.0
+second,0.0
+second account,0.0
+sebelum nya,0.0
+sedangkan di,0.0
+sejak,0.0
+sehingga,0.0
+seharusnya,0.0
+sehabis,0.0
+segi,0.0
+segera memperbaiki,0.0
+segera direspon,0.0
+segera diperbaiki,0.0
+segera di,0.0
+segala cara,0.0
+segala,0.0
+sedikit bug,0.0
+sedih,0.0
+sedangkan yg,0.0
+sedangkan yang,0.0
+sebelum update,0.0
+sebelum,0.0
+semenjak,0.0
+sayangkan,0.0
+sayang,0.0
+sayaa,0.0
+saya yg,0.0
+saya yakin,0.0
+saya upload,0.0
+saya update,0.0
+saya up,0.0
+saya untuk,0.0
+saya udh,0.0
+saya udah,0.0
+saya tolong,0.0
+saya tiba,0.0
+saya tetap,0.0
+saya terimakasih,0.0
+saya tapi,0.0
+sayang sekali,0.0
+sayangnya,0.0
+sebelah,0.0
+scrol,0.0
+sebel banget,0.0
+sebel,0.0
+sebaiknya tetap,0.0
+sebaiknya,0.0
+sebagus,0.0
+sebagian,0.0
+sebagai pengguna,0.0
+sebagai,0.0
+sebab,0.0
+se,0.0
+sdh tdk,0.0
+sdh di,0.0
+sdh,0.0
+scroll2,0.0
+scroll,0.0
+sejak kemarin,0.0
+sejauh,0.0
+sejauh ini,0.0
+selalu update,0.0
+selalu terjadi,0.0
+selalu saja,0.0
+selalu muncul,0.0
+selalu kesalahan,0.0
+selalu kena,0.0
+selalu keluar,0.0
+selalu ga,0.0
+selalu buram,0.0
+selain itu,0.0
+selain di,0.0
+selain,0.0
+sekolah,0.0
+sekitar,0.0
+sekian terimakasih,0.0
+sekian,0.0
+selalu tidak,0.0
+selama,0.0
+sekali aja,0.0
+selama ini,0.0
+semakin lama,0.0
+semakin di,0.0
+semakin banyak,0.0
+semakin,0.0
+semacam,0.0
+seluruh pengguna,0.0
+seluruh,0.0
+seluler masih,0.0
+seluler,0.0
+selfie tetapi,0.0
+selfie,0.0
+selesai,0.0
+selebihnya,0.0
+selanjutnya,0.0
+selama itu,0.0
+sekelas meta,0.0
+sekelas,0.0
+sekedar,0.0
+sekecewa,0.0
+sekarang di,0.0
+sekarang berubah,0.0
+sekarang belum,0.0
+sekarang banyak,0.0
+sekarang akun,0.0
+sekalinya,0.0
+sekalian,0.0
+sekali untuk,0.0
+sekali tolong,0.0
+sekali tidak,0.0
+sekali tapi,0.0
+sekali padahal,0.0
+sekali lagi,0.0
+sekali dua,0.0
+sekali bug,0.0
+sekarang ga,0.0
+sekarang gabisa,0.0
+sekarang gak,0.0
+sekarang malah,0.0
+sekarang udah,0.0
+sekarang tidak,0.0
+sekarang sudah,0.0
+sekarang setiap,0.0
+sekarang sering,0.0
+sekarang saya,0.0
+sekarang makin,0.0
+sekarang habis,0.0
+sekarang kok,0.0
+sekarang kenapa,0.0
+sekarang jika,0.0
+sekarang jadi,0.0
+sekarang instagram,0.0
+sekarang ini,0.0
+saya tambahkan,0.0
+saya sukai,0.0
+saya suka,0.0
+saya arsip,0.0
+saya akun,0.0
+saya akan,0.0
+saya ajukan,0.0
+saya adalah,0.0
+saya ada,0.0
+save,0.0
+satupun,0.0
+satunya lagi,0.0
+satunya,0.0
+satu2,0.0
+satu nya,0.0
+satu lagi,0.0
+satu karena,0.0
+satu hal,0.0
+satu aplikasi,0.0
+saya alami,0.0
+saya bagus,0.0
+saya doang,0.0
+saya banyak,0.0
+saya diretas,0.0
+saya dinonaktifkan,0.0
+saya dapat,0.0
+saya dan,0.0
+saya dalam,0.0
+saya cukup,0.0
+saya coba,0.0
+saya cek,0.0
+saya butuh,0.0
+saya buka,0.0
+saya buat,0.0
+saya bingung,0.0
+saya bikin,0.0
+saya berjalan,0.0
+saya beri,0.0
+satu akun,0.0
+saran sih,0.0
+saran saya,0.0
+sangatlah,0.0
+sandi yg,0.0
+sandi saya,0.0
+sandi salah,0.0
+sandi padahal,0.0
+sandi nya,0.0
+sana,0.0
+samsung a35,0.0
+samsung,0.0
+samsek,0.0
+sampe sekarang,0.0
+sampe gk,0.0
+sampe fitur,0.0
+sampe di,0.0
+sampe berhari,0.0
+sampai sekarang,0.0
+sandinya,0.0
+sangat amat,0.0
+sangat berguna,0.0
+sangat menyukai,0.0
+sangat tidak,0.0
+sangat sulit,0.0
+sangat suka,0.0
+sangat senang,0.0
+sangat penting,0.0
+sangat mudah,0.0
+sangat menggangu,0.0
+sangat bermanfaat,0.0
+sangat mengganggu,0.0
+sangat mengecewakan,0.0
+sangat menarik,0.0
+sangat membantu,0.0
+sangat lama,0.0
+sangat disayangkan,0.0
+saya ditangguhkan,0.0
+saya fitur,0.0
+saya simpan,0.0
+saya pengguna,0.0
+saya pake,0.0
+saya pakai,0.0
+saya nya,0.0
+saya namun,0.0
+saya mohon,0.0
+saya minta,0.0
+saya merasa,0.0
+saya menggunakan,0.0
+saya mengalami,0.0
+saya mengajukan,0.0
+saya meng,0.0
+saya mencoba,0.0
+logo,0.0
+saya memiliki,0.0
+saya membuka,0.0
+saya pencet,0.0
+saya pernah,0.0
+saya follow,0.0
+saya pikir,0.0
+saya sering,0.0
+saya seperti,0.0
+saya sendiri,0.0
+saya senang,0.0
+saya selalu,0.0
+saya sedang,0.0
+saya sebagai,0.0
+saya saya,0.0
+saya sangat,0.0
+saya sampai,0.0
+saya sama,0.0
+saya saat,0.0
+saya punya,0.0
+saya pun,0.0
+saya posting,0.0
+saya memberi,0.0
+saya memakai,0.0
+saya melihat,0.0
+saya mau,0.0
+saya karena,0.0
+saya juga,0.0
+saya jga,0.0
+saya ini,0.0
+saya ingin,0.0
+saya hilang,0.0
+saya harus,0.0
+saya harap,0.0
+saya hapus,0.0
+saya hanya,0.0
+saya gunakan,0.0
+saya gk,0.0
+saya gak,0.0
+saya ga,0.0
+saya foto,0.0
+saya kecewa,0.0
+saya keluar,0.0
+saya kembali,0.0
+saya liat,0.0
+saya masuk,0.0
+saya masih,0.0
+saya malah,0.0
+saya lupa,0.0
+saya login,0.0
+saya lihat,0.0
+saya lebih,0.0
+saya kena,0.0
+saya lancar,0.0
+saya lakukan,0.0
+saya kurang,0.0
+saya kirim,0.0
+saya kesulitan,0.0
+saya kesal,0.0
+semenit,0.0
+semenjak update,0.0
+tapi aku,0.0
+streaming,0.0
+story yg,0.0
+story yang,0.0
+story video,0.0
+story tolong,0.0
+story tiba,0.0
+story terima,0.0
+story tapi,0.0
+story selalu,0.0
+story sekarang,0.0
+story saya,0.0
+story postingan,0.0
+story please,0.0
+story pasti,0.0
+story pakai,0.0
+story orang,0.0
+storynya,0.0
+stuck,0.0
+story mau,0.0
+suaranya dan,0.0
+sudah lama,0.0
+sudah ke,0.0
+sudah hari,0.0
+sudah diupdate,0.0
+sudah diposting,0.0
+sudah diperbaiki,0.0
+sudah dicoba,0.0
+sudah coba,0.0
+sudah bisa,0.0
+sudah berkali,0.0
+sudah berhasil,0.0
+sudah benar,0.0
+sudah bagus,0.0
+sudah ada,0.0
+suatu,0.0
+story nya,0.0
+story loading,0.0
+sementara,0.0
+story dan,0.0
+story aja,0.0
+story agar,0.0
+stories dan,0.0
+stories,0.0
+stlh,0.0
+stiker,0.0
+stiap,0.0
+status ig,0.0
+status,0.0
+stabil dan,0.0
+stabil,0.0
+spesial,0.0
+speaker,0.0
+spam,0.0
+sosmed,0.0
+story baru,0.0
+story dengan,0.0
+story lama,0.0
+story di,0.0
+story kenapa,0.0
+story karena,0.0
+story kadang,0.0
+story juga,0.0
+story jg,0.0
+story jangan,0.0
+story jadi,0.0
+story itu,0.0
+story instagram,0.0
+story ini,0.0
+story gambar,0.0
+story gak,0.0
+story gabisa,0.0
+story ga,0.0
+story foto,0.0
+sudah laporkan,0.0
+sudah melakukan,0.0
+sudah melaporkan,0.0
+tambahkan musik,0.0
+tambahin fitur,0.0
+tambahin,0.0
+tambahan,0.0
+tambah lagi,0.0
+tambah kan,0.0
+tambah jelek,0.0
+tambah,0.0
+tak terduga,0.0
+tahun pake,0.0
+tahu,0.0
+tag di,0.0
+tag,0.0
+syarat,0.0
+sya tidak,0.0
+sya sdh,0.0
+tambahkan fitur,0.0
+tampilan,0.0
+sudah sangat,0.0
+tampilan baru,0.0
+tanya,0.0
+tanpa sebab,0.0
+tanpa harus,0.0
+tanpa alasan,0.0
+tanpa ada,0.0
+tangguhkan dan,0.0
+tanggapannya,0.0
+tanggal,0.0
+tandanya,0.0
+tanda,0.0
+tan,0.0
+tampilannya,0.0
+tampilan yg,0.0
+tampilan musik,0.0
+tampilan lama,0.0
+sy udah,0.0
+sy tdk,0.0
+suspend dan,0.0
+suspend,0.0
+suka nge,0.0
+suka main,0.0
+suka intagram,0.0
+suka hilang,0.0
+suka gak,0.0
+suka foto,0.0
+suka bug,0.0
+suka banget,0.0
+sudah versi,0.0
+sudah update,0.0
+sudah uninstall,0.0
+sudah tidak,0.0
+sudah tertaut,0.0
+sudah sering,0.0
+sudah saya,0.0
+suka ngebug,0.0
+suka sama,0.0
+suka tidak,0.0
+suruh masukkan,0.0
+susahnya,0.0
+susah tolong,0.0
+susah muncul,0.0
+susah login,0.0
+susah banget,0.0
+susah,0.0
+suruh,0.0
+sukai,0.0
+support,0.0
+supaya bisa,0.0
+supaya,0.0
+sumpah,0.0
+sumber,0.0
+sulit,0.0
+sosial media,0.0
+sorry,0.0
+sorotan loading,0.0
+sering update,0.0
+sering terjadi,0.0
+sering sekali,0.0
+sering ngelag,0.0
+sering ngebug,0.0
+sering nge,0.0
+sering keluar,0.0
+sering kali,0.0
+sering hilang,0.0
+sering di,0.0
+sering bug,0.0
+sering ada,0.0
+september,0.0
+sepihak,0.0
+sepertinya,0.0
+seperti tidak,0.0
+sering tidak,0.0
+serta,0.0
+setiap pengguna,0.0
+seru,0.0
+setiap liat,0.0
+setiap kali,0.0
+setiap hari,0.0
+setiap buka,0.0
+setiap ada,0.0
+setengah,0.0
+setelah saya,0.0
+setelah itu,0.0
+setelah diupdate,0.0
+setelah di,0.0
+setahun,0.0
+sesuai dengan,0.0
+sesuai,0.0
+seseorang,0.0
+server,0.0
+seperti threads,0.0
+seperti semula,0.0
+seperti sebelumnya,0.0
+seperti itu,0.0
+semua orang,0.0
+semua nya,0.0
+semua negara,0.0
+semua kenangan,0.0
+semua fitur,0.0
+semua arsip,0.0
+semua akun,0.0
+sempet,0.0
+semoga pihak,0.0
+semoga kedepannya,0.0
+semoga bisa,0.0
+seminggu ini,0.0
+seminggu,0.0
+sementara saya,0.0
+sementara di,0.0
+semua padahal,0.0
+semua postingan,0.0
+semua tolong,0.0
+sendirinya,0.0
+seperti fitur,0.0
+seperti dulu,0.0
+seperti di,0.0
+seperti ada,0.0
+seorang,0.0
+seolah,0.0
+sendiri sering,0.0
+semula,0.0
+sendiri padahal,0.0
+sendiri mau,0.0
+sendiri jadi,0.0
+sendiri dari,0.0
+sendiri dan,0.0
+senang menggunakan,0.0
+setiap mau,0.0
+setiap saya,0.0
+sorotan atau,0.0
+slide,0.0
+slalu,0.0
+skrng,0.0
+skrg udh,0.0
+skrg malah,0.0
+skrg,0.0
+skali,0.0
+sja,0.0
+situ,0.0
+sistemnya,0.0
+sistem nya,0.0
+sistem,0.0
+sinyalpun,0.0
+sinyalnya,0.0
+sinyal lancar,0.0
+sinyal bagus,0.0
+slh,0.0
+sllu,0.0
+setiap update,0.0
+sllu di,0.0
+sore,0.0
+solusinya,0.0
+solusi,0.0
+soalnya saya,0.0
+soalnya pas,0.0
+soalnya itu,0.0
+soalnya disitu,0.0
+soalnya akun,0.0
+so,0.0
+sngt,0.0
+snapgram,0.0
+smua,0.0
+smp,0.0
+sma,0.0
+sm,0.0
+sinkron sama,0.0
+sinkron,0.0
+sini,0.0
+simpen,0.0
+siapa,0.0
+siang,0.0
+si instagram,0.0
+si gapapa,0.0
+si cuman,0.0
+share reels,0.0
+share,0.0
+sg video,0.0
+sg orng,0.0
+sg orang,0.0
+sg nya,0.0
+setuju,0.0
+setting,0.0
+setidaknya,0.0
+setiap upload,0.0
+siapa aja,0.0
+siaran,0.0
+siaran langsung,0.0
+sihh,0.0
+simpan pada,0.0
+simpan di,0.0
+simbol speaker,0.0
+simbol,0.0
+silahkan,0.0
+sii,0.0
+sih tolong,0.0
+sih aplikasi,0.0
+sih masa,0.0
+sih kalo,0.0
+sih instagram,0.0
+sih ini,0.0
+sih gak,0.0
+sih di,0.0
+logout,0.0
+lah masa,0.0
+login²,0.0
+dan di,0.0
+dan bikin,0.0
+dan banyak,0.0
+dan aplikasi,0.0
+dan akun,0.0
+dan aku,0.0
+dan ada,0.0
+dalamnya,0.0
+dalam menggunakan,0.0
+dalam hal,0.0
+dalam bentuk,0.0
+dalam aplikasi,0.0
+dahulu,0.0
+dah tolong,0.0
+dah kok,0.0
+dah ga,0.0
+dan buka,0.0
+dan diperbaiki,0.0
+dah bagus,0.0
+dan disuruh,0.0
+dan keren,0.0
+dan kenapa,0.0
+dan kenangan,0.0
+dan keamanan,0.0
+dan kalo,0.0
+dan juga,0.0
+dan jika,0.0
+dan jangan,0.0
+dan ingin,0.0
+dan harus,0.0
+dan gak,0.0
+dan gabisa,0.0
+dan ga,0.0
+dan foto,0.0
+dan fb,0.0
+dah di,0.0
+daftar mengikuti,0.0
+dan lain,0.0
+coba di,0.0
+cmn,0.0
+cm ada,0.0
+cm,0.0
+close,0.0
+click,0.0
+chat atau,0.0
+chat,0.0
+chace,0.0
+ceritanya,0.0
+cerita tidak,0.0
+cerita orang,0.0
+cerita ini,0.0
+cepat di,0.0
+cepat,0.0
+cba,0.0
+coba cek,0.0
+coba lagi,0.0
+daftar,0.0
+coba pake,0.0
+da,0.0
+cuman kenapa,0.0
+cuman buat,0.0
+cuman ada,0.0
+cuman 15,0.0
+cuma pas,0.0
+cuma muter2,0.0
+cuma mau,0.0
+cuma loading,0.0
+cuma layar,0.0
+cuma ada,0.0
+contohnya,0.0
+contoh,0.0
+cobain,0.0
+coba tetap,0.0
+dan ketika,0.0
+dan lebih,0.0
+bisa disimpan,0.0
+dari satu,0.0
+dari pihak,0.0
+dari minggu,0.0
+dari menit,0.0
+dari lama,0.0
+dari kita,0.0
+dari kemarin,0.0
+dari itu,0.0
+dari ig,0.0
+dari hp,0.0
+dari facebook,0.0
+dari dulu,0.0
+dari awal,0.0
+dari aplikasi,0.0
+dari akun,0.0
+dari aku,0.0
+dari postingan,0.0
+dari saya,0.0
+dapet,0.0
+dari segi,0.0
+deh instagram,0.0
+deh ig,0.0
+dear instagram,0.0
+dear,0.0
+dati,0.0
+data seluler,0.0
+data nya,0.0
+data aplikasi,0.0
+dasar,0.0
+daripada,0.0
+dari tampilan,0.0
+dari tahun,0.0
+dari tadi,0.0
+dari story,0.0
+dari setiap,0.0
+dari 10,0.0
+dapat saya,0.0
+dan loading,0.0
+dan satu,0.0
+dan reels,0.0
+dan postingan,0.0
+dan pengikut,0.0
+dan penangguhan,0.0
+dan orang,0.0
+dan nomor,0.0
+dan no,0.0
+dan mungkin,0.0
+dan mudah,0.0
+dan momen,0.0
+dan mengirim,0.0
+dan membuat,0.0
+dan masih,0.0
+dan malah,0.0
+dan login,0.0
+dan saat,0.0
+dan saya,0.0
+dapat melihat,0.0
+dan sekarang,0.0
+dapat digunakan,0.0
+dapat di,0.0
+dan yg,0.0
+dan yang,0.0
+dan walaupun,0.0
+dan waktu,0.0
+dan upload,0.0
+dan tolong,0.0
+dan tiba,0.0
+dan sudah,0.0
+dan sinyal,0.0
+dan simbol,0.0
+dan setiap,0.0
+dan semua,0.0
+dan semoga,0.0
+catatan karena,0.0
+cari,0.0
+caranya biar,0.0
+bisnis,0.0
+bisa ya,0.0
+bisa upload,0.0
+bisa untuk,0.0
+bisa udah,0.0
+bisa terus,0.0
+bisa tapi,0.0
+bisa selalu,0.0
+bisa sekarang,0.0
+bisa segera,0.0
+bisa saya,0.0
+bisa sama,0.0
+bisa post,0.0
+bisa pake,0.0
+bisa padahal,0.0
+bisa nya,0.0
+bisalah,0.0
+bjir,0.0
+bisa ngasih,0.0
+bkn,0.0
+browsing,0.0
+bro,0.0
+boleh,0.0
+bolak balik,0.0
+bolak,0.0
+bodoh,0.0
+bnyk bug,0.0
+bnyk,0.0
+bnyak,0.0
+bngt,0.0
+blur,0.0
+blokir,0.0
+blm,0.0
+blank,0.0
+blackscreen,0.0
+bisa ngeliat,0.0
+bisa mohon,0.0
+caranya,0.0
+bisa main,0.0
+bisa log,0.0
+bisa lihat,0.0
+bisa liat,0.0
+bisa lebih,0.0
+bisa lagi,0.0
+bisa kirim,0.0
+bisa kembali,0.0
+bisa ke,0.0
+bisa karena,0.0
+bisa juga,0.0
+bisa jadi,0.0
+bisa hilang,0.0
+bisa hapus,0.0
+bisa gini,0.0
+bisa ga,0.0
+bisa login,0.0
+bisa malah,0.0
+bisa menikmati,0.0
+bisa masuk,0.0
+bisa mengikuti,0.0
+bisa menggunakan,0.0
+bisa mengenang,0.0
+bisa mengedit,0.0
+bisa mengakses,0.0
+bisa mencari,0.0
+bisa menambahkan,0.0
+bisa memuat,0.0
+bisa memposting,0.0
+bisa membuat,0.0
+bisa memberi,0.0
+bisa membantu,0.0
+bisa membagikan,0.0
+bisa melihat,0.0
+bisa masukin,0.0
+brp,0.0
+bru,0.0
+bs,0.0
+buram,0.0
+bulan kemarin,0.0
+bulan,0.0
+buktinya,0.0
+bukannya makin,0.0
+bukan nya,0.0
+bukan malah,0.0
+bukan karena,0.0
+bukan hanya,0.0
+buka tiktok,0.0
+buka story,0.0
+buka reels,0.0
+buka kamera,0.0
+buka instagram,0.0
+buka ig,0.0
+buka foto,0.0
+bunyi,0.0
+burem,0.0
+buang,0.0
+burik,0.0
+cara untuk,0.0
+cara mulai,0.0
+cara apapun,0.0
+caption,0.0
+capek,0.0
+cape gua,0.0
+cape,0.0
+cantik,0.0
+canggih,0.0
+camera,0.0
+call,0.0
+cache,0.0
+butuh,0.0
+but,0.0
+buruk,0.0
+buka dm,0.0
+buka aplikasi,0.0
+buka apk,0.0
+bug yg,0.0
+bug buka,0.0
+bug bug,0.0
+bug belum,0.0
+bug atau,0.0
+buat yang,0.0
+buat saya,0.0
+buat pihak,0.0
+buat nyimpen,0.0
+buat nonton,0.0
+buat instagram,0.0
+buat ig,0.0
+buat fitur,0.0
+buat di,0.0
+buat akun,0.0
+buang buang,0.0
+bug dan,0.0
+bug di,0.0
+bug ga,0.0
+bug tersebut,0.0
+bug yang,0.0
+bug untuk,0.0
+bug tidak,0.0
+bug tiba,0.0
+bug terutama,0.0
+bug terus,0.0
+bug story,0.0
+bug gajelas,0.0
+bug saya,0.0
+bug pada,0.0
+bug mulu,0.0
+bug kalo,0.0
+bug juga,0.0
+bug instagram,0.0
+dekat,0.0
+delay,0.0
+demi,0.0
+diri sendiri,0.0
+diretas,0.0
+direspon dan,0.0
+direspon,0.0
+diputar,0.0
+dipulihkan tapi,0.0
+dipulihkan,0.0
+diposting,0.0
+dipost,0.0
+dipersulit,0.0
+diperhatikan,0.0
+diperbarui,0.0
+diperbaiki yaa,0.0
+diperbaiki ya,0.0
+diperbaiki untuk,0.0
+diperbaiki terimakasih,0.0
+diri,0.0
+disana,0.0
+diperbaiki saya,0.0
+disayangkan,0.0
+ditingkatkan,0.0
+diterima,0.0
+ditaruh di,0.0
+ditaruh,0.0
+ditangguhkan padahal,0.0
+ditangguhkan lagi,0.0
+ditangguhkan dengan,0.0
+ditangguhkan dan,0.0
+ditambahkan fitur,0.0
+ditambahkan,0.0
+ditambah,0.0
+disuruh,0.0
+disimpan ke,0.0
+disimpan di,0.0
+disediakan,0.0
+diperbaiki segera,0.0
+diperbaiki karena,0.0
+digunakan untuk,0.0
+dikirim kirim,0.0
+dikirim,0.0
+dikira,0.0
+diketahui,0.0
+dikenal,0.0
+dikasih musik,0.0
+dikasih,0.0
+dikarenakan,0.0
+diikuti,0.0
+diiklankan,0.0
+dihp,0.0
+dihilangkan,0.0
+dihilangin,0.0
+dihapus saya,0.0
+dihapus sama,0.0
+dihapus permanen,0.0
+dikirim ke,0.0
+dikit,0.0
+diperbaiki ini,0.0
+dikit dikit,0.0
+diperbaiki dong,0.0
+diperbaiki bug,0.0
+dipencet,0.0
+dipake,0.0
+dipakai,0.0
+dinonaktifkan permanen,0.0
+dinonaktifkan,0.0
+dimohon untuk,0.0
+dimohon,0.0
+diminta,0.0
+dimana lagi,0.0
+dimana,0.0
+diliat,0.0
+dilakukan,0.0
+diklik,0.0
+ditingkatkan lagi,0.0
+diulang,0.0
+diunggah,0.0
+edit,0.0
+dunia,0.0
+duluu,0.0
+dulu mau,0.0
+dulu masih,0.0
+dulu lagi,0.0
+dulu kan,0.0
+dulu kalau,0.0
+dulu dulu,0.0
+dulu bisa,0.0
+dulu baru,0.0
+dua kali,0.0
+dua,0.0
+dri,0.0
+drastis,0.0
+draft,0.0
+durasinya,0.0
+efek,0.0
+diupdate malah,0.0
+efek di,0.0
+emosi,0.0
+emoji,0.0
+emng,0.0
+emg,0.0
+emang dari,0.0
+emang,0.0
+email yang,0.0
+email untuk,0.0
+email tapi,0.0
+email dan,0.0
+eh sekarang,0.0
+eh pas,0.0
+eh malah,0.0
+efisiensi fitur,0.0
+efisiensi,0.0
+draf,0.0
+dr,0.0
+dpt,0.0
+download video,0.0
+dong ini,0.0
+dong ig,0.0
+dong diperbaiki,0.0
+dong di,0.0
+dong developer,0.0
+dong buat,0.0
+doang yg,0.0
+doang tolong,0.0
+doang padahal,0.0
+dng,0.0
+dn,0.0
+dm tolong,0.0
+dm,0.0
+dlu,0.0
+dll tolong,0.0
+dong instagram,0.0
+dong jangan,0.0
+dong kalau,0.0
+dong untuk,0.0
+download tapi,0.0
+download lagi,0.0
+download dari,0.0
+download,0.0
+dowload,0.0
+donk,0.0
+dong pihak,0.0
+dong kayak,0.0
+dong perbaiki,0.0
+dong minnn,0.0
+dong min,0.0
+dong masa,0.0
+dong kenapa,0.0
+dong ke,0.0
+dihapus padahal,0.0
+digunakan tidak,0.0
+demi kenyamanan,0.0
+di galeri,0.0
+di fitur,0.0
+di feeds,0.0
+di edit,0.0
+di dua,0.0
+di dalamnya,0.0
+di click,0.0
+di cek,0.0
+di catatan,0.0
+di buka,0.0
+di buat,0.0
+di bio,0.0
+di beranda,0.0
+di beberapa,0.0
+di bawah,0.0
+di batasi,0.0
+di fix,0.0
+di gambar,0.0
+di balikin,0.0
+di gmail,0.0
+di login,0.0
+di lihat,0.0
+di liat,0.0
+di kompres,0.0
+di kolom,0.0
+di klik,0.0
+di kirim,0.0
+di kemudian,0.0
+di kamera,0.0
+di instastory,0.0
+di ilangin,0.0
+di hilangkan,0.0
+di harapkan,0.0
+di handphone,0.0
+di gunakan,0.0
+di bantu,0.0
+di bagian,0.0
+digunakan,0.0
+dengan sendirinya,0.0
+dengan sangat,0.0
+dengan postingan,0.0
+dengan mudah,0.0
+dengan lebih,0.0
+dengan lagu,0.0
+dengan kualitas,0.0
+dengan kata,0.0
+dengan instagram,0.0
+dengan idola,0.0
+dengan cara,0.0
+dengan baik,0.0
+dengan background,0.0
+dengan aplikasi,0.0
+dengan alasan,0.0
+dengan adanya,0.0
+dengan sendiri,0.0
+dengan yang,0.0
+di arsipan,0.0
+deskripsi,0.0
+di apus,0.0
+di aplikasi,0.0
+di apk,0.0
+di apa,0.0
+di anggap,0.0
+di 90,0.0
+dgn,0.0
+device,0.0
+developer tolong,0.0
+developer tidak,0.0
+developer nya,0.0
+developer ini,0.0
+dev,0.0
+detik aja,0.0
+detik,0.0
+di main,0.0
+di masukin,0.0
+di nonaktifkan,0.0
+dibalas,0.0
+dibaca doang,0.0
+dibaca,0.0
+diatur,0.0
+diarsipkan,0.0
+diapus,0.0
+dianggap,0.0
+diambil,0.0
+diakun utama,0.0
+diakun,0.0
+diakses,0.0
+dia,0.0
+di whatsapp,0.0
+di vidio,0.0
+di verifikasi,0.0
+di upload,0.0
+dibagian,0.0
+dibantu,0.0
+di notice,0.0
+dibenerin,0.0
+diganti,0.0
+diem,0.0
+diedit,0.0
+didownload,0.0
+didalamnya,0.0
+dicoba lagi,0.0
+dicoba,0.0
+dicek,0.0
+dicatatan,0.0
+dicari,0.0
+dibuka lagi,0.0
+dibuat,0.0
+dibilang,0.0
+dibikin,0.0
+diberi,0.0
+di upgrade,0.0
+di up,0.0
+di uninstall,0.0
+di unfoll,0.0
+di pusat,0.0
+di profile,0.0
+di postingan,0.0
+di posting,0.0
+di post,0.0
+di pertimbangkan,0.0
+di persulit,0.0
+di perhatikan,0.0
+di perbarui,0.0
+di perbaikin,0.0
+di pengaturan,0.0
+di pencet,0.0
+di pc,0.0
+di orang,0.0
+di notif,0.0
+di putar,0.0
+di reels,0.0
+di refresh,0.0
+di suspend,0.0
+di ulang,0.0
+di ubah,0.0
+di tingkatkan,0.0
+di tiktok,0.0
+di tambahin,0.0
+di tambah,0.0
+di suruh,0.0
+di sana,0.0
+di stories,0.0
+di simpan,0.0
+di semua,0.0
+di second,0.0
+di scroll,0.0
+di satu,0.0
+bisa full,0.0
+bisa diputar,0.0
+engga,0.0
+anda belum,0.0
+and,0.0
+anak,0.0
+an nya,0.0
+an lama,0.0
+ampun,0.0
+amat kecewa,0.0
+amat dah,0.0
+amat,0.0
+aman²,0.0
+aman saja,0.0
+aman aman,0.0
+aman aja,0.0
+aman,0.0
+ama,0.0
+all,0.0
+anda,0.0
+anda pilih,0.0
+algoritma,0.0
+anda tertunda,0.0
+apa tolong,0.0
+apa sih,0.0
+apa lagi,0.0
+apa ini,0.0
+apa gimana,0.0
+apa di,0.0
+apa apa,0.0
+antara,0.0
+anj,0.0
+anggap,0.0
+anehh,0.0
+aneh seperti,0.0
+aneh dan,0.0
+aneh bgt,0.0
+aneh aneh,0.0
+alhamdulillah,0.0
+album,0.0
+apa yg,0.0
+akun nya,0.0
+akun lama,0.0
+akun lainnya,0.0
+akun lain,0.0
+akun lagi,0.0
+akun ku,0.0
+akun kita,0.0
+akun ke,0.0
+akun karena,0.0
+akun instagram,0.0
+akun ig,0.0
+akun gw,0.0
+akun gue,0.0
+akun gabisa,0.0
+akun di,0.0
+akun dan,0.0
+akun malah,0.0
+akun orang,0.0
+alasannya,0.0
+akun pertama,0.0
+alasan yang,0.0
+alasan saya,0.0
+alami,0.0
+akunya,0.0
+akunku,0.0
+akun yg,0.0
+akun utama,0.0
+akun tidak,0.0
+akun tertentu,0.0
+akun tersebut,0.0
+akun temen,0.0
+akun tapi,0.0
+akun sy,0.0
+akun sendiri,0.0
+akun pribadi,0.0
+apa yang,0.0
+apa2,0.0
+bisa dipulihkan,0.0
+arsip lah,0.0
+arsip jg,0.0
+arsip jangan,0.0
+arsip itu,0.0
+arsip instagram,0.0
+arsip ini,0.0
+arsip ilang,0.0
+arsip ig,0.0
+arsip dihilangkan,0.0
+arsip di,0.0
+arsip dan,0.0
+arsip cerita,0.0
+arsip akan,0.0
+archive story,0.0
+archive nya,0.0
+aq kasih,0.0
+arsip kita,0.0
+arsip malah,0.0
+apus,0.0
+arsip nya,0.0
+asalkan,0.0
+asal,0.0
+artis,0.0
+arsipnya,0.0
+arsipkan,0.0
+arsipin,0.0
+arsipannya,0.0
+arsipan story,0.0
+arsipan,0.0
+arsip yg,0.0
+arsip video,0.0
+arsip tiba,0.0
+arsip saya,0.0
+arsip sangat,0.0
+arsip pada,0.0
+aq,0.0
+app nya,0.0
+apaan,0.0
+apk nya,0.0
+apk instagram,0.0
+apk ini,0.0
+apk ig,0.0
+apa²,0.0
+apasih,0.0
+apapun udah,0.0
+apapun tapi,0.0
+apapun itu,0.0
+apapun dan,0.0
+apalah,0.0
+apalagi kalau,0.0
+apakah ig,0.0
+apakah benar,0.0
+apakah,0.0
+apabila,0.0
+apk lain,0.0
+apk tapi,0.0
+app,0.0
+apknya,0.0
+aplikasinya sudah,0.0
+aplikasinya makin,0.0
+aplikasi yang,0.0
+aplikasi sudah,0.0
+aplikasi sering,0.0
+aplikasi sangat,0.0
+aplikasi sampah,0.0
+aplikasi padahal,0.0
+aplikasi nya,0.0
+aplikasi jadi,0.0
+aplikasi ini,0.0
+aplikasi ig,0.0
+aplikasi dengan,0.0
+aplikasi bagus,0.0
+aplikasi anda,0.0
+akun akun,0.0
+akun aku,0.0
+aku udah,0.0
+ada postingan,0.0
+ada perubahan,0.0
+ada perbaikan,0.0
+ada peningkatan,0.0
+ada pemberitahuan,0.0
+ada pembaharuan,0.0
+ada padahal,0.0
+ada notifikasi,0.0
+ada notif,0.0
+ada musik,0.0
+ada mohon,0.0
+ada lalu,0.0
+ada lagunya,0.0
+ada lagu,0.0
+ada lagi,0.0
+ada kesalahan,0.0
+ada pilihan,0.0
+ada respon,0.0
+ada jawaban,0.0
+ada saran,0.0
+adalah,0.0
+adakan fitur,0.0
+adakan,0.0
+adain fitur,0.0
+adain,0.0
+ada yg,0.0
+ada yang,0.0
+ada video,0.0
+ada tulisan,0.0
+ada tolong,0.0
+ada tindakan,0.0
+ada tetapi,0.0
+ada suaranya,0.0
+ada sekarang,0.0
+ada satu,0.0
+ada kendala,0.0
+ada informasi,0.0
+aku sih,0.0
+abis itu,0.0
+a35,0.0
+90,0.0
+7hari,0.0
+4k,0.0
+2x,0.0
+27,0.0
+2024,0.0
+2018,0.0
+1x,0.0
+19,0.0
+18,0.0
+16,0.0
+15 detik,0.0
+15,0.0
+11,0.0
+abis,0.0
+abis update,0.0
+ada iklan,0.0
+acak,0.0
+ada ig,0.0
+ada gunanya,0.0
+ada gangguan,0.0
+ada gambar,0.0
+ada font,0.0
+ada disana,0.0
+ada diakun,0.0
+ada dan,0.0
+ada beberapa,0.0
+ada bacaan,0.0
+ada arsip,0.0
+ada apa,0.0
+ad,0.0
+account,0.0
+acc,0.0
+adalah ketika,0.0
+adanya,0.0
+adanya fitur,0.0
+aktifkan,0.0
+aktif tapi,0.0
+aktif,0.0
+akhirnya saya,0.0
+akhirnya,0.0
+akhir ini,0.0
+akhir akhir,0.0
+akan tetapi,0.0
+akan muncul,0.0
+akan menghapus,0.0
+akan kasih,0.0
+akan hilang,0.0
+akan dihilangkan,0.0
+akan dihapus,0.0
+akan di,0.0
+akan bisa,0.0
+aktifitas,0.0
+aktivitas,0.0
+admin,0.0
+aktor,0.0
+aku sangat,0.0
+aku rekam,0.0
+aku pake,0.0
+aku mau,0.0
+aku masih,0.0
+aku malah,0.0
+aku kasih,0.0
+aku kasi,0.0
+aku juga,0.0
+aku jadi,0.0
+aku gk,0.0
+aku gak,0.0
+aku download,0.0
+aku bikin,0.0
+aku arsipin,0.0
+akal,0.0
+ajukan banding,0.0
+ajukan,0.0
+aju banding,0.0
+aja fitur,0.0
+aja di,0.0
+aja buat,0.0
+aja bisa,0.0
+aja atau,0.0
+aja aku,0.0
+aj ga,0.0
+ai,0.0
+ah,0.0
+agar tidak,0.0
+agar lebih,0.0
+agar di,0.0
+agar bisa,0.0
+agak kecewa,0.0
+agak,0.0
+aja fiturnya,0.0
+aja ga,0.0
+aja gabisa,0.0
+aja tapi,0.0
+aju,0.0
+ajah,0.0
+ajaa,0.0
+aja yg,0.0
+aja udah,0.0
+aja tolong,0.0
+aja nggak,0.0
+aja gada,0.0
+aja ngga,0.0
+aja mohon,0.0
+aja kalo,0.0
+aja instagram,0.0
+aja habis,0.0
+aja gak,0.0
+asli,0.0
+aslinya,0.0
+assalamualaikum,0.0
+berharga,0.0
+berharap,0.0
+berguna untuk,0.0
+berguna kalo,0.0
+berguna buat,0.0
+berguna banget,0.0
+berfungsi,0.0
+berbuat,0.0
+berbicara,0.0
+berbeda,0.0
+berbau pornografi,0.0
+berbau,0.0
+berbagi,0.0
+berapa minggu,0.0
+berapa kalii,0.0
+berapa,0.0
+berharap fitur,0.0
+berharga tanpa,0.0
+beranda juga,0.0
+berhari,0.0
+berkedip,0.0
+berkali kali,0.0
+berjualan,0.0
+berjalan lancar,0.0
+berjalan dengan,0.0
+berjalan,0.0
+berinteraksi dengan,0.0
+berinteraksi,0.0
+berikan,0.0
+beri fitur,0.0
+beri bintang,0.0
+beri,0.0
+berhenti,0.0
+berhasil,0.0
+berhari hari,0.0
+berandanya,0.0
+beranda ig,0.0
+bbrp,0.0
+belakang,0.0
+bekerja,0.0
+begitu saja,0.0
+begitu juga,0.0
+beberapa video,0.0
+beberapa menit,0.0
+beberapa kali,0.0
+beberapa hari,0.0
+beberapa foto,0.0
+beberapa fitur,0.0
+beberapa cara,0.0
+beberapa akun,0.0
+bebas,0.0
+bbrpa kali,0.0
+bbrpa,0.0
+bbrp kali,0.0
+belajar,0.0
+belakangan,0.0
+ber,0.0
+belakangan ini,0.0
+benerin dong,0.0
+benerin,0.0
+beneran,0.0
+bener masukin,0.0
+benar2,0.0
+benar tpi,0.0
+benar tolong,0.0
+benar tetapi,0.0
+benar dan,0.0
+benar ada,0.0
+belum terupdate,0.0
+belum di,0.0
+belum bisa,0.0
+belum ada,0.0
+beli,0.0
+berkembang,0.0
+berkomunikasi,0.0
+berlebihan,0.0
+bintangnya,0.0
+bintang soalnya,0.0
+bintang satu,0.0
+bintang pun,0.0
+bintang nya,0.0
+bintang lima,0.0
+bintang karena,0.0
+bintang jika,0.0
+bintang dulu,0.0
+bingung mau,0.0
+bingung kok,0.0
+bilang,0.0
+bila,0.0
+bikin susah,0.0
+bikin sg,0.0
+bikin saya,0.0
+bintang tapi,0.0
+bio,0.0
+bermain,0.0
+bio profil,0.0
+bisa diperbaiki,0.0
+bisa dilihat,0.0
+bisa digunakan,0.0
+bisa diganti,0.0
+bisa diedit,0.0
+bisa diakses,0.0
+bisa dan,0.0
+bisa cuma,0.0
+bisa buka,0.0
+bisa buat,0.0
+bisa bisa,0.0
+bisa balik,0.0
+bisa akun,0.0
+bisa ada,0.0
+biru,0.0
+bikin kesel,0.0
+bikin ig,0.0
+bikin highlight,0.0
+bikin fitur,0.0
+berwarna,0.0
+berulang ulang,0.0
+berulang kali,0.0
+berulang,0.0
+berubah jd,0.0
+berubah jadi,0.0
+bertuliskan lagu,0.0
+bertuliskan,0.0
+bertanya,0.0
+bertahun tahun,0.0
+bertahun,0.0
+bersama,0.0
+bermasalah,0.0
+bermanfaat dan,0.0
+bermain ig,0.0
+besar,0.0
+besar tolong,0.0
+besok,0.0
+biar kita,0.0
+bikin emosi,0.0
+bikin bingung,0.0
+bikin akun,0.0
+biasa,0.0
+biar tidak,0.0
+biar lebih,0.0
+biar gak,0.0
+besoknya,0.0
+biar ga,0.0
+biar bisa,0.0
+biar banyak,0.0
+bgttt,0.0
+bgt skrg,0.0
+best,0.0
+bbrp fitur,0.0
+bawah,0.0
+at,0.0
+bagus pake,0.0
+bagus malah,0.0
+bagus kok,0.0
+bagus kenapa,0.0
+bagus fitur,0.0
+bagus dipake,0.0
+bagus dan,0.0
+bagus cuman,0.0
+bagus cuma,0.0
+bagus buat,0.0
+bagus banget,0.0
+bagus bagus,0.0
+bagikan ke,0.0
+bagikan,0.0
+bagian story,0.0
+bagian profil,0.0
+bagus namun,0.0
+bagus si,0.0
+bagi orang,0.0
+bagus sih,0.0
+baik lagi,0.0
+baik dan,0.0
+baik baik,0.0
+bahwa,0.0
+bahkan tidak,0.0
+bahkan saya,0.0
+bahkan sampe,0.0
+bahkan sampai,0.0
+bagusss,0.0
+baguss tapi,0.0
+baguss kok,0.0
+bagus untuk,0.0
+bagus tolong,0.0
+bagus tetapi,0.0
+bagus tapi,0.0
+bagi saya,0.0
+bagi,0.0
+batasi,0.0
+atau yang,0.0
+atau tidak,0.0
+atau story,0.0
+atau seperti,0.0
+atau meta,0.0
+atau mau,0.0
+atau gimana,0.0
+atau foto,0.0
+atau apapun,0.0
+atau apalah,0.0
+atau apa,0.0
+atau akun,0.0
+atas sendiri,0.0
+atas bawah,0.0
+atas,0.0
+at least,0.0
+atau video,0.0
+aturan,0.0
+bagaimana caranya,0.0
+audio,0.0
+bagaimana cara,0.0
+background foto,0.0
+background,0.0
+bacaannya,0.0
+baca ini,0.0
+baca,0.0
+ayolah,0.0
+awal nya,0.0
+awal lagi,0.0
+auto,0.0
+autentikasi,0.0
+audionya,0.0
+audio tidak,0.0
+audio nya,0.0
+audio musik,0.0
+baik saja,0.0
+bakal,0.0
+bakalan,0.0
+banyak yg,0.0
+banyak tapi,0.0
+banyak sekali,0.0
+banyak orang,0.0
+banyak lagi,0.0
+banyak konten,0.0
+banyak kenangan,0.0
+banyak juga,0.0
+banyak ini,0.0
+banyak iklan,0.0
+banyak hal,0.0
+banyak foto,0.0
+banyak fitur,0.0
+banyak filter,0.0
+banyak dan,0.0
+banyak bugnya,0.0
+banyak update,0.0
+baperan,0.0
+balik ke,0.0
+bar,0.0
+batasan,0.0
+barunya,0.0
+baru yg,0.0
+baru yang,0.0
+baru tapi,0.0
+baru saya,0.0
+baru saja,0.0
+baru kali,0.0
+baru juga,0.0
+baru ini,0.0
+baru font,0.0
+baru di,0.0
+baru bisa,0.0
+baru atau,0.0
+baru ada,0.0
+banyak bgt,0.0
+banyak banyak,0.0
+banyak banget,0.0
+bantuannya ya,0.0
+banget kalo,0.0
+banget jangan,0.0
+banget instagram,0.0
+banget ini,0.0
+banget gw,0.0
+banget bug,0.0
+banget akun,0.0
+banding tolong,0.0
+banding tapi,0.0
+banding saya,0.0
+banding dan,0.0
+balikin lagi,0.0
+balikin ke,0.0
+balikin fitur,0.0
+balik lagi,0.0
+banget kenangan,0.0
+banget kenapa,0.0
+banget mau,0.0
+bangett,0.0
+bantuan nya,0.0
+bantuan,0.0
+bantu perbaiki,0.0
+bantu,0.0
+banned,0.0
+bangettt,0.0
+banget ya,0.0
+banget padahal,0.0
+banget udah,0.0
+banget tolong,0.0
+banget sumpah,0.0
+banget sih,0.0
+banget sampe,0.0
+banget sama,0.0
+enak,0.0
+enggak,0.0
+login pake,0.0
+keluhan,0.0
+keluar²,0.0
+keluarga,0.0
+keluar terus,0.0
+keluar sendiri,0.0
+keluar dengan,0.0
+keluar dari,0.0
+keluar dan,0.0
+keluar aplikasi,0.0
+kelihatan,0.0
+keliatan,0.0
+kelas,0.0
+kelamaan,0.0
+kekurangan,0.0
+kekirim,0.0
+kek gini,0.0
+keluar² sendiri,0.0
+keluhan saya,0.0
+kejadian,0.0
+kemaren,0.0
+kemudian,0.0
+kembalikan kenangan,0.0
+kembalikan fitur,0.0
+kembalikan akun,0.0
+kembalikan,0.0
+kembaliin,0.0
+kembali tolong,0.0
+kembali seperti,0.0
+kembali ke,0.0
+kembali foto,0.0
+kembali akun,0.0
+kemarin²,0.0
+kemarin saya,0.0
+kemarin mau,0.0
+kemarin kemarin,0.0
+kejadian ini,0.0
+keinginan,0.0
+kena banding,0.0
+kecewa akun,0.0
+kebuka,0.0
+kebijakan,0.0
+kebawah,0.0
+kebanyakan,0.0
+ke versi,0.0
+ke upload,0.0
+ke story,0.0
+ke sorotan,0.0
+ke postingan,0.0
+ke pihak,0.0
+ke nomor,0.0
+ke log,0.0
+ke kirim,0.0
+ke instastory,0.0
+ke ig,0.0
+kecanduan,0.0
+kecewa banget,0.0
+kehilangan,0.0
+kecewa karena,0.0
+kehapus,0.0
+keganti,0.0
+kedua saya,0.0
+kedua gak,0.0
+kedip2,0.0
+kedip kedip,0.0
+kedip,0.0
+kedepannya bisa,0.0
+kedepannya,0.0
+kedepan,0.0
+kedap kedip,0.0
+kedap,0.0
+kecil,0.0
+kecewa sekali,0.0
+kecewa sama,0.0
+kemudian hari,0.0
+kena blokir,0.0
+jawaban,0.0
+kenyamanan saya,0.0
+kentang,0.0
+kendala seperti,0.0
+kendala saya,0.0
+kendala,0.0
+kenceng,0.0
+kenapa yah,0.0
+kenapa yaa,0.0
+kenapa video,0.0
+kenapa tidak,0.0
+kenapa tiap,0.0
+kenapa sih,0.0
+kenapa si,0.0
+kenapa selalu,0.0
+kenapa sekarang,0.0
+kenapa saya,0.0
+kenyamanan,0.0
+kepada,0.0
+kenapa pas,0.0
+kepada developer,0.0
+kesalahan yang,0.0
+kesalahan tolong,0.0
+kesalahan padahal,0.0
+kesalahan dan,0.0
+kesal dengan,0.0
+kesal dan,0.0
+kesal,0.0
+kerja samanya,0.0
+kerja,0.0
+keren,0.0
+kerabat,0.0
+kepotong,0.0
+keperluan,0.0
+kepada teman,0.0
+kepada pihak,0.0
+kenapa saat,0.0
+kenapa padahal,0.0
+kena bug,0.0
+kenapa akun,0.0
+kenangan yg,0.0
+kenangan yang,0.0
+kenangan semua,0.0
+kenangan selain,0.0
+kenangan nya,0.0
+kenangan ku,0.0
+kenangan kami,0.0
+kenangan foto,0.0
+kenangan di,0.0
+kenangan dari,0.0
+kenangan dan,0.0
+kenang,0.0
+kenal,0.0
+kena suspend,0.0
+kena pelanggaran,0.0
+kenangannya,0.0
+kenapa akunku,0.0
+kenapa masih,0.0
+kenapa banyak,0.0
+kenapa malah,0.0
+kenapa makin,0.0
+kenapa kok,0.0
+kenapa ketika,0.0
+kenapa kalo,0.0
+kenapa kalau,0.0
+kenapa instagram,0.0
+kenapa ini,0.0
+kenapa ig,0.0
+kenapa gak,0.0
+kenapa ga,0.0
+kenapa filter,0.0
+kenapa di,0.0
+kenapa bisa,0.0
+kenapa berubah,0.0
+ke hapus,0.0
+ke galeri,0.0
+ke foto,0.0
+justru,0.0
+jujur saya,0.0
+jujur aja,0.0
+jujur,0.0
+juga untuk,0.0
+juga udah,0.0
+juga tidak,0.0
+juga tetep,0.0
+juga sudah,0.0
+juga sering,0.0
+juga semoga,0.0
+juga sangat,0.0
+juga sama,0.0
+juga oke,0.0
+juga ngga,0.0
+juga masih,0.0
+jumping,0.0
+kadang error,0.0
+juga kalau,0.0
+kadang ga,0.0
+kalau fitur,0.0
+kalau dibuka,0.0
+kalau di,0.0
+kalau bisa,0.0
+kak,0.0
+kah,0.0
+kagak,0.0
+kaga bisa,0.0
+kaga,0.0
+kadang tidak,0.0
+kadang suka,0.0
+kadang pas,0.0
+kadang kalau,0.0
+kadang juga,0.0
+kadang gak,0.0
+juga kenapa,0.0
+juga hilang,0.0
+ke email,0.0
+jika ingin,0.0
+jika ada,0.0
+jgn di,0.0
+jgn,0.0
+jga,0.0
+jg banyak,0.0
+jernih,0.0
+jelek sekarang,0.0
+jelek masa,0.0
+jelek banget,0.0
+jelas2,0.0
+jelas jelas,0.0
+jelas banget,0.0
+jdinya,0.0
+jdi,0.0
+jd,0.0
+jika di,0.0
+jika memang,0.0
+juga gak,0.0
+jika saya,0.0
+juga ga,0.0
+juga di,0.0
+juga dan,0.0
+juga bug,0.0
+juga bisa,0.0
+juga bagus,0.0
+juga aman,0.0
+juga ada,0.0
+judul,0.0
+judol,0.0
+judi online,0.0
+judi,0.0
+jualan,0.0
+job,0.0
+jika sudah,0.0
+kalau gak,0.0
+kalau instagram,0.0
+kalau memang,0.0
+kasih saran,0.0
+kasi bintang,0.0
+kasi,0.0
+karna itu,0.0
+karna ini,0.0
+karna fitur,0.0
+karna di,0.0
+karna dengan,0.0
+karna banyak,0.0
+karna arsip,0.0
+karena tidak,0.0
+karena sering,0.0
+karena saya,0.0
+karena masalah,0.0
+karena di,0.0
+karena dari,0.0
+kasian,0.0
+kata kata,0.0
+kalau post,0.0
+kata sandi,0.0
+ke dua,0.0
+ke cerita,0.0
+ke arsip,0.0
+ke android,0.0
+kayak whatsapp,0.0
+kayak tiktok,0.0
+kayak gitu,0.0
+kayak gini,0.0
+kayak dulu,0.0
+kaya gitu,0.0
+kaya gini,0.0
+kaya di,0.0
+kaya awal,0.0
+katanya instagram,0.0
+katanya,0.0
+karena banyak,0.0
+karena akun,0.0
+karena ada,0.0
+kapan saja,0.0
+kalo di,0.0
+kalo buka,0.0
+kalo bikin,0.0
+kalo ada,0.0
+kalinya,0.0
+kalii,0.0
+kalian,0.0
+kali saya,0.0
+kali mohon,0.0
+kali mau,0.0
+kali ini,0.0
+kali di,0.0
+kali ada,0.0
+kalau sudah,0.0
+kalau posting,0.0
+kalo fitur,0.0
+kalo ga,0.0
+kalo gak,0.0
+kamu,0.0
+kapan,0.0
+kanan kiri,0.0
+kanan,0.0
+kan lagi,0.0
+kan jadi,0.0
+kan aneh,0.0
+kami menyimpan,0.0
+kalo orang,0.0
+kamera ig,0.0
+kamera hanya,0.0
+kamera di,0.0
+kalo update,0.0
+kalo udah,0.0
+kalo saya,0.0
+kesalahannya,0.0
+kesana,0.0
+kesel,0.0
+lainnya masih,0.0
+lain yg,0.0
+lain ya,0.0
+lain untuk,0.0
+lain tolong,0.0
+lain seperti,0.0
+lain selain,0.0
+lain pun,0.0
+lain nya,0.0
+lain masih,0.0
+lain malah,0.0
+lain lancar²,0.0
+lain lancar,0.0
+lain lain,0.0
+lain kalau,0.0
+lain juga,0.0
+lainnya juga,0.0
+lainya,0.0
+lain itu,0.0
+lakukan,0.0
+lamaa,0.0
+lama tapi,0.0
+lama semakin,0.0
+lama saya,0.0
+lama makin,0.0
+lama lama,0.0
+lama kelamaan,0.0
+lama hingga,0.0
+lama di,0.0
+lama dan,0.0
+lama bngt,0.0
+lama bgt,0.0
+lalu saya,0.0
+lalu akun,0.0
+lalu,0.0
+lain jadi,0.0
+lain ga,0.0
+lagi pas,0.0
+lah ini,0.0
+lagunya jadi,0.0
+lagunya,0.0
+lagu pada,0.0
+lagu nya,0.0
+lagu itu,0.0
+lagu di,0.0
+lagii dong,0.0
+lagii,0.0
+lagi yaa,0.0
+lagi untuk,0.0
+lagi tolong,0.0
+lagi tidak,0.0
+lagi tetap,0.0
+lagi terimakasih,0.0
+lagi sudah,0.0
+lah di,0.0
+lah instagram,0.0
+lain di,0.0
+lah jangan,0.0
+lain dan,0.0
+lain bisa,0.0
+lain berjalan,0.0
+lain aman,0.0
+lain aja,0.0
+lain ada,0.0
+lahhh,0.0
+lah ya,0.0
+lah tolong,0.0
+lah pihak,0.0
+lah min,0.0
+100,0.0
+lah kok,0.0
+lah kenapa,0.0
+lah kalo,0.0
+lamaaaa,0.0
+lambang,0.0
+lambat,0.0
+lo,0.0
+link,0.0
+limit,0.0
+lima,0.0
+like postingan,0.0
+like,0.0
+lihat story,0.0
+liat video,0.0
+liat story,0.0
+liat status,0.0
+liat sg,0.0
+liat postingan,0.0
+liat foto,0.0
+liat di,0.0
+lho,0.0
+lh,0.0
+lite,0.0
+load,0.0
+lancar aja,0.0
+loading lama,0.0
+login padahal,0.0
+login malah,0.0
+login lagi,0.0
+login kembali,0.0
+login ke,0.0
+login jg,0.0
+login di,0.0
+login dari,0.0
+log in,0.0
+log,0.0
+loadingnya lama,0.0
+loadingnya,0.0
+loading terus,0.0
+loading padahal,0.0
+loading nya,0.0
+lgi,0.0
+lg,0.0
+lewat ig,0.0
+lewat email,0.0
+layar,0.0
+lawan,0.0
+laporan tapi,0.0
+lapor,0.0
+lanjuti,0.0
+langsung muncul,0.0
+langsung bisa,0.0
+langkah,0.0
+lancar² aja,0.0
+lancar2 aja,0.0
+lancar2,0.0
+lancar saja,0.0
+lancar lancar,0.0
+lancar dan,0.0
+lancar banget,0.0
+layar camera,0.0
+layar hitam,0.0
+layar hp,0.0
+lelet,0.0
+lewat akun,0.0
+lewat,0.0
+letak,0.0
+lengkap,0.0
+lemot,0.0
+leluasa,0.0
+lebih suka,0.0
+layarnya,0.0
+lebih mudah,0.0
+lebih di,0.0
+lebih banyak,0.0
+lebih baik,0.0
+lebih bagus,0.0
+least,0.0
+lagi saya,0.0
+lagi padahal,0.0
+kesel banget,0.0
+kok gk,0.0
+kok bisa,0.0
+kok akun,0.0
+kodenya,0.0
+kode verifikasi,0.0
+kode ke,0.0
+kode,0.0
+ko ga,0.0
+ko,0.0
+knpa ya,0.0
+knpa,0.0
+knp ya,0.0
+knp sih,0.0
+knp sekarang,0.0
+kn,0.0
+kmrn,0.0
+kok gaada,0.0
+kok jadi,0.0
+klo mau,0.0
+kok reels,0.0
+kompres,0.0
+komplain,0.0
+komentar di,0.0
+komentar,0.0
+komennya,0.0
+komen,0.0
+kolom pencarian,0.0
+kolom komentar,0.0
+kolom,0.0
+koleksi,0.0
+kolaborator,0.0
+kolaborasi,0.0
+kok tiba,0.0
+kok setiap,0.0
+kok sekarang,0.0
+kmbli,0.0
+klo dilihat,0.0
+lagi nanti,0.0
+kira,0.0
+khusus,0.0
+keyboard,0.0
+keupdate,0.0
+keunggulan,0.0
+ketika sudah,0.0
+ketika seseorang,0.0
+ketika mau,0.0
+ketika login,0.0
+ketika ingin,0.0
+ketika gw,0.0
+ketika buka,0.0
+keterangan,0.0
+ketentuan,0.0
+ketemu,0.0
+kesulitan,0.0
+khususnya,0.0
+kira hp,0.0
+klo di,0.0
+kirain,0.0
+klik,0.0
+klau,0.0
+kita yang,0.0
+kita tidak,0.0
+kita sendiri,0.0
+kita di,0.0
+kita dan,0.0
+kita buat,0.0
+kita atau,0.0
+kita ada,0.0
+kirimkan,0.0
+kirim ke,0.0
+kirim juga,0.0
+kirim dm,0.0
+kiri,0.0
+komunitas,0.0
+komunitas instagram,0.0
+koneksi internet,0.0
+lagi jika,0.0
+lagi instagram,0.0
+lagi ini,0.0
+lagi harus,0.0
+lagi fotonya,0.0
+lagi eror,0.0
+lagi durasi,0.0
+lagi dong,0.0
+lagi di,0.0
+lagi deh,0.0
+lagi dari,0.0
+lagi dan,0.0
+lagi bugnya,0.0
+lagi bug,0.0
+lagi bisa,0.0
+lagi biar,0.0
+lagi jadi,0.0
+lagi kalo,0.0
+koneksi lancar,0.0
+lagi karena,0.0
+lagi mohon,0.0
+lagi mengunggah,0.0
+lagi mengenai,0.0
+lagi masih,0.0
+lagi masalah,0.0
+lagi masa,0.0
+lagi malah,0.0
+lagi lah,0.0
+lagi kualitas,0.0
+lagi knp,0.0
+lagi klo,0.0
+lagi kenapa,0.0
+lagi kena,0.0
+lagi ke,0.0
+lagi kaya,0.0
+lagi bermasalah,0.0
+lagi baru,0.0
+lagi aplikasinya,0.0
+lagi aplikasi,0.0
+ku masih,0.0
+ku juga,0.0
+krna,0.0
+krn,0.0
+kreator,0.0
+kreatif,0.0
+kouta,0.0
+kosong,0.0
+koo,0.0
+kontennya,0.0
+konten,0.0
+konsisten,0.0
+konfirmasi,0.0
+koneksi tapi,0.0
+koneksi padahal,0.0
+ku yg,0.0
+kualitas foto,0.0
+kualitas nya,0.0
+kuota jadi,0.0
+lagi aku,0.0
+lagi akhirnya,0.0
+lag dan,0.0
+kyk,0.0
+kurang suka,0.0
+kurang bagus,0.0
+kuota banyak,0.0
+kualitas video,0.0
+kuota ada,0.0
+kuota,0.0
+kunjung,0.0
+kunci,0.0
+kuliah,0.0
+kualitasnya,0.0
+jaya,0.0
+jawab,0.0
+entah,0.0
+gmna,0.0
+gmn,0.0
+gmail,0.0
+gk nyaman,0.0
+gk bisa,0.0
+gk ada,0.0
+gk ad,0.0
+gitu ya,0.0
+gitu tolong,0.0
+gitu terus,0.0
+gitu jadi,0.0
+gitu aja,0.0
+gini terus,0.0
+gini sih,0.0
+gini plis,0.0
+gini mau,0.0
+gmn sih,0.0
+google,0.0
+gimana yah,0.0
+grid,0.0
+hal seperti,0.0
+hal itu,0.0
+hal ini,0.0
+hal hal,0.0
+hai,0.0
+hadehhh,0.0
+hadeh,0.0
+hack,0.0
+habis itu,0.0
+gw mau,0.0
+gunanya,0.0
+gunakan,0.0
+guna,0.0
+gue,0.0
+gtu,0.0
+gini deh,0.0
+gimana ya,0.0
+hal yang,0.0
+gapernah,0.0
+ganti username,0.0
+ganti lagu,0.0
+ganti ke,0.0
+ganti akun,0.0
+gangguan,0.0
+ganggu,0.0
+gampang,0.0
+gambarnya,0.0
+gambar yang,0.0
+gambar nya,0.0
+gambar dan,0.0
+galeri padahal,0.0
+galeri hp,0.0
+galeri,0.0
+gak usah,0.0
+gapapa,0.0
+gara,0.0
+gimana sih,0.0
+gara gara,0.0
+gimana si,0.0
+gimana lagi,0.0
+gimana ini,0.0
+gimana cara,0.0
+giliran,0.0
+gila,0.0
+geram,0.0
+gerak,0.0
+gelap,0.0
+gegara,0.0
+gbsa,0.0
+gbisa,0.0
+gausah,0.0
+gatau kenapa,0.0
+gatau,0.0
+hal tersebut,0.0
+halaman,0.0
+jaringannya,0.0
+hilang sendiri,0.0
+hilang saya,0.0
+hilang permanen,0.0
+hilang lagi,0.0
+hilang harus,0.0
+hilang di,0.0
+hilang dan,0.0
+hilang begitu,0.0
+hilang atau,0.0
+highlight,0.0
+hidup,0.0
+hiburan,0.0
+hewan,0.0
+heran,0.0
+hendak,0.0
+helppp,0.0
+hilang secara,0.0
+hilang tapi,0.0
+hati,0.0
+hilang tidak,0.0
+hpnya,0.0
+hp samsung,0.0
+hp ku,0.0
+hp juga,0.0
+hp dan,0.0
+hitam saja,0.0
+hitam dan,0.0
+hingga saat,0.0
+hingga,0.0
+hilangkan saja,0.0
+hilangkan fitur,0.0
+hilangkan,0.0
+hilangin fitur,0.0
+hilangin,0.0
+hilang trus,0.0
+hd,0.0
+hasilnya sama,0.0
+hallo,0.0
+hapus juga,0.0
+hapus data,0.0
+hapus dari,0.0
+hapus cache,0.0
+hapus arsip,0.0
+hapus archive,0.0
+hanya muncul,0.0
+hanya di,0.0
+hanya bisa,0.0
+handphone saya,0.0
+handphone,0.0
+hancur,0.0
+hampir,0.0
+halo instagram,0.0
+halo developer,0.0
+halo,0.0
+hapus fitur,0.0
+hapus karena,0.0
+hasilnya,0.0
+hapus karna,0.0
+hasil yg,0.0
+hasil,0.0
+harus verifikasi,0.0
+harus membagikannya,0.0
+harus di,0.0
+hari kemudian,0.0
+hari gak,0.0
+harapkan,0.0
+harapan,0.0
+harap segera,0.0
+hapus sendiri,0.0
+hapus saja,0.0
+hapus padahal,0.0
+hapus lagu,0.0
+hapus komentar,0.0
+gak sih,0.0
+gak seperti,0.0
+gak pernah,0.0
+fiturnya juga,0.0
+fitur2,0.0
+fitur untuk,0.0
+fitur terbaru,0.0
+fitur template,0.0
+fitur tambahkan,0.0
+fitur sudah,0.0
+fitur simpan,0.0
+fitur seperti,0.0
+fitur repost,0.0
+fitur reels,0.0
+fitur privasi,0.0
+fitur paling,0.0
+fitur nya,0.0
+fitur musiknya,0.0
+fitur musik,0.0
+fiturnya ga,0.0
+fiturnya tidak,0.0
+fitur lain,0.0
+fitur²,0.0
+force,0.0
+for,0.0
+font nya,0.0
+font di,0.0
+font baru,0.0
+following,0.0
+followers,0.0
+follower,0.0
+follow orang,0.0
+follow akun,0.0
+follow,0.0
+follback,0.0
+flipside,0.0
+fix,0.0
+fitur² yg,0.0
+fitur menambahkan,0.0
+fitur lagu,0.0
+gak nyaman,0.0
+filter sama,0.0
+filter ig,0.0
+filter di,0.0
+feeds,0.0
+feed ke,0.0
+feed,0.0
+favorit,0.0
+faktor,0.0
+facebook,0.0
+error ya,0.0
+error mulu,0.0
+error dan,0.0
+eror dan,0.0
+eror apa,0.0
+entah kenapa,0.0
+entah bug,0.0
+filter nya,0.0
+fitur archive,0.0
+fitur keamanan,0.0
+fitur arsipkan,0.0
+fitur itu,0.0
+fitur instagram,0.0
+fitur ig,0.0
+fitur highlight,0.0
+fitur hapus,0.0
+fitur font,0.0
+fitur flipside,0.0
+fitur fitur,0.0
+fitur di,0.0
+fitur dan,0.0
+fitur catatan,0.0
+fitur buat,0.0
+fitur barunya,0.0
+fitur baru,0.0
+fitur arsipnya,0.0
+force close,0.0
+foto atau,0.0
+foto bisa,0.0
+gabisa login,0.0
+gabisa lagi,0.0
+gabisa dibuka,0.0
+gabisa di,0.0
+gabisa buka,0.0
+gabisa buat,0.0
+gabisa bikin,0.0
+gaada yang,0.0
+gaada tapi,0.0
+gaada fitur,0.0
+gaada,0.0
+ga terlalu,0.0
+ga tau,0.0
+ga sinkron,0.0
+ga si,0.0
+ga pernah,0.0
+gabisa liat,0.0
+gabisa masuk,0.0
+foto dan,0.0
+gabisa nambahin,0.0
+gak muncul,0.0
+gak mau,0.0
+gak masuk,0.0
+gak kayak,0.0
+gak juga,0.0
+gak jelas,0.0
+gak enak,0.0
+gak dihapus,0.0
+gak bagus,0.0
+gak ada,0.0
+gajelas tiba,0.0
+gagal terus,0.0
+gagal,0.0
+gada yg,0.0
+gabisa padahal,0.0
+ga nyaman,0.0
+ga merata,0.0
+ga masuk,0.0
+ga lagi,0.0
+foto yg,0.0
+foto yang,0.0
+foto video,0.0
+foto tolong,0.0
+foto tidak,0.0
+foto selfie,0.0
+foto selalu,0.0
+foto saya,0.0
+foto postingan,0.0
+foto malah,0.0
+foto lebih,0.0
+foto juga,0.0
+foto itu,0.0
+foto di,0.0
+foto dengan,0.0
+foto2,0.0
+foto2 di,0.0
+fotonya,0.0
+ga dapat,0.0
+ga keliatan,0.0
+ga ke,0.0
+ga jelas,0.0
+ga harus,0.0
+ga enak,0.0
+ga di,0.0
+ga akan,0.0
+fotonya dan,0.0
+fungsi,0.0
+full tapi,0.0
+fto,0.0
+freeze,0.0
+frame,0.0
+foto²,0.0
+hps,0.0
+hpus,0.0
+hr,0.0
+itu akun,0.0
+itu ada,0.0
+its oke,0.0
+its,0.0
+item,0.0
+istagram,0.0
+isinya,0.0
+isi konten,0.0
+isi,0.0
+iseng²,0.0
+iphone,0.0
+intinya,0.0
+internet bagus,0.0
+internet,0.0
+intagram saya,0.0
+intagram,0.0
+itu aja,0.0
+itu bahkan,0.0
+instastory dengan,0.0
+itu bisa,0.0
+itu setelah,0.0
+itu selalu,0.0
+itu saya,0.0
+itu sangat,0.0
+itu saja,0.0
+itu penting,0.0
+itu muncul,0.0
+itu menjadi,0.0
+itu membuat,0.0
+itu lama,0.0
+itu kenapa,0.0
+itu juga,0.0
+itu fitur,0.0
+itu dihilangkan,0.0
+itu di,0.0
+instastory nya,0.0
+install ulang,0.0
+instagram lu,0.0
+instagram story,0.0
+instagram sering,0.0
+instagram seperti,0.0
+instagram semoga,0.0
+instagram sejak,0.0
+instagram segera,0.0
+instagram sebaiknya,0.0
+instagram sangat,0.0
+instagram respon,0.0
+instagram perbaiki,0.0
+instagram padahal,0.0
+instagram mulai,0.0
+instagram mengapa,0.0
+instagram mau,0.0
+instagram masih,0.0
+instagram malah,0.0
+instagram setiap,0.0
+instagram sudah,0.0
+install lagi,0.0
+instagram supaya,0.0
+install,0.0
+instal ulang,0.0
+instagramnya,0.0
+instagramm,0.0
+instagram yg,0.0
+instagram untuk,0.0
+instagram udah,0.0
+instagram tidak,0.0
+instagram tiba,0.0
+instagram tetapi,0.0
+instagram tetap,0.0
+instagram terus,0.0
+instagram telah,0.0
+instagram tapi,0.0
+instagram tanpa,0.0
+itu sy,0.0
+itu terus,0.0
+itu tidak,0.0
+jangan ilangin,0.0
+jangan hilangin,0.0
+jangan fitur,0.0
+jangan dikit,0.0
+jangan dihilangkan,0.0
+jangan dihilangin,0.0
+jangan dihapus,0.0
+jangan dibaca,0.0
+jangan di,0.0
+jangan cuman,0.0
+jangan cuma,0.0
+jangan bikin,0.0
+jangan ada,0.0
+jam gak,0.0
+jam,0.0
+jalan,0.0
+jangan hilangkan,0.0
+jangan pernah,0.0
+itu tolong,0.0
+jangan sampai,0.0
+jaringan wifi,0.0
+jaringan saya,0.0
+jaringan padahal,0.0
+jaringan nya,0.0
+jaringan juga,0.0
+jaringan internet,0.0
+jaringan full,0.0
+jaringan data,0.0
+jaringan dan,0.0
+jaringan bagus,0.0
+jaringan aman,0.0
+jarang,0.0
+jangkauan,0.0
+jangan update,0.0
+jangan sampe,0.0
+jadiin kenangan,0.0
+jadiin,0.0
+jadi tolong,0.0
+jadi tidak,0.0
+jadi ga,0.0
+jadi foto,0.0
+jadi eror,0.0
+jadi blur,0.0
+jadi aneh,0.0
+izinkan menambahkan,0.0
+izinkan,0.0
+iya,0.0
+ituuu,0.0
+ituu,0.0
+itupun semua,0.0
+itupun,0.0
+itu yg,0.0
+itu udah,0.0
+itu tuh,0.0
+jadi gabisa,0.0
+jadi gak,0.0
+jadi gk,0.0
+jadi mohon,0.0
+jadi tampilan,0.0
+jadi susah,0.0
+jadi sering,0.0
+jadi semakin,0.0
+jadi saya,0.0
+jadi nge,0.0
+jadi males,0.0
+jadi harus,0.0
+jadi makin,0.0
+jadi lebih,0.0
+jadi kayak,0.0
+jadi kalo,0.0
+jadi jelek,0.0
+jadi hilang,0.0
+instagram makin,0.0
+instagram lite,0.0
+hri,0.0
+ikuti,0.0
+iklannya judol,0.0
+iklannya,0.0
+iklan nya,0.0
+iklan judi,0.0
+iklan di,0.0
+iklan,0.0
+igs,0.0
+ignya,0.0
+ig yg,0.0
+ig yang,0.0
+ig ya,0.0
+ig utama,0.0
+ig udh,0.0
+ig udah,0.0
+ig tulisannya,0.0
+ikutan,0.0
+ilang,0.0
+ig tidak,0.0
+ilang padahal,0.0
+ini aku,0.0
+ini akan,0.0
+ingin menyimpan,0.0
+ingin menggunakan,0.0
+ingin mengganti,0.0
+ingin memulihkan,0.0
+ingin memposting,0.0
+ingin login,0.0
+informasi,0.0
+info,0.0
+in udh,0.0
+in,0.0
+ilangin fitur,0.0
+ilangg,0.0
+ilang pdhl,0.0
+ig tolong,0.0
+ig tiba,0.0
+instagram lebih,0.0
+ig juga,0.0
+ig jadinya,0.0
+ig jadi,0.0
+ig ini,0.0
+ig hanya,0.0
+ig ga,0.0
+ig di,0.0
+ig dan,0.0
+ig aku,0.0
+idola,0.0
+identitas,0.0
+ide,0.0
+id,0.0
+icon,0.0
+ialah,0.0
+hrs,0.0
+ig jangan,0.0
+ig karena,0.0
+ig terus,0.0
+ig karna,0.0
+ig sya,0.0
+ig sy,0.0
+ig story,0.0
+ig skrng,0.0
+ig skrg,0.0
+ig pertama,0.0
+ig orang,0.0
+ig nya,0.0
+ig malah,0.0
+ig makin,0.0
+ig lite,0.0
+ig lemot,0.0
+ig lagi,0.0
+ig ku,0.0
+ig kenapa,0.0
+ini akun,0.0
+ini apk,0.0
+ini aplikasi,0.0
+instagram dan,0.0
+instagram banyak,0.0
+instagram bagaimana,0.0
+instagram atau,0.0
+instagram aplikasinya,0.0
+instagram aplikasi,0.0
+instagram akun,0.0
+instagram aku,0.0
+instagram akhir,0.0
+instagram akan,0.0
+instagram agar,0.0
+instagram ada,0.0
+insta story,0.0
+insta,0.0
+inii,0.0
+ini yang,0.0
+instagram bisa,0.0
+instagram dari,0.0
+ini aplikasinya,0.0
+instagram dengan,0.0
+instagram langsung,0.0
+instagram lambat,0.0
+instagram kenapa,0.0
+instagram karna,0.0
+instagram karena,0.0
+instagram kalau,0.0
+instagram kadang,0.0
+instagram jelek,0.0
+instagram jangan,0.0
+instagram jadi,0.0
+instagram itu,0.0
+instagram ini,0.0
+instagram gapernah,0.0
+instagram gak,0.0
+instagram fitur,0.0
+ini ya,0.0
+ini update,0.0
+ini untuk,0.0
+ini udah,0.0
+ini itu,0.0
+ini instagram,0.0
+ini ini,0.0
+ini ig,0.0
+ini gimana,0.0
+ini ga,0.0
+ini dulu,0.0
+ini di,0.0
+ini dari,0.0
+ini dan,0.0
+ini cuma,0.0
+ini bug,0.0
+ini bisa,0.0
+ini banyak,0.0
+ini bagus,0.0
+ini juga,0.0
+ini ketika,0.0
+ini knp,0.0
+ini sudah,0.0
+ini tolong,0.0
+ini tidak,0.0
+ini tetap,0.0
+ini terus,0.0
+ini tdk,0.0
+ini tapi,0.0
+ini story,0.0
+ini kok,0.0
+ini saya,0.0
+ini sangat,0.0
+ini saja,0.0
+ini menganggu,0.0
+ini masalah,0.0
+ini malah,0.0
+zaman,0.0

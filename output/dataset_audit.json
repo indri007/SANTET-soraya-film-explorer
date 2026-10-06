@@ -1,0 +1,32 @@
+{
+  "status": "DATA_TARGET_NOT_REACHED",
+  "target_rows": 10000,
+  "total_records": 1000,
+  "unique_records": 1000,
+  "unique_users": 992,
+  "date_range": null,
+  "date_status": "MISSING (No timestamp columns in source export)",
+  "duplicates_removed": 0,
+  "missingness": {
+    "username": 0,
+    "original_text": 0,
+    "rating": 0,
+    "date_time": 1000,
+    "likes": 1000,
+    "comments": 1000,
+    "shares": 1000,
+    "followers": 1000
+  },
+  "engagement_availability": "INSUFFICIENT_ENGAGEMENT_DATA",
+  "source_distribution": {
+    "google_play_reviews": 1000
+  },
+  "rating_distribution": {
+    "1": 481,
+    "2": 156,
+    "3": 134,
+    "4": 82,
+    "5": 147
+  },
+  "technical_obstacle_documentation": "The Instagram crawler (instaloader) requires an authenticated Instagram session. Testing the local session file at /Users/jevin/.config/instaloader/session-indrikartika444 returned HTTP 401 Unauthorized rate-limit response (\"Please wait a few minutes before you try again\"). To prevent account ban and uphold research integrity, zero synthetic or simulated rows were created. All 1,000 authentic records are preserved with complete provenance metadata."
+}

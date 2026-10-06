@@ -1,0 +1,69 @@
+{
+  "algorithm": "Louvain Community Detection (Blondel et al.)",
+  "dataset": "NodeXL Indonesian Instagram Semantic Co-occurrence",
+  "nodes_count": 30,
+  "edges_count": 383,
+  "modularity_score_Q": 0.0526,
+  "total_communities_detected": 2,
+  "resolution": 1.0,
+  "community_breakdown": [
+    {
+      "community_id": 1,
+      "theme": "Performa Fitur Multimedia & Kestabilan Rilis (Story, Reels, Bug)",
+      "member_count": 17,
+      "top_hub_nodes": [
+        "tolong",
+        "padahal",
+        "akun",
+        "malah",
+        "update"
+      ],
+      "all_members": [
+        "tolong",
+        "padahal",
+        "akun",
+        "malah",
+        "update",
+        "bug",
+        "perbaiki",
+        "bagus",
+        "lain",
+        "baru",
+        "sekarang",
+        "diperbaiki",
+        "lama",
+        "dong",
+        "pas",
+        "masih",
+        "muncul"
+      ]
+    },
+    {
+      "community_id": 0,
+      "theme": "Akses Akun, Verifikasi & Pemulihan Sistem (Account & Recovery)",
+      "member_count": 13,
+      "top_hub_nodes": [
+        "fitur",
+        "story",
+        "banyak",
+        "jangan",
+        "foto"
+      ],
+      "all_members": [
+        "fitur",
+        "story",
+        "banyak",
+        "jangan",
+        "foto",
+        "arsip",
+        "sangat",
+        "video",
+        "mohon",
+        "semua",
+        "hilang",
+        "seperti",
+        "orang"
+      ]
+    }
+  ]
+}

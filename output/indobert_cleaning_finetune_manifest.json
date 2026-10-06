@@ -1,0 +1,16 @@
+{
+  "title": "IndoBERT Cleaning and Fine-Tuning 8-Bit Binary Stream Manifest",
+  "model": "indobenchmark/indobert-base-p1",
+  "total_octets": 3266,
+  "total_bits": 26128,
+  "accuracy": 0.8864,
+  "macro_f1": 0.8642,
+  "cohens_kappa": 0.8342,
+  "files": {
+    "cleaned_corpus": "output/indobert_cleaned_corpus.csv",
+    "finetune_history": "output/indobert_finetune_history.csv",
+    "metrics": "output/indobert_finetune_metrics.json",
+    "report_md": "output/indobert_cleaning_finetune_report.md",
+    "bitstream": "output/indobert_cleaning_finetune_bit.txt"
+  }
+}

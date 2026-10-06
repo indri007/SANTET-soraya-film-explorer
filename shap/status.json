@@ -1,0 +1,6 @@
+{
+  "available": true,
+  "model_available": true,
+  "full_shap_executed": false,
+  "note": "Full SHAP interpretation should be performed after final model selection."
+}

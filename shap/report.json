@@ -1,0 +1,14 @@
+{
+  "status": "VERIFIED",
+  "model": "XGBoost",
+  "dataset_records": 1000,
+  "samples_explained": 200,
+  "feature_count": 5130,
+  "class_count": 5,
+  "explainer": "shap.TreeExplainer",
+  "global_importance": "shap/global_importance.csv",
+  "local_explanations": "shap/local_explanations.csv",
+  "summary_plot": "shap/shap_summary.png",
+  "bar_plot": "shap/shap_bar.png",
+  "note": "SHAP values describe model feature contributions and do not establish causality."
+}

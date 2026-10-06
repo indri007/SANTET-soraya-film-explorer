@@ -1,0 +1,12 @@
+{
+  "dataset_name": "NODEXL_20_FUNCTIONS_EXECUTION_MATRIX",
+  "functions_count": 20,
+  "raw_bytes": 928,
+  "total_bits": 7424,
+  "sha256": "710efc8bbd34f123f7dd46807f8d54fb6a446aad11985bc579e453b1d073e649",
+  "graphml_export": "output/nodexl_complete_graph.graphml",
+  "gexf_export": "output/nodexl_complete_graph.gexf",
+  "metrics_csv": "output/nodexl_20_functions_metrics.csv",
+  "report_json": "output/nodexl_20_functions_report.json",
+  "bit_file": "output/nodexl_20_functions_bit.txt"
+}

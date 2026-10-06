@@ -1,0 +1,151 @@
+{
+  "status": "AVAILABLE",
+  "models_benchmarked": [
+    {
+      "model": "TF-IDF + Logistic Regression",
+      "accuracy": 0.485,
+      "f1_weighted": 0.46587479966378353,
+      "precision_weighted": 0.45292113821138213,
+      "recall_weighted": 0.485
+    },
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.505,
+      "f1_weighted": 0.4829953314659196,
+      "precision_weighted": 0.4661509123980519,
+      "recall_weighted": 0.505
+    },
+    {
+      "model": "random_forest",
+      "accuracy": 0.5,
+      "f1_weighted": 0.430672794117647,
+      "precision_weighted": 0.3993197674418604,
+      "recall_weighted": 0.5
+    },
+    {
+      "model": "tree_xgboost",
+      "accuracy": 0.505,
+      "f1_weighted": 0.4152597850330217,
+      "precision_weighted": 0.4197520630710286,
+      "recall_weighted": 0.505
+    },
+    {
+      "model": "tree_lightgbm",
+      "accuracy": 0.495,
+      "f1_weighted": 0.4149027627720326,
+      "precision_weighted": 0.3976180836707151,
+      "recall_weighted": 0.495
+    }
+  ],
+  "detailed_reports": {
+    "baseline_logistic_regression": {
+      "model": "TF-IDF + Logistic Regression",
+      "target": "rating",
+      "n_records": 1000,
+      "n_train": 800,
+      "n_test": 200,
+      "accuracy": 0.485,
+      "precision_weighted": 0.45292113821138213,
+      "recall_weighted": 0.485,
+      "f1_weighted": 0.46587479966378353,
+      "classification_report": {
+        "1": {
+          "precision": 0.67,
+          "recall": 0.6979166666666666,
+          "f1-score": 0.6836734693877551,
+          "support": 96.0
+        },
+        "2": {
+          "precision": 0.16666666666666666,
+          "recall": 0.12903225806451613,
+          "f1-score": 0.14545454545454545,
+          "support": 31.0
+        },
+        "3": {
+          "precision": 0.14285714285714285,
+          "recall": 0.1111111111111111,
+          "f1-score": 0.125,
+          "support": 27.0
+        },
+        "4": {
+          "precision": 0.07142857142857142,
+          "recall": 0.0625,
+          "f1-score": 0.06666666666666667,
+          "support": 16.0
+        },
+        "5": {
+          "precision": 0.5365853658536586,
+          "recall": 0.7333333333333333,
+          "f1-score": 0.6197183098591549,
+          "support": 30.0
+        },
+        "accuracy": 0.485,
+        "macro avg": {
+          "precision": 0.3175075493612079,
+          "recall": 0.3467786738351254,
+          "f1-score": 0.3281025982736244,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 0.45292113821138213,
+          "recall": 0.485,
+          "f1-score": 0.46587479966378353,
+          "support": 200.0
+        }
+      }
+    }
+  },
+  "linear_comparison": [
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.505,
+      "precision_macro": 0.3366367423575661,
+      "recall_macro": 0.3613918757467144,
+      "f1_macro": 0.3459197012138189,
+      "precision_weighted": 0.4661509123980519,
+      "recall_weighted": 0.505,
+      "f1_weighted": 0.4829953314659196
+    },
+    {
+      "model": "random_forest",
+      "accuracy": 0.5,
+      "precision_macro": 0.2796124031007752,
+      "recall_macro": 0.3230122461170848,
+      "f1_macro": 0.2813627450980392,
+      "precision_weighted": 0.3993197674418604,
+      "recall_weighted": 0.5,
+      "f1_weighted": 0.430672794117647
+    }
+  ],
+  "tree_comparison": [
+    {
+      "model": "xgboost",
+      "status": "VERIFIED",
+      "accuracy": 0.505,
+      "precision_macro": 0.3708517536103742,
+      "recall_macro": 0.2901090203106332,
+      "f1_macro": 0.2681816761696477,
+      "precision_weighted": 0.4197520630710286,
+      "recall_weighted": 0.505,
+      "f1_weighted": 0.4152597850330217,
+      "error": NaN
+    },
+    {
+      "model": "lightgbm",
+      "status": "VERIFIED",
+      "accuracy": 0.495,
+      "precision_macro": 0.2955353126405758,
+      "recall_macro": 0.280634707287933,
+      "f1_macro": 0.2605057364819673,
+      "precision_weighted": 0.3976180836707151,
+      "recall_weighted": 0.495,
+      "f1_weighted": 0.4149027627720326,
+      "error": NaN
+    }
+  ],
+  "error_analysis": {
+    "total_evaluated_samples": 99,
+    "error_rate": null,
+    "confusion_pairs": []
+  }
+}

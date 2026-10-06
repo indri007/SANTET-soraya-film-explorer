@@ -1,0 +1,29 @@
+{
+  "viral_score_status": "INSUFFICIENT_ENGAGEMENT_DATA",
+  "required_metrics": [
+    "likes",
+    "comments",
+    "shares",
+    "saves",
+    "views",
+    "impressions",
+    "reach",
+    "follower_count"
+  ],
+  "present_metrics": [],
+  "missing_metrics": [
+    "likes",
+    "comments",
+    "shares",
+    "saves",
+    "views",
+    "impressions",
+    "reach",
+    "follower_count"
+  ],
+  "engagement_coverage": 0.0,
+  "empirical_viral_score_available": false,
+  "formula_specification": "Empirical Viral Score (VS): VS = w1*(likes/reach) + 2.5*w2*(shares/reach) + 2.0*w3*(saves/reach) + 1.5*w4*(comments/reach) * decay_factor",
+  "structural_proxy_specification": "Content Virality Propensity Proxy (CVPP): 0.35*norm(hashtag_count) + 0.25*norm(mention_count) + 0.20*norm(emoji_count) + 0.20*norm(text_length)",
+  "scientific_limitation_notice": "The current 1,000-record dataset originates from app store consumer reviews, which do not contain post-level Instagram interaction telemetry (likes, comments, shares, views). An empirical viral score CANNOT be claimed without true interaction logs."
+}

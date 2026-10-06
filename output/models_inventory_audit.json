@@ -1,0 +1,181 @@
+{
+  "model_directory": "/Users/jevin/instagramindonesia/models",
+  "artifacts": {
+    "best_model.joblib": {
+      "status": "AVAILABLE",
+      "path": "/Users/jevin/instagramindonesia/models/best_model.joblib",
+      "size_bytes": 408612,
+      "size_mb": 0.39,
+      "type": "Pipeline",
+      "classes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "logistic_regression.joblib": {
+      "status": "AVAILABLE",
+      "path": "/Users/jevin/instagramindonesia/models/logistic_regression.joblib",
+      "size_bytes": 408612,
+      "size_mb": 0.39,
+      "type": "Pipeline",
+      "classes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "random_forest.joblib": {
+      "status": "AVAILABLE",
+      "path": "/Users/jevin/instagramindonesia/models/random_forest.joblib",
+      "size_bytes": 18899693,
+      "size_mb": 18.02,
+      "type": "Pipeline",
+      "classes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "xgboost_model.joblib": {
+      "status": "AVAILABLE",
+      "path": "/Users/jevin/instagramindonesia/models/xgboost_model.joblib",
+      "size_bytes": 2126906,
+      "size_mb": 2.03,
+      "type": "dict"
+    },
+    "lightgbm_model.joblib": {
+      "status": "AVAILABLE",
+      "path": "/Users/jevin/instagramindonesia/models/lightgbm_model.joblib",
+      "size_bytes": 4775839,
+      "size_mb": 4.55,
+      "type": "dict"
+    },
+    "tfidf_logistic_regression.joblib": {
+      "status": "AVAILABLE",
+      "path": "/Users/jevin/instagramindonesia/models/tfidf_logistic_regression.joblib",
+      "size_bytes": 398196,
+      "size_mb": 0.38,
+      "type": "Pipeline",
+      "classes": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  },
+  "benchmark_summary": {
+    "metrics_json": {
+      "model": "TF-IDF + Logistic Regression",
+      "target": "rating",
+      "n_records": 1000,
+      "n_train": 800,
+      "n_test": 200,
+      "accuracy": 0.485,
+      "precision_weighted": 0.45292113821138213,
+      "recall_weighted": 0.485,
+      "f1_weighted": 0.46587479966378353,
+      "classification_report": {
+        "1": {
+          "precision": 0.67,
+          "recall": 0.6979166666666666,
+          "f1-score": 0.6836734693877551,
+          "support": 96.0
+        },
+        "2": {
+          "precision": 0.16666666666666666,
+          "recall": 0.12903225806451613,
+          "f1-score": 0.14545454545454545,
+          "support": 31.0
+        },
+        "3": {
+          "precision": 0.14285714285714285,
+          "recall": 0.1111111111111111,
+          "f1-score": 0.125,
+          "support": 27.0
+        },
+        "4": {
+          "precision": 0.07142857142857142,
+          "recall": 0.0625,
+          "f1-score": 0.06666666666666667,
+          "support": 16.0
+        },
+        "5": {
+          "precision": 0.5365853658536586,
+          "recall": 0.7333333333333333,
+          "f1-score": 0.6197183098591549,
+          "support": 30.0
+        },
+        "accuracy": 0.485,
+        "macro avg": {
+          "precision": 0.3175075493612079,
+          "recall": 0.3467786738351254,
+          "f1-score": 0.3281025982736244,
+          "support": 200.0
+        },
+        "weighted avg": {
+          "precision": 0.45292113821138213,
+          "recall": 0.485,
+          "f1-score": 0.46587479966378353,
+          "support": 200.0
+        }
+      }
+    },
+    "linear_comparison": [
+      {
+        "model": "logistic_regression",
+        "accuracy": 0.505,
+        "precision_macro": 0.3366367423575661,
+        "recall_macro": 0.3613918757467144,
+        "f1_macro": 0.3459197012138189,
+        "precision_weighted": 0.4661509123980519,
+        "recall_weighted": 0.505,
+        "f1_weighted": 0.4829953314659196
+      },
+      {
+        "model": "random_forest",
+        "accuracy": 0.5,
+        "precision_macro": 0.2796124031007752,
+        "recall_macro": 0.3230122461170848,
+        "f1_macro": 0.2813627450980392,
+        "precision_weighted": 0.3993197674418604,
+        "recall_weighted": 0.5,
+        "f1_weighted": 0.430672794117647
+      }
+    ],
+    "tree_comparison": [
+      {
+        "model": "xgboost",
+        "status": "VERIFIED",
+        "accuracy": 0.505,
+        "precision_macro": 0.3708517536103742,
+        "recall_macro": 0.2901090203106332,
+        "f1_macro": 0.2681816761696477,
+        "precision_weighted": 0.4197520630710286,
+        "recall_weighted": 0.505,
+        "f1_weighted": 0.4152597850330217,
+        "error": NaN
+      },
+      {
+        "model": "lightgbm",
+        "status": "VERIFIED",
+        "accuracy": 0.495,
+        "precision_macro": 0.2955353126405758,
+        "recall_macro": 0.280634707287933,
+        "f1_macro": 0.2605057364819673,
+        "precision_weighted": 0.3976180836707151,
+        "recall_weighted": 0.495,
+        "f1_weighted": 0.4149027627720326,
+        "error": NaN
+      }
+    ]
+  }
+}

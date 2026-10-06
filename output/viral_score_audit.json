@@ -1,0 +1,29 @@
+{
+  "status": "PARTIAL",
+  "total_records": 1000,
+  "required_features_present": [],
+  "required_features_missing": [
+    "likes_count",
+    "comments_count",
+    "shares_count",
+    "saves_count",
+    "views_count",
+    "impressions",
+    "reach",
+    "follower_count"
+  ],
+  "available_structural_features": [
+    "username",
+    "clean_text",
+    "rating",
+    "text_length",
+    "token_count",
+    "url_count",
+    "mention_count",
+    "hashtag_count",
+    "emoji_count"
+  ],
+  "formula_definition": "Ideal Viral Score (Normalized): VS = w1*(likes/reach) + w2*(shares/reach)*2.5 + w3*(saves/reach)*2.0 + w4*(comments/reach)*1.5 + w5*(velocity_decay)",
+  "proxy_alternative": "Content Virality Propensity Proxy (CVPP): Combines hashtag intensity, mention resonance, emoji richness, and sentiment polarity as structural content proxies.",
+  "data_limitation_notice": "Native Instagram interaction counts (likes, comments, shares, saves, impressions) are NOT present in the current review dataset. Viral Score cannot be fully computed without genuine post-level engagement telemetry."
+}

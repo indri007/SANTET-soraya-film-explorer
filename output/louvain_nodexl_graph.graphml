@@ -1,0 +1,393 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d8" for="edge" attr.name="type" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="y" attr.type="long"/>
+<key id="d5" for="node" attr.name="x" attr.type="long"/>
+<key id="d4" for="node" attr.name="r" attr.type="long"/>
+<key id="d3" for="node" attr.name="color" attr.type="string"/>
+<key id="d2" for="node" attr.name="comm" attr.type="long"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="c1_hub">
+  <data key="d0">C1: Virality &amp; Joy Hub</data>
+  <data key="d1">community_hub</data>
+  <data key="d2">1</data>
+  <data key="d3">#10b981</data>
+  <data key="d4">26</data>
+  <data key="d5">220</data>
+  <data key="d6">200</data>
+</node>
+<node id="c1_reels">
+  <data key="d0">Reels (w=0.42)</data>
+  <data key="d1">modality</data>
+  <data key="d2">1</data>
+  <data key="d3">#34d399</data>
+  <data key="d4">18</data>
+  <data key="d5">130</data>
+  <data key="d6">140</data>
+</node>
+<node id="c1_story">
+  <data key="d0">Story (w=0.28)</data>
+  <data key="d1">modality</data>
+  <data key="d2">1</data>
+  <data key="d3">#34d399</data>
+  <data key="d4">16</data>
+  <data key="d5">120</data>
+  <data key="d6">250</data>
+</node>
+<node id="c1_joy">
+  <data key="d0">Emosi Joy (24.5%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">1</data>
+  <data key="d3">#6ee7b7</data>
+  <data key="d4">15</data>
+  <data key="d5">240</data>
+  <data key="d6">110</data>
+</node>
+<node id="c1_love">
+  <data key="d0">Emosi Love (7.6%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">1</data>
+  <data key="d3">#6ee7b7</data>
+  <data key="d4">14</data>
+  <data key="d5">280</data>
+  <data key="d6">160</data>
+</node>
+<node id="c2_hub">
+  <data key="d0">C2: Trust &amp; Retention Hub</data>
+  <data key="d1">community_hub</data>
+  <data key="d2">2</data>
+  <data key="d3">#3b82f6</data>
+  <data key="d4">26</data>
+  <data key="d5">780</data>
+  <data key="d6">200</data>
+</node>
+<node id="c2_likes">
+  <data key="d0">Likes (w=0.14)</data>
+  <data key="d1">modality</data>
+  <data key="d2">2</data>
+  <data key="d3">#60a5fa</data>
+  <data key="d4">16</data>
+  <data key="d5">870</data>
+  <data key="d6">140</data>
+</node>
+<node id="c2_trust">
+  <data key="d0">Emosi Trust (16.1%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">2</data>
+  <data key="d3">#93c5fd</data>
+  <data key="d4">15</data>
+  <data key="d5">750</data>
+  <data key="d6">110</data>
+</node>
+<node id="c2_anticipation">
+  <data key="d0">Anticipation (18.2%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">2</data>
+  <data key="d3">#93c5fd</data>
+  <data key="d4">16</data>
+  <data key="d5">860</data>
+  <data key="d6">250</data>
+</node>
+<node id="c2_optimism">
+  <data key="d0">Optimism (12.4%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">2</data>
+  <data key="d3">#bfdbfe</data>
+  <data key="d4">14</data>
+  <data key="d5">720</data>
+  <data key="d6">160</data>
+</node>
+<node id="c3_hub">
+  <data key="d0">C3: Discovery &amp; Share Hub</data>
+  <data key="d1">community_hub</data>
+  <data key="d2">3</data>
+  <data key="d3">#f59e0b</data>
+  <data key="d4">24</data>
+  <data key="d5">300</data>
+  <data key="d6">500</data>
+</node>
+<node id="c3_share">
+  <data key="d0">Share (w=0.06)</data>
+  <data key="d1">modality</data>
+  <data key="d2">3</data>
+  <data key="d3">#fbbf24</data>
+  <data key="d4">15</data>
+  <data key="d5">200</data>
+  <data key="d6">520</data>
+</node>
+<node id="c3_surprise">
+  <data key="d0">Surprise (9.8%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">3</data>
+  <data key="d3">#fde68a</data>
+  <data key="d4">14</data>
+  <data key="d5">280</data>
+  <data key="d6">590</data>
+</node>
+<node id="c4_hub">
+  <data key="d0">C4: Feedback &amp; Friction Hub</data>
+  <data key="d1">community_hub</data>
+  <data key="d2">4</data>
+  <data key="d3">#ef4444</data>
+  <data key="d4">24</data>
+  <data key="d5">700</data>
+  <data key="d6">500</data>
+</node>
+<node id="c4_comments">
+  <data key="d0">Komen (w=0.08)</data>
+  <data key="d1">modality</data>
+  <data key="d2">4</data>
+  <data key="d3">#f87171</data>
+  <data key="d4">16</data>
+  <data key="d5">800</data>
+  <data key="d6">520</data>
+</node>
+<node id="c4_sadness">
+  <data key="d0">Sadness (5.1%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">4</data>
+  <data key="d3">#fca5a5</data>
+  <data key="d4">13</data>
+  <data key="d5">680</data>
+  <data key="d6">590</data>
+</node>
+<node id="c4_anger">
+  <data key="d0">Anger (3.8%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">4</data>
+  <data key="d3">#fca5a5</data>
+  <data key="d4">13</data>
+  <data key="d5">760</data>
+  <data key="d6">590</data>
+</node>
+<node id="eng_convergence">
+  <data key="d0">Louvain Core: dQ &lt;= 0 (Zero Epochs)</data>
+  <data key="d1">engine</data>
+  <data key="d2">0</data>
+  <data key="d3">#8b5cf6</data>
+  <data key="d4">30</data>
+  <data key="d5">500</data>
+  <data key="d6">320</data>
+</node>
+<node id="eng_p1">
+  <data key="d0">Phase 1: Local Moving (max dQ)</data>
+  <data key="d1">engine_phase</data>
+  <data key="d2">0</data>
+  <data key="d3">#a78bfa</data>
+  <data key="d4">16</data>
+  <data key="d5">410</data>
+  <data key="d6">240</data>
+</node>
+<node id="eng_p2">
+  <data key="d0">Phase 2: Meta-Graph Contraction</data>
+  <data key="d1">engine_phase</data>
+  <data key="d2">0</data>
+  <data key="d3">#a78bfa</data>
+  <data key="d4">16</data>
+  <data key="d5">590</data>
+  <data key="d6">240</data>
+</node>
+<node id="eng_seed">
+  <data key="d0">Seed Anchor (ARI=0.9738)</data>
+  <data key="d1">stability</data>
+  <data key="d2">0</data>
+  <data key="d3">#c4b5fd</data>
+  <data key="d4">17</data>
+  <data key="d5">500</data>
+  <data key="d6">400</data>
+</node>
+<node id="res_05">
+  <data key="d0">gamma=0.5 (Macro k=2)</data>
+  <data key="d1">resolution</data>
+  <data key="d2">5</data>
+  <data key="d3">#06b6d4</data>
+  <data key="d4">14</data>
+  <data key="d5">380</data>
+  <data key="d6">660</data>
+</node>
+<node id="res_08">
+  <data key="d0">gamma=0.8 (Meso k=4.6)</data>
+  <data key="d1">resolution</data>
+  <data key="d2">5</data>
+  <data key="d3">#06b6d4</data>
+  <data key="d4">14</data>
+  <data key="d5">440</data>
+  <data key="d6">680</data>
+</node>
+<node id="res_10">
+  <data key="d0">gamma=1.0 (Newman Q=0.0526)</data>
+  <data key="d1">resolution</data>
+  <data key="d2">5</data>
+  <data key="d3">#06b6d4</data>
+  <data key="d4">18</data>
+  <data key="d5">500</data>
+  <data key="d6">690</data>
+</node>
+<node id="res_12">
+  <data key="d0">gamma=1.2 (Optimal ARI=0.9738)</data>
+  <data key="d1">resolution</data>
+  <data key="d2">5</data>
+  <data key="d3">#06b6d4</data>
+  <data key="d4">18</data>
+  <data key="d5">560</data>
+  <data key="d6">680</data>
+</node>
+<node id="res_15">
+  <data key="d0">gamma=1.5 (Micro k=15.2)</data>
+  <data key="d1">resolution</data>
+  <data key="d2">5</data>
+  <data key="d3">#06b6d4</data>
+  <data key="d4">14</data>
+  <data key="d5">620</data>
+  <data key="d6">660</data>
+</node>
+<edge source="c1_hub" target="c1_reels">
+  <data key="d7">4.5</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c1_hub" target="c1_story">
+  <data key="d7">4.0</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c1_hub" target="c1_joy">
+  <data key="d7">4.2</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c1_hub" target="c1_love">
+  <data key="d7">3.8</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c1_hub" target="c2_hub">
+  <data key="d7">2.2</data>
+  <data key="d8">inter_bridge</data>
+</edge>
+<edge source="c1_hub" target="c3_hub">
+  <data key="d7">2.4</data>
+  <data key="d8">inter_bridge</data>
+</edge>
+<edge source="c1_hub" target="eng_convergence">
+  <data key="d7">2.8</data>
+  <data key="d8">partition_flow</data>
+</edge>
+<edge source="c1_reels" target="c1_joy">
+  <data key="d7">3.2</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c1_story" target="c1_love">
+  <data key="d7">3.0</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c2_hub" target="c2_likes">
+  <data key="d7">4.0</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c2_hub" target="c2_trust">
+  <data key="d7">4.5</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c2_hub" target="c2_anticipation">
+  <data key="d7">4.2</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c2_hub" target="c2_optimism">
+  <data key="d7">3.9</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c2_hub" target="c4_hub">
+  <data key="d7">2.1</data>
+  <data key="d8">inter_bridge</data>
+</edge>
+<edge source="c2_hub" target="eng_convergence">
+  <data key="d7">2.8</data>
+  <data key="d8">partition_flow</data>
+</edge>
+<edge source="c2_likes" target="c2_trust">
+  <data key="d7">3.1</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c2_anticipation" target="c2_optimism">
+  <data key="d7">3.4</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c3_hub" target="c3_share">
+  <data key="d7">3.8</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c3_hub" target="c3_surprise">
+  <data key="d7">3.6</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c3_hub" target="c4_hub">
+  <data key="d7">1.9</data>
+  <data key="d8">inter_bridge</data>
+</edge>
+<edge source="c3_hub" target="eng_convergence">
+  <data key="d7">2.5</data>
+  <data key="d8">partition_flow</data>
+</edge>
+<edge source="c3_share" target="c3_surprise">
+  <data key="d7">2.8</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c4_hub" target="c4_comments">
+  <data key="d7">4.0</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c4_hub" target="c4_sadness">
+  <data key="d7">3.6</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c4_hub" target="c4_anger">
+  <data key="d7">3.7</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="c4_hub" target="eng_convergence">
+  <data key="d7">2.5</data>
+  <data key="d8">partition_flow</data>
+</edge>
+<edge source="c4_comments" target="c4_anger">
+  <data key="d7">3.0</data>
+  <data key="d8">intra</data>
+</edge>
+<edge source="eng_convergence" target="eng_p1">
+  <data key="d7">3.5</data>
+  <data key="d8">engine_flow</data>
+</edge>
+<edge source="eng_convergence" target="eng_p2">
+  <data key="d7">3.5</data>
+  <data key="d8">engine_flow</data>
+</edge>
+<edge source="eng_convergence" target="eng_seed">
+  <data key="d7">3.2</data>
+  <data key="d8">engine_flow</data>
+</edge>
+<edge source="eng_p1" target="eng_p2">
+  <data key="d7">3.0</data>
+  <data key="d8">engine_flow</data>
+</edge>
+<edge source="eng_seed" target="res_10">
+  <data key="d7">3.0</data>
+  <data key="d8">resolution_tune</data>
+</edge>
+<edge source="eng_seed" target="res_12">
+  <data key="d7">3.5</data>
+  <data key="d8">resolution_tune</data>
+</edge>
+<edge source="res_05" target="res_08">
+  <data key="d7">2.0</data>
+  <data key="d8">resolution_seq</data>
+</edge>
+<edge source="res_08" target="res_10">
+  <data key="d7">2.5</data>
+  <data key="d8">resolution_seq</data>
+</edge>
+<edge source="res_10" target="res_12">
+  <data key="d7">2.8</data>
+  <data key="d8">resolution_seq</data>
+</edge>
+<edge source="res_12" target="res_15">
+  <data key="d7">2.2</data>
+  <data key="d8">resolution_seq</data>
+</edge>
+</graph></graphml>

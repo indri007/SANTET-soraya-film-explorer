@@ -1,0 +1,98 @@
+{
+  "status": "AVAILABLE",
+  "shap_directory": "/Users/jevin/instagramindonesia/shap",
+  "artifacts_detected": {
+    "global_importance_csv": true,
+    "local_explanations_csv": true,
+    "report_json": true,
+    "shap_bar_png": true,
+    "shap_summary_png": true
+  },
+  "model_explained": "XGBoost",
+  "explainer_type": "shap.TreeExplainer",
+  "total_features": 5130,
+  "local_samples_explained": 20,
+  "top_global_features": [
+    {
+      "feature": "kenapa",
+      "mean_abs_shap": 0.10379405
+    },
+    {
+      "feature": "yang",
+      "mean_abs_shap": 0.08690766
+    },
+    {
+      "feature": "bisa",
+      "mean_abs_shap": 0.085416384
+    },
+    {
+      "feature": "bagus",
+      "mean_abs_shap": 0.07886907
+    },
+    {
+      "feature": "untuk",
+      "mean_abs_shap": 0.077571526
+    },
+    {
+      "feature": "nya",
+      "mean_abs_shap": 0.060271636
+    },
+    {
+      "feature": "di",
+      "mean_abs_shap": 0.059827637
+    },
+    {
+      "feature": "fitur",
+      "mean_abs_shap": 0.05859072
+    },
+    {
+      "feature": "instagram",
+      "mean_abs_shap": 0.05415962
+    },
+    {
+      "feature": "akun",
+      "mean_abs_shap": 0.053143412
+    },
+    {
+      "feature": "malah",
+      "mean_abs_shap": 0.05112242
+    },
+    {
+      "feature": "udah",
+      "mean_abs_shap": 0.049296867
+    },
+    {
+      "feature": "lagi",
+      "mean_abs_shap": 0.047176324
+    },
+    {
+      "feature": "bug",
+      "mean_abs_shap": 0.045861628
+    },
+    {
+      "feature": "ya",
+      "mean_abs_shap": 0.045441773
+    },
+    {
+      "feature": "dan",
+      "mean_abs_shap": 0.043762136
+    },
+    {
+      "feature": "ini",
+      "mean_abs_shap": 0.043554816
+    },
+    {
+      "feature": "aja",
+      "mean_abs_shap": 0.043020003
+    },
+    {
+      "feature": "ada",
+      "mean_abs_shap": 0.041650616
+    },
+    {
+      "feature": "padahal",
+      "mean_abs_shap": 0.040916845
+    }
+  ],
+  "interpretability_note": "SHAP values describe model feature contributions and do not establish causality."
+}

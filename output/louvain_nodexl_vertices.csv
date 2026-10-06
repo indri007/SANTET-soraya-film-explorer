@@ -1,0 +1,27 @@
+Vertex,Label,Type,ModularityClass,Color,WeightedDegree,BetweennessCentrality,ClosenessCentrality,EigenvectorCentrality,X,Y,Radius
+c1_hub,C1: Virality & Joy Hub,community_hub,1,#10b981,23.9,0.2933,0.4545,0.429,220,200,26
+c1_reels,Reels (w=0.42),modality,1,#34d399,7.7,0.0,0.3205,0.1948,130,140,18
+c1_story,Story (w=0.28),modality,1,#34d399,7.0,0.0,0.3205,0.1703,120,250,16
+c1_joy,Emosi Joy (24.5%),emotion,1,#6ee7b7,7.4,0.0,0.3205,0.1868,240,110,15
+c1_love,Emosi Love (7.6%),emotion,1,#6ee7b7,6.8,0.0,0.3205,0.1649,280,160,14
+c2_hub,C2: Trust & Retention Hub,community_hub,2,#3b82f6,23.7,0.3192,0.463,0.4336,780,200,26
+c2_likes,Likes (w=0.14),modality,2,#60a5fa,7.1,0.0,0.3247,0.1797,870,140,16
+c2_trust,Emosi Trust (16.1%),emotion,2,#93c5fd,7.6,0.0,0.3247,0.1932,750,110,15
+c2_anticipation,Anticipation (18.2%),emotion,2,#93c5fd,7.6,0.0,0.3247,0.1872,860,250,16
+c2_optimism,Optimism (12.4%),emotion,2,#bfdbfe,7.3,0.0,0.3247,0.1793,720,160,14
+c3_hub,C3: Discovery & Share Hub,community_hub,3,#f59e0b,14.2,0.1942,0.431,0.2404,300,500,24
+c3_share,Share (w=0.06),modality,3,#fbbf24,6.6,0.0,0.3086,0.0889,200,520,15
+c3_surprise,Surprise (9.8%),emotion,3,#fde68a,6.4,0.0,0.3086,0.0859,280,590,14
+c4_hub,C4: Feedback & Friction Hub,community_hub,4,#ef4444,17.8,0.2767,0.4386,0.2578,700,500,24
+c4_comments,Komen (w=0.08),modality,4,#f87171,7.0,0.0,0.3125,0.1018,800,520,16
+c4_sadness,Sadness (5.1%),emotion,4,#fca5a5,3.6,0.0,0.3086,0.0715,680,590,13
+c4_anger,Anger (3.8%),emotion,4,#fca5a5,6.7,0.0,0.3125,0.097,760,590,13
+eng_convergence,Louvain Core: dQ <= 0 (Zero Epochs),engine,0,#8b5cf6,20.8,0.4933,0.5319,0.3821,500,320,30
+eng_p1,Phase 1: Local Moving (max dQ),engine_phase,0,#a78bfa,6.5,0.0,0.3571,0.134,410,240,16
+eng_p2,Phase 2: Meta-Graph Contraction,engine_phase,0,#a78bfa,6.5,0.0,0.3571,0.134,590,240,16
+eng_seed,Seed Anchor (ARI=0.9738),stability,0,#c4b5fd,9.7,0.3333,0.4098,0.1131,500,400,17
+res_05,gamma=0.5 (Macro k=2),resolution,5,#06b6d4,2.0,0.0,0.2,0.0011,380,660,14
+res_08,gamma=0.8 (Meso k=4.6),resolution,5,#06b6d4,4.5,0.08,0.2475,0.0071,440,680,14
+res_10,gamma=1.0 (Newman Q=0.0526),resolution,5,#06b6d4,8.3,0.1533,0.3165,0.036,500,690,18
+res_12,gamma=1.2 (Optimal ARI=0.9738),resolution,5,#06b6d4,8.5,0.08,0.3125,0.0394,560,680,18
+res_15,gamma=1.5 (Micro k=15.2),resolution,5,#06b6d4,2.2,0.0,0.2404,0.0067,620,660,14

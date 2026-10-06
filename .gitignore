@@ -1,9 +1,14 @@
-# Python & Virtual Environments
+# Python & Virtual environments
 .venv/
 venv/
+env/
+instagram2027/
+scratch/
+.kilo/
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
 
 # Raw Scraped Dumps & PII Protection (UU PDP No. 27/2022)
 yt_*/
@@ -17,19 +22,64 @@ yt_soraya/
 annotation/annotation_sample.csv
 annotation/_model_labels_hidden.csv
 
+# Secrets & Sessions
+.env
+.env.*
+*.session
+*.session-*
+session-*
+cookies*
+secrets*
+*credential*
+*token*
+
 # Backups & Logs
 _backup/
 *.log
 *.bak
+*.backup
 *.swp
+*.patch_backup
+*.pre_main_patch
+*.before_resume_patch
+*.session_backup
+*.auth_backup
+data/crawl_log.txt
 
-# OS & IDE
+# Large Model Binaries & Checkpoints (preserves repository speed)
+*.joblib
+*.pkl
+*.pickle
+*.safetensors
+*.pt
+*.pth
+output/bertopic_model
+models/indobert-horror/
+models/indobert/*
+!models/indobert/.gitkeep
+!models/indobert/*.json
+models/viral_model/*
+!models/viral_model/.gitkeep
+
+# OS / IDE
 .DS_Store
 .vscode/
 .idea/
 
-# Large Model Binaries Checkpoints
-models/indobert-horror/
-*.safetensors
-*.pt
-*.bin
+# Large External Datasets & Media
+data/external/
+output/*.parquet
+output/*.joblib
+output/*.pkl
+scrapers/
+repos/
+*.mp4
+*.avi
+*.mov
+*.zip
+!output/scopus_q1_elsevier_package.zip
+!downloads/scopus_q1_elsevier_package.zip
+*.7z
+*.tar.gz
+*.xlsx
+*.parquet

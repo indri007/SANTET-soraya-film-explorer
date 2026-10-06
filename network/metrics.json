@@ -1,0 +1,137 @@
+{
+  "network_type": "Semantic & Keyword Co-occurrence Network (SNA)",
+  "status": "AVAILABLE",
+  "nodes": 30,
+  "edges": 383,
+  "density": 0.8805,
+  "top_central_keywords": [
+    {
+      "keyword": "tolong",
+      "degree_connections": 29,
+      "frequency": 414
+    },
+    {
+      "keyword": "padahal",
+      "degree_connections": 29,
+      "frequency": 261
+    },
+    {
+      "keyword": "akun",
+      "degree_connections": 27,
+      "frequency": 251
+    },
+    {
+      "keyword": "fitur",
+      "degree_connections": 29,
+      "frequency": 246
+    },
+    {
+      "keyword": "story",
+      "degree_connections": 29,
+      "frequency": 212
+    },
+    {
+      "keyword": "malah",
+      "degree_connections": 29,
+      "frequency": 197
+    },
+    {
+      "keyword": "update",
+      "degree_connections": 28,
+      "frequency": 186
+    },
+    {
+      "keyword": "perbaiki",
+      "degree_connections": 27,
+      "frequency": 174
+    },
+    {
+      "keyword": "banyak",
+      "degree_connections": 29,
+      "frequency": 173
+    },
+    {
+      "keyword": "bug",
+      "degree_connections": 28,
+      "frequency": 172
+    }
+  ],
+  "sample_edges": [
+    {
+      "source": "baru",
+      "target": "padahal",
+      "weight": 30
+    },
+    {
+      "source": "akun",
+      "target": "baru",
+      "weight": 45
+    },
+    {
+      "source": "baru",
+      "target": "tolong",
+      "weight": 49
+    },
+    {
+      "source": "baru",
+      "target": "lama",
+      "weight": 23
+    },
+    {
+      "source": "padahal",
+      "target": "sangat",
+      "weight": 22
+    },
+    {
+      "source": "akun",
+      "target": "sangat",
+      "weight": 28
+    },
+    {
+      "source": "sangat",
+      "target": "tolong",
+      "weight": 54
+    },
+    {
+      "source": "lama",
+      "target": "sangat",
+      "weight": 17
+    },
+    {
+      "source": "akun",
+      "target": "padahal",
+      "weight": 80
+    },
+    {
+      "source": "padahal",
+      "target": "tolong",
+      "weight": 112
+    },
+    {
+      "source": "lama",
+      "target": "padahal",
+      "weight": 37
+    },
+    {
+      "source": "akun",
+      "target": "tolong",
+      "weight": 117
+    },
+    {
+      "source": "akun",
+      "target": "lama",
+      "weight": 33
+    },
+    {
+      "source": "lama",
+      "target": "tolong",
+      "weight": 49
+    },
+    {
+      "source": "baru",
+      "target": "bug",
+      "weight": 17
+    }
+  ],
+  "note": "Constructed from Indonesian Instagram Review semantics (co-occurrence threshold >= 10)."
+}

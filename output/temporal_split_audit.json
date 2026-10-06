@@ -1,0 +1,21 @@
+{
+  "temporal_status": "INSUFFICIENT_TEMPORAL_DATA",
+  "detected_date_columns": [],
+  "candidate_columns_checked": [
+    "timestamp",
+    "created_at",
+    "date",
+    "post_date",
+    "review_date",
+    "datetime",
+    "date_time",
+    "published_at",
+    "time"
+  ],
+  "explanation": "Dataset does NOT contain genuine post timestamps or date metadata. Per research integrity guidelines, synthetic date fabrication is prohibited. Temporal status is marked as INSUFFICIENT_TEMPORAL_DATA.",
+  "required_for_time_series": [
+    "Post creation timestamp (ISO 8601 UTC+7)",
+    "Minimum continuous 24-month observation window",
+    "Periodic longitudinal sampling frequency (hourly/daily)"
+  ]
+}

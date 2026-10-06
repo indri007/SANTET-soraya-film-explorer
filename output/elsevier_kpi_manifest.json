@@ -1,0 +1,9 @@
+{
+  "title": "ELSEVIER_SCOPUS_Q1_KPI_FORMULAS_MANIFEST",
+  "raw_bytes": 1105,
+  "total_bits": 8840,
+  "sha256": "0247adf9c351dc23d31c799ddbc298bd1d12e8ec64edc9b338c91988d069bc0e",
+  "csv_benchmarks": "output/elsevier_kpi_benchmarks.csv",
+  "json_mapping": "output/elsevier_kpi_formulas_mapping.json",
+  "bit_file": "output/elsevier_kpi_formulas_bit.txt"
+}

@@ -1,0 +1,46 @@
+{
+  "best_model": "logistic_regression",
+  "training_records": 800,
+  "test_records": 200,
+  "total_valid_records": 1000,
+  "target_classes": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "random_state": 42,
+  "features": "TF-IDF unigram + bigram",
+  "models": [
+    "logistic_regression",
+    "random_forest"
+  ],
+  "metrics": [
+    {
+      "model": "logistic_regression",
+      "accuracy": 0.505,
+      "precision_macro": 0.33663674235756613,
+      "recall_macro": 0.3613918757467144,
+      "f1_macro": 0.3459197012138189,
+      "precision_weighted": 0.4661509123980519,
+      "recall_weighted": 0.505,
+      "f1_weighted": 0.48299533146591966
+    },
+    {
+      "model": "random_forest",
+      "accuracy": 0.5,
+      "precision_macro": 0.2796124031007752,
+      "recall_macro": 0.32301224611708484,
+      "f1_macro": 0.2813627450980392,
+      "precision_weighted": 0.39931976744186043,
+      "recall_weighted": 0.5,
+      "f1_weighted": 0.43067279411764703
+    }
+  ],
+  "dataset_target": 10000,
+  "current_records": 1000,
+  "remaining_records": 9000,
+  "status": "TARGET_NOT_REACHED",
+  "timestamp": "2026-09-27T22:57:35.222700"
+}

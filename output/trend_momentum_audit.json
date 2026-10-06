@@ -1,0 +1,43 @@
+{
+  "status": "PARTIAL",
+  "total_records": 1000,
+  "topic_shares": {
+    "0": {
+      "count": 549,
+      "share": 0.549
+    },
+    "1": {
+      "count": 451,
+      "share": 0.451
+    }
+  },
+  "sentiment_by_topic": {
+    "0": {
+      "negative": 135,
+      "neutral": 309,
+      "positive": 105
+    },
+    "1": {
+      "negative": 84,
+      "neutral": 265,
+      "positive": 102
+    }
+  },
+  "rating_by_topic": {
+    "0": {
+      "mean": 2.09,
+      "count": 549
+    },
+    "1": {
+      "mean": 2.46,
+      "count": 451
+    }
+  },
+  "momentum_formula": "Trend Momentum Index: M(topic, t) = (dVol/dt) * PolarityResonance * (1 + EngagementAcc)",
+  "data_limitation_notice": "Continuous time-series timestamps are not present in current 1,000-row review data. Cross-sectional topic distribution is AVAILABLE; longitudinal temporal momentum velocity is PARTIAL.",
+  "required_signals_for_realtime_tracking": [
+    "Hourly / daily post ingestion timestamps",
+    "Topic volume deltas (t vs t-1)",
+    "Velocity of hashtag spread across distinct authors"
+  ]
+}

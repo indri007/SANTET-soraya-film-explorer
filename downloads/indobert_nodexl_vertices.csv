@@ -1,0 +1,61 @@
+vertex_id,vertex_label,vertex_type,community_id,degree,betweenness_centrality,closeness_centrality,eigenvector_centrality,clustering_coefficient,frequency,color_hex
+emo_joy,Joy (24.5%),emotion,1,13,0.392071,0.430657,0.507405,0.089744,2450,#10b981
+emo_trust,Trust (16.1%),emotion,1,9,0.277323,0.388158,0.226685,0.027778,1610,#06b6d4
+mod_share,Modality: Share (w=0.06),modality,0,4,0.274693,0.406897,0.165519,0.166667,600,#4ade80
+mod_comments,Modality: Komen (w=0.08),modality,0,4,0.243133,0.373418,0.101817,0.166667,800,#38bdf8
+emo_surprise,Surprise (9.8%),emotion,2,9,0.225015,0.385621,0.151133,0.027778,980,#f59e0b
+emo_anger,Anger (3.8%),emotion,3,8,0.215371,0.353293,0.079655,0.035714,380,#ef4444
+emo_optimism,Optimism (12.4%),emotion,1,9,0.167933,0.361963,0.315757,0.083333,1240,#8b5cf6
+emo_anticipation,Anticipation (18.2%),emotion,1,8,0.165108,0.347059,0.241833,0.071429,1820,#3b82f6
+emo_love,Love (7.6%),emotion,1,9,0.164426,0.349112,0.3209,0.083333,760,#ec4899
+emo_sadness,Sadness (5.1%),emotion,3,7,0.163647,0.305699,0.046116,0.047619,510,#64748b
+emo_fear,Fear (2.5%),emotion,3,7,0.163647,0.329609,0.080468,0.047619,250,#991b1b
+mod_live,Modality: Live (w=0.02),modality,0,3,0.071303,0.349112,0.197315,0.333333,200,#eab308
+mod_reels,Modality: Reels (w=0.42),modality,0,4,0.043834,0.375796,0.24692,0.333333,4200,#f43f5e
+mod_story,Modality: Story (w=0.28),modality,0,4,0.022794,0.361963,0.277141,0.5,2800,#fb923c
+mod_likes,Modality: Likes (w=0.14),modality,0,3,0.02104,0.335227,0.231309,0.666667,1400,#a855f7
+kw_patah_hati,#patah_hati,keyword,3,1,0.0,0.23506,0.009324,0.0,751,#94a3b8
+kw_tiba2,#tiba2,keyword,2,1,0.0,0.279621,0.030556,0.0,571,#94a3b8
+kw_sayang,#sayang,keyword,1,1,0.0,0.259912,0.06488,0.0,487,#94a3b8
+kw_cinta,#cinta,keyword,1,1,0.0,0.259912,0.06488,0.0,160,#94a3b8
+kw_luv,#luv,keyword,1,1,0.0,0.259912,0.06488,0.0,289,#94a3b8
+kw_manis,#manis,keyword,1,1,0.0,0.259912,0.06488,0.0,308,#94a3b8
+kw_gemes,#gemes,keyword,1,1,0.0,0.259912,0.06488,0.0,732,#94a3b8
+kw_kecewa,#kecewa,keyword,3,1,0.0,0.23506,0.009324,0.0,528,#94a3b8
+kw_sedih,#sedih,keyword,3,1,0.0,0.23506,0.009324,0.0,439,#94a3b8
+kw_nyesek,#nyesek,keyword,3,1,0.0,0.23506,0.009324,0.0,286,#94a3b8
+kw_takut,#takut,keyword,3,1,0.0,0.248945,0.016269,0.0,764,#94a3b8
+kw_tangis,#tangis,keyword,3,1,0.0,0.23506,0.009324,0.0,180,#94a3b8
+kw_kesal,#kesal,keyword,3,1,0.0,0.262222,0.016105,0.0,238,#94a3b8
+kw_emosi,#emosi,keyword,3,1,0.0,0.262222,0.016105,0.0,670,#94a3b8
+kw_bobrok,#bobrok,keyword,3,1,0.0,0.262222,0.016105,0.0,372,#94a3b8
+kw_parah,#parah,keyword,3,1,0.0,0.262222,0.016105,0.0,334,#94a3b8
+kw_sampah,#sampah,keyword,3,1,0.0,0.262222,0.016105,0.0,354,#94a3b8
+kw_plot_twist,#plot_twist,keyword,2,1,0.0,0.279621,0.030556,0.0,302,#94a3b8
+kw_waspada,#waspada,keyword,3,1,0.0,0.248945,0.016269,0.0,193,#94a3b8
+kw_scam,#scam,keyword,3,1,0.0,0.248945,0.016269,0.0,175,#94a3b8
+kw_bahaya,#bahaya,keyword,3,1,0.0,0.248945,0.016269,0.0,541,#94a3b8
+kw_wow,#wow,keyword,2,1,0.0,0.279621,0.030556,0.0,404,#94a3b8
+kw_semangat,#semangat,keyword,1,1,0.0,0.266968,0.063841,0.0,174,#94a3b8
+kw_syok,#syok,keyword,2,1,0.0,0.279621,0.030556,0.0,356,#94a3b8
+kw_kaget,#kaget,keyword,2,1,0.0,0.279621,0.030556,0.0,435,#94a3b8
+kw_keren,#keren,keyword,1,1,0.0,0.302564,0.102588,0.0,353,#94a3b8
+kw_mantap,#mantap,keyword,1,1,0.0,0.302564,0.102588,0.0,496,#94a3b8
+kw_puas,#puas,keyword,1,1,0.0,0.302564,0.102588,0.0,450,#94a3b8
+kw_asik,#asik,keyword,1,1,0.0,0.302564,0.102588,0.0,400,#94a3b8
+kw_hebat,#hebat,keyword,1,1,0.0,0.302564,0.102588,0.0,321,#94a3b8
+kw_menunggu,#menunggu,keyword,1,1,0.0,0.258772,0.048894,0.0,180,#94a3b8
+kw_segera,#segera,keyword,1,1,0.0,0.258772,0.048894,0.0,650,#94a3b8
+kw_rilis,#rilis,keyword,1,1,0.0,0.258772,0.048894,0.0,482,#94a3b8
+kw_update,#update,keyword,1,1,0.0,0.258772,0.048894,0.0,571,#94a3b8
+kw_harapan,#harapan,keyword,1,1,0.0,0.258772,0.048894,0.0,594,#94a3b8
+kw_rekomendasi,#rekomendasi,keyword,1,1,0.0,0.280952,0.045832,0.0,399,#94a3b8
+kw_amanah,#amanah,keyword,1,1,0.0,0.280952,0.045832,0.0,167,#94a3b8
+kw_trusted,#trusted,keyword,1,1,0.0,0.280952,0.045832,0.0,729,#94a3b8
+kw_terbukti,#terbukti,keyword,1,1,0.0,0.280952,0.045832,0.0,164,#94a3b8
+kw_resmi,#resmi,keyword,1,1,0.0,0.280952,0.045832,0.0,341,#94a3b8
+kw_sukses,#sukses,keyword,1,1,0.0,0.266968,0.063841,0.0,274,#94a3b8
+kw_bangkit,#bangkit,keyword,1,1,0.0,0.266968,0.063841,0.0,322,#94a3b8
+kw_maju,#maju,keyword,1,1,0.0,0.266968,0.063841,0.0,196,#94a3b8
+kw_terbaik,#terbaik,keyword,1,1,0.0,0.266968,0.063841,0.0,538,#94a3b8
+kw_curiga,#curiga,keyword,3,1,0.0,0.248945,0.016269,0.0,668,#94a3b8

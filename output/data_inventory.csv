@@ -1,0 +1,5 @@
+﻿file,format,rows,columns,size_mb,column_names
+data/Review Instagram.csv,.csv,1000,3,0.256,UserName | Review Text | Rating
+output/hasil_topik_instagram.csv,.csv,999,5,0.444,UserName | Review Text | Rating | clean_text | topic
+output/instagram_10000.csv,.csv,1000,7,0.523,UserName | Review Text | Rating | source_file | clean_text | text_length | language
+output/ringkasan_topik.csv,.csv,6,5,0.006,Topic | Count | Name | Representation | Representative_Docs

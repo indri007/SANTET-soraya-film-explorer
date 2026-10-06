@@ -1,0 +1,7 @@
+{
+  "MAE": null,
+  "RMSE": null,
+  "MAPE": null,
+  "status": "INSUFFICIENT_TEMPORAL_DATA",
+  "reason": "Empirical training blocked due to absent longitudinal timestamps in 1,000-record dataset."
+}

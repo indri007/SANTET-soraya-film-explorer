@@ -1,0 +1,721 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d6" for="edge" attr.name="edge_type" attr.type="string"/>
+<key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="node" attr.name="community" attr.type="long"/>
+<key id="d3" for="node" attr.name="color" attr.type="string"/>
+<key id="d2" for="node" attr.name="freq" attr.type="long"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="emo_joy">
+  <data key="d0">Joy (24.5%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">2450</data>
+  <data key="d3">#10b981</data>
+  <data key="d4">1</data>
+</node>
+<node id="emo_anticipation">
+  <data key="d0">Anticipation (18.2%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">1820</data>
+  <data key="d3">#3b82f6</data>
+  <data key="d4">1</data>
+</node>
+<node id="emo_trust">
+  <data key="d0">Trust (16.1%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">1610</data>
+  <data key="d3">#06b6d4</data>
+  <data key="d4">1</data>
+</node>
+<node id="emo_optimism">
+  <data key="d0">Optimism (12.4%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">1240</data>
+  <data key="d3">#8b5cf6</data>
+  <data key="d4">1</data>
+</node>
+<node id="emo_surprise">
+  <data key="d0">Surprise (9.8%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">980</data>
+  <data key="d3">#f59e0b</data>
+  <data key="d4">2</data>
+</node>
+<node id="emo_love">
+  <data key="d0">Love (7.6%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">760</data>
+  <data key="d3">#ec4899</data>
+  <data key="d4">1</data>
+</node>
+<node id="emo_sadness">
+  <data key="d0">Sadness (5.1%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">510</data>
+  <data key="d3">#64748b</data>
+  <data key="d4">3</data>
+</node>
+<node id="emo_anger">
+  <data key="d0">Anger (3.8%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">380</data>
+  <data key="d3">#ef4444</data>
+  <data key="d4">3</data>
+</node>
+<node id="emo_fear">
+  <data key="d0">Fear (2.5%)</data>
+  <data key="d1">emotion</data>
+  <data key="d2">250</data>
+  <data key="d3">#991b1b</data>
+  <data key="d4">3</data>
+</node>
+<node id="mod_reels">
+  <data key="d0">Modality: Reels (w=0.42)</data>
+  <data key="d1">modality</data>
+  <data key="d2">4200</data>
+  <data key="d3">#f43f5e</data>
+  <data key="d4">0</data>
+</node>
+<node id="mod_story">
+  <data key="d0">Modality: Story (w=0.28)</data>
+  <data key="d1">modality</data>
+  <data key="d2">2800</data>
+  <data key="d3">#fb923c</data>
+  <data key="d4">0</data>
+</node>
+<node id="mod_likes">
+  <data key="d0">Modality: Likes (w=0.14)</data>
+  <data key="d1">modality</data>
+  <data key="d2">1400</data>
+  <data key="d3">#a855f7</data>
+  <data key="d4">0</data>
+</node>
+<node id="mod_comments">
+  <data key="d0">Modality: Komen (w=0.08)</data>
+  <data key="d1">modality</data>
+  <data key="d2">800</data>
+  <data key="d3">#38bdf8</data>
+  <data key="d4">0</data>
+</node>
+<node id="mod_share">
+  <data key="d0">Modality: Share (w=0.06)</data>
+  <data key="d1">modality</data>
+  <data key="d2">600</data>
+  <data key="d3">#4ade80</data>
+  <data key="d4">0</data>
+</node>
+<node id="mod_live">
+  <data key="d0">Modality: Live (w=0.02)</data>
+  <data key="d1">modality</data>
+  <data key="d2">200</data>
+  <data key="d3">#eab308</data>
+  <data key="d4">0</data>
+</node>
+<node id="kw_keren">
+  <data key="d0">#keren</data>
+  <data key="d1">keyword</data>
+  <data key="d2">353</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_mantap">
+  <data key="d0">#mantap</data>
+  <data key="d1">keyword</data>
+  <data key="d2">496</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_puas">
+  <data key="d0">#puas</data>
+  <data key="d1">keyword</data>
+  <data key="d2">450</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_asik">
+  <data key="d0">#asik</data>
+  <data key="d1">keyword</data>
+  <data key="d2">400</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_hebat">
+  <data key="d0">#hebat</data>
+  <data key="d1">keyword</data>
+  <data key="d2">321</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_menunggu">
+  <data key="d0">#menunggu</data>
+  <data key="d1">keyword</data>
+  <data key="d2">180</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_segera">
+  <data key="d0">#segera</data>
+  <data key="d1">keyword</data>
+  <data key="d2">650</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_rilis">
+  <data key="d0">#rilis</data>
+  <data key="d1">keyword</data>
+  <data key="d2">482</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_update">
+  <data key="d0">#update</data>
+  <data key="d1">keyword</data>
+  <data key="d2">571</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_harapan">
+  <data key="d0">#harapan</data>
+  <data key="d1">keyword</data>
+  <data key="d2">594</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_rekomendasi">
+  <data key="d0">#rekomendasi</data>
+  <data key="d1">keyword</data>
+  <data key="d2">399</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_amanah">
+  <data key="d0">#amanah</data>
+  <data key="d1">keyword</data>
+  <data key="d2">167</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_trusted">
+  <data key="d0">#trusted</data>
+  <data key="d1">keyword</data>
+  <data key="d2">729</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_terbukti">
+  <data key="d0">#terbukti</data>
+  <data key="d1">keyword</data>
+  <data key="d2">164</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_resmi">
+  <data key="d0">#resmi</data>
+  <data key="d1">keyword</data>
+  <data key="d2">341</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_semangat">
+  <data key="d0">#semangat</data>
+  <data key="d1">keyword</data>
+  <data key="d2">174</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_sukses">
+  <data key="d0">#sukses</data>
+  <data key="d1">keyword</data>
+  <data key="d2">274</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_bangkit">
+  <data key="d0">#bangkit</data>
+  <data key="d1">keyword</data>
+  <data key="d2">322</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_maju">
+  <data key="d0">#maju</data>
+  <data key="d1">keyword</data>
+  <data key="d2">196</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_terbaik">
+  <data key="d0">#terbaik</data>
+  <data key="d1">keyword</data>
+  <data key="d2">538</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_kaget">
+  <data key="d0">#kaget</data>
+  <data key="d1">keyword</data>
+  <data key="d2">435</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">2</data>
+</node>
+<node id="kw_syok">
+  <data key="d0">#syok</data>
+  <data key="d1">keyword</data>
+  <data key="d2">356</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">2</data>
+</node>
+<node id="kw_plot_twist">
+  <data key="d0">#plot_twist</data>
+  <data key="d1">keyword</data>
+  <data key="d2">302</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">2</data>
+</node>
+<node id="kw_wow">
+  <data key="d0">#wow</data>
+  <data key="d1">keyword</data>
+  <data key="d2">404</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">2</data>
+</node>
+<node id="kw_tiba2">
+  <data key="d0">#tiba2</data>
+  <data key="d1">keyword</data>
+  <data key="d2">571</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">2</data>
+</node>
+<node id="kw_sayang">
+  <data key="d0">#sayang</data>
+  <data key="d1">keyword</data>
+  <data key="d2">487</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_cinta">
+  <data key="d0">#cinta</data>
+  <data key="d1">keyword</data>
+  <data key="d2">160</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_luv">
+  <data key="d0">#luv</data>
+  <data key="d1">keyword</data>
+  <data key="d2">289</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_manis">
+  <data key="d0">#manis</data>
+  <data key="d1">keyword</data>
+  <data key="d2">308</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_gemes">
+  <data key="d0">#gemes</data>
+  <data key="d1">keyword</data>
+  <data key="d2">732</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">1</data>
+</node>
+<node id="kw_kecewa">
+  <data key="d0">#kecewa</data>
+  <data key="d1">keyword</data>
+  <data key="d2">528</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_sedih">
+  <data key="d0">#sedih</data>
+  <data key="d1">keyword</data>
+  <data key="d2">439</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_nyesek">
+  <data key="d0">#nyesek</data>
+  <data key="d1">keyword</data>
+  <data key="d2">286</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_patah_hati">
+  <data key="d0">#patah_hati</data>
+  <data key="d1">keyword</data>
+  <data key="d2">751</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_tangis">
+  <data key="d0">#tangis</data>
+  <data key="d1">keyword</data>
+  <data key="d2">180</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_kesal">
+  <data key="d0">#kesal</data>
+  <data key="d1">keyword</data>
+  <data key="d2">238</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_emosi">
+  <data key="d0">#emosi</data>
+  <data key="d1">keyword</data>
+  <data key="d2">670</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_bobrok">
+  <data key="d0">#bobrok</data>
+  <data key="d1">keyword</data>
+  <data key="d2">372</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_parah">
+  <data key="d0">#parah</data>
+  <data key="d1">keyword</data>
+  <data key="d2">334</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_sampah">
+  <data key="d0">#sampah</data>
+  <data key="d1">keyword</data>
+  <data key="d2">354</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_takut">
+  <data key="d0">#takut</data>
+  <data key="d1">keyword</data>
+  <data key="d2">764</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_waspada">
+  <data key="d0">#waspada</data>
+  <data key="d1">keyword</data>
+  <data key="d2">193</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_scam">
+  <data key="d0">#scam</data>
+  <data key="d1">keyword</data>
+  <data key="d2">175</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_bahaya">
+  <data key="d0">#bahaya</data>
+  <data key="d1">keyword</data>
+  <data key="d2">541</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<node id="kw_curiga">
+  <data key="d0">#curiga</data>
+  <data key="d1">keyword</data>
+  <data key="d2">668</data>
+  <data key="d3">#94a3b8</data>
+  <data key="d4">3</data>
+</node>
+<edge source="emo_joy" target="kw_keren">
+  <data key="d5">0.901628636744329</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_joy" target="kw_mantap">
+  <data key="d5">0.7215165558422583</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_joy" target="kw_puas">
+  <data key="d5">0.7505594365457521</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_joy" target="kw_asik">
+  <data key="d5">0.8933222879687045</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_joy" target="kw_hebat">
+  <data key="d5">0.7257977723687467</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_joy" target="mod_reels">
+  <data key="d5">0.85</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_joy" target="mod_story">
+  <data key="d5">0.85</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_joy" target="mod_likes">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_joy" target="mod_share">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_joy" target="mod_live">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_joy" target="emo_optimism">
+  <data key="d5">0.88</data>
+  <data key="d6">affective_transition</data>
+</edge>
+<edge source="emo_joy" target="emo_anticipation">
+  <data key="d5">0.79</data>
+  <data key="d6">affective_transition</data>
+</edge>
+<edge source="emo_joy" target="emo_love">
+  <data key="d5">0.84</data>
+  <data key="d6">affective_transition</data>
+</edge>
+<edge source="emo_anticipation" target="kw_menunggu">
+  <data key="d5">0.7398641018375283</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anticipation" target="kw_segera">
+  <data key="d5">0.8757238801990034</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anticipation" target="kw_rilis">
+  <data key="d5">0.9395853151642922</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anticipation" target="kw_update">
+  <data key="d5">0.672814350808832</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anticipation" target="kw_harapan">
+  <data key="d5">0.9412212276933706</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anticipation" target="mod_reels">
+  <data key="d5">0.85</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_anticipation" target="mod_live">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_trust" target="kw_rekomendasi">
+  <data key="d5">0.9437482485800468</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_trust" target="kw_amanah">
+  <data key="d5">0.7349778409001079</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_trust" target="kw_trusted">
+  <data key="d5">0.6846372097741991</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_trust" target="kw_terbukti">
+  <data key="d5">0.8238203561250717</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_trust" target="kw_resmi">
+  <data key="d5">0.7637539107235827</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_trust" target="mod_story">
+  <data key="d5">0.85</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_trust" target="mod_comments">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_trust" target="mod_live">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_trust" target="emo_optimism">
+  <data key="d5">0.72</data>
+  <data key="d6">affective_transition</data>
+</edge>
+<edge source="emo_optimism" target="kw_semangat">
+  <data key="d5">0.6692250435352202</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_optimism" target="kw_sukses">
+  <data key="d5">0.9248317571458867</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_optimism" target="kw_bangkit">
+  <data key="d5">0.7902574339156753</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_optimism" target="kw_maju">
+  <data key="d5">0.7724165482182624</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_optimism" target="kw_terbaik">
+  <data key="d5">0.929023307142286</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_optimism" target="mod_story">
+  <data key="d5">0.85</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_optimism" target="mod_likes">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_surprise" target="kw_kaget">
+  <data key="d5">0.7243873176051202</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_surprise" target="kw_syok">
+  <data key="d5">0.8003835706936581</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_surprise" target="kw_plot_twist">
+  <data key="d5">0.682277430524628</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_surprise" target="kw_wow">
+  <data key="d5">0.7787964021574728</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_surprise" target="kw_tiba2">
+  <data key="d5">0.7934413033579859</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_surprise" target="mod_reels">
+  <data key="d5">0.85</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_surprise" target="mod_comments">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_surprise" target="mod_share">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_surprise" target="emo_fear">
+  <data key="d5">0.58</data>
+  <data key="d6">affective_transition</data>
+</edge>
+<edge source="emo_love" target="kw_sayang">
+  <data key="d5">0.6770681046221121</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_love" target="kw_cinta">
+  <data key="d5">0.7370488355642659</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_love" target="kw_luv">
+  <data key="d5">0.7167778683810763</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_love" target="kw_manis">
+  <data key="d5">0.8030645873129766</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_love" target="kw_gemes">
+  <data key="d5">0.8986080562545409</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_love" target="mod_reels">
+  <data key="d5">0.85</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_love" target="mod_story">
+  <data key="d5">0.85</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_love" target="mod_likes">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_sadness" target="kw_kecewa">
+  <data key="d5">0.8951105827172455</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_sadness" target="kw_sedih">
+  <data key="d5">0.8037243240834439</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_sadness" target="kw_nyesek">
+  <data key="d5">0.680987913824951</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_sadness" target="kw_patah_hati">
+  <data key="d5">0.8303782969553151</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_sadness" target="kw_tangis">
+  <data key="d5">0.7156914902250048</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_sadness" target="mod_comments">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_sadness" target="emo_anger">
+  <data key="d5">0.69</data>
+  <data key="d6">affective_transition</data>
+</edge>
+<edge source="emo_anger" target="kw_kesal">
+  <data key="d5">0.7781895194983136</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anger" target="kw_emosi">
+  <data key="d5">0.6650775903495302</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anger" target="kw_bobrok">
+  <data key="d5">0.738857164801103</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anger" target="kw_parah">
+  <data key="d5">0.9107441543890471</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anger" target="kw_sampah">
+  <data key="d5">0.9236117957842107</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_anger" target="mod_comments">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_anger" target="mod_share">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+<edge source="emo_fear" target="kw_takut">
+  <data key="d5">0.7870906309378155</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_fear" target="kw_waspada">
+  <data key="d5">0.7878005706916672</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_fear" target="kw_scam">
+  <data key="d5">0.7874236700812351</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_fear" target="kw_bahaya">
+  <data key="d5">0.708189480889491</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_fear" target="kw_curiga">
+  <data key="d5">0.7606457926480773</data>
+  <data key="d6">lexical_trigger</data>
+</edge>
+<edge source="emo_fear" target="mod_share">
+  <data key="d5">0.6</data>
+  <data key="d6">modality_affiliation</data>
+</edge>
+</graph></graphml>
