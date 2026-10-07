@@ -183,7 +183,23 @@ def render_step(n, slug, title, kat):
         except TypeError:
             st.image(png, use_container_width=True)
     else:
-        st.info(f"Tidak ada grafik PNG untuk analisis {n:02d}.")
+        _drawn = False
+        _csvs = sorted(glob.glob(os.path.join(folder, f"{n:02d}_*.csv")))
+        if _csvs:
+            try:
+                _df = pd.read_csv(_csvs[0])
+                _num = list(_df.select_dtypes("number").columns)
+                _txt = [c for c in _df.columns if c not in _num]
+                if _num and _txt:
+                    _d = _df[[_txt[0], _num[0]]].dropna().head(20).set_index(_txt[0])
+                    st.bar_chart(_d, horizontal=True, color="#C2410C")
+                    st.caption(f"Grafik otomatis dari {os.path.basename(_csvs[0])} "
+                               f"(kolom {_num[0]}, maks. 20 baris teratas).")
+                    _drawn = True
+            except Exception:
+                pass
+        if not _drawn:
+            st.info(f"Grafik untuk analisis {n:02d} belum diunggah.")
 
     # CSV(s) — mungkin ada lebih dari satu (misal 18_pasangan-kata*.csv)
     csvs = sorted(glob.glob(os.path.join(folder, f"{n:02d}_*.csv")))
