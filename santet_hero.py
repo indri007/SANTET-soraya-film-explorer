@@ -16,8 +16,9 @@ def render_hero():
   <div style="position:relative;z-index:1;height:100%;display:flex;flex-direction:column;
     justify-content:center;align-items:center;color:#fff;text-align:center;padding:0 16px">
     <h1 style="font-size:clamp(2rem,6vw,3.5rem);margin:0">🕯️ SANTET</h1>
-    <p style="font-size:1.2rem;opacity:.9">The Scream Is a Compliment</p>
+    <p style="font-size:1.25rem;font-style:italic;opacity:.95">"Membaca 'mantra' warganet sebelum film tayang."</p>
     <p style="font-size:.95rem;opacity:.7;max-width:640px">
       Sentiment Analysis for Nusantara Theatrical Expectation Tracking</p>
+    <p style="font-size:.78rem;opacity:.55;margin-top:1rem">Riset independen · tidak berafiliasi dengan Soraya Intercine Films, Hitmaker Studios, atau MD Pictures</p>
   </div>
 </div>""", unsafe_allow_html=True)

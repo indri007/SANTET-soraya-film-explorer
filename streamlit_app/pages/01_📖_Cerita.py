@@ -5,7 +5,6 @@ Ditampilkan sebagai halaman pertama di sidebar Streamlit multi-page.
 """
 import streamlit as st
 from santet_hero import render_hero
-render_hero()
 
 st.set_page_config(
     page_title="SANTET · Cerita",
@@ -101,17 +100,8 @@ html, body, [class*="css"] { font-family: 'Inter', sans-serif; }
 """, unsafe_allow_html=True)
 
 
-# ── HERO ────────────────────────────────────────────────────────────────────
-st.markdown("""
-<div class="hero">
-  <p class="hero-sub">Sentiment Analysis for Nusantara Theatrical Expectation Tracking</p>
-  <h1 class="hero-title">SANTET</h1>
-  <p class="hero-tagline">"Membaca 'mantra' warganet sebelum film tayang."</p>
-  <p style="color:#6B7280;font-size:0.8rem;margin-top:1rem;">
-    Riset independen · tidak berafiliasi dengan Soraya Intercine Films, Hitmaker Studios, atau MD Pictures
-  </p>
-</div>
-""", unsafe_allow_html=True)
+# ── HERO (video) ──
+render_hero()
 
 # ── STATS KILAT ─────────────────────────────────────────────────────────────
 st.markdown("""
