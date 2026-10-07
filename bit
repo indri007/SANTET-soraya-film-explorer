@@ -56,6 +56,19 @@ Penggunaan:
                                              + audit konsistensi data/films_master.csv
   ./bit finish                               Jalankan ulang semuanya dari data yang ada: sentiment predict ->
                                              (validate bila anotasi terisi) -> analyze -> correlate
+  --- Landing GitHub + Streamlit Cloud (grup web) ---
+  ./bit web check                            Repo siap deploy? sintaks, path absolut, ukuran file,
+                                             file ter-ignore, requirements.txt, rahasia, disclaimer
+  ./bit web validate      (pintas: ./bit validate)
+                                             Validasi skema data/films_clean.csv + results/sna_*/
+                                             (tipe kolom, akun anonim user_<hash12>, relasi sisi)
+  ./bit web stats                            Angka ringkas untuk README & kartu statistik
+  ./bit web run [--port 8501]                Jalankan app Streamlit lokal
+  ./bit web hero [--source video.mp4]        (pintas: ./bit hero) Buat video hero 12 detik < 8 MB
+  ./bit web deploy [--push]                  (pintas: ./bit deploy) check + validate + cek git main;
+                                             --push = push otomatis bila semua lulus
+  Catatan: './bit check' tetap = cek ID video YouTube; './bit run'/'stats' tetap perintah lama.
+
   ./bit help                                 Tampilkan bantuan ini
 
   Salt anonimisasi diambil dari env SORAYA_SALT (wajib sama di setiap run).
@@ -496,6 +509,34 @@ def cmd_paper(args):
     run_cmd([PY, os.path.join(BASE_DIR, "paper_tools.py"), "status", json.dumps(st, ensure_ascii=False)])
 
 
+WEB_CMDS = ("check", "validate", "stats", "run", "hero", "deploy")
+
+
+def cmd_web(args):
+    """Grup ./bit web — diteruskan ke santet_web.py. Mengembalikan kode keluar (0 = lulus)."""
+    if not args or args[0] in ("help", "-h", "--help") or args[0] not in WEB_CMDS:
+        if args and args[0] not in ("help", "-h", "--help"):
+            print(f"[!] Subcommand web tidak dikenal: {args[0]}")
+        print("Pakai: ./bit web <" + "|".join(WEB_CMDS) + ">   (./bit help untuk rincian)")
+        return 0 if not args or args[0] in ("help", "-h", "--help") else 2
+    py = _py_with_pandas()
+    if py is None and args[0] != "hero":
+        print("⛔ Tidak ada Python yang punya pandas. Pasang salah satu:")
+        print("   python3 -m pip install -r requirements.txt     (atau aktifkan .venv / conda)")
+        return 1
+    return run_cmd([py or PY, os.path.join(BASE_DIR, "santet_web.py"), *args])
+
+
+def _py_with_pandas():
+    """Python pertama yang bisa import pandas: .venv → python3 di PATH (conda) → python.
+    Perlu karena shebang bit memakai Python 3.9 bawaan macOS yang biasanya tanpa pandas."""
+    import shutil
+    for c in dict.fromkeys(x for x in (PY, shutil.which("python3"), shutil.which("python")) if x):
+        if subprocess.run([c, "-c", "import pandas"], capture_output=True).returncode == 0:
+            return c
+    return None
+
+
 def main():
     if len(sys.argv) < 2 or sys.argv[1] in ("help", "-h", "--help"):
         print(__doc__)
@@ -553,6 +594,10 @@ def main():
         cmd_correlate()
     elif cmd == "finish":
         cmd_finish()
+    elif cmd == "web":
+        sys.exit(cmd_web(sys.argv[2:]))
+    elif cmd in ("validate", "hero", "deploy"):          # pintas grup web
+        sys.exit(cmd_web([cmd, *sys.argv[2:]]))
     else:
         # Fallback if user typed: bit <target>
         target = " ".join(sys.argv[1:])

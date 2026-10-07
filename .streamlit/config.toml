@@ -1,0 +1,17 @@
+# Tema SANTET — Material 3 dark, skema dari warna merek #C2410C (lihat santet_m3.py)
+[theme]
+base = "dark"
+primaryColor = "#FFB59D"             # M3 primary (dark)
+backgroundColor = "#1D100C"          # M3 surface
+secondaryBackgroundColor = "#2A1C18" # M3 surface-container
+textColor = "#F7DDD6"                # M3 on-surface
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "viewer"
