@@ -1,24 +1,21 @@
 """
 streamlit_app.py — Entrypoint Streamlit Community Cloud untuk SANTET.
-
-Repo   : indri007/prediksi-movie-2027
-Proyek : SANTET — Sentiment Analysis for Nusantara Theatrical Expectation Tracking
-
-Router multi-halaman (st.navigation). Halaman aslinya tetap di streamlit_app/,
-jadi bisa juga dijalankan langsung secara lokal:  streamlit run streamlit_app/app.py
-
-Streamlit Cloud → Main file path: streamlit_app.py (default, tidak perlu diubah)
-Dependensi cloud ringan: requirements.txt di root (pipeline berat ada di requirements-pipeline.txt).
+Halaman yang filenya belum ada otomatis dilewati (tidak error).
 """
 from pathlib import Path
-
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
 PAGES = ROOT / "streamlit_app"
 
-nav = st.navigation([
-    st.Page(PAGES / "pages" / "01_📖_Cerita.py", title="Cerita SANTET", icon="🕯️", default=True),
-    st.Page(PAGES / "app.py", title="Dashboard jaringan (SNA)", icon="🕸️"),
-])
-nav.run()
+candidates = [
+    (PAGES / "pages" / "01_📖_Cerita.py", "Cerita SANTET", "🕯️"),
+    (PAGES / "app.py", "Dashboard jaringan (SNA)", "🕸️"),
+]
+pages = [st.Page(p, title=t, icon=i, default=(n == 0))
+         for n, (p, t, i) in enumerate(c for c in candidates if c[0].exists())]
+
+if not pages:
+    st.error("Belum ada halaman. Cek folder streamlit_app/.")
+else:
+    st.navigation(pages).run()
