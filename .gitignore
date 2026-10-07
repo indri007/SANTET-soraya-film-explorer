@@ -22,16 +22,37 @@ yt_soraya/
 annotation/annotation_sample.csv
 annotation/_model_labels_hidden.csv
 
-# Secrets & Sessions
+# Secrets, Keys, Tokens & Sessions (Perlindungan Kunci API & Privasi)
 .env
 .env.*
+*.env
+*.env.*
 *.session
 *.session-*
 session-*
 cookies*
+*cookie*
 secrets*
+*secrets*
+*secret*
 *credential*
 *token*
+*token*.*
+*api_key*
+*apikey*
+*key*.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.pkcs12
+*.crt
+*.cert
+id_rsa*
+id_ed25519*
+.streamlit/secrets.toml
+.streamlit/*secrets*.toml
+.streamlit/secrets*
 
 # Backups & Logs
 _backup/
@@ -83,3 +104,9 @@ repos/
 *.tar.gz
 *.xlsx
 *.parquet
+
+# Berkas sementara dari audit
+_to_delete/
+
+# Laporan audit lokal (dibuat ulang tiap ./bit audit)
+results/audit_*/
