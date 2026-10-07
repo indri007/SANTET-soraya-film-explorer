@@ -1,16 +1,24 @@
 """
-streamlit_app.py
-Root entrypoint for Streamlit Community Cloud deployment.
-Bridging to dashboard/app.py with proper repo path resolution.
+streamlit_app.py — Entrypoint Streamlit Community Cloud untuk SANTET.
+
+Repo   : indri007/prediksi-movie-2027
+Proyek : SANTET — Sentiment Analysis for Nusantara Theatrical Expectation Tracking
+
+Router multi-halaman (st.navigation). Halaman aslinya tetap di streamlit_app/,
+jadi bisa juga dijalankan langsung secara lokal:  streamlit run streamlit_app/app.py
+
+Streamlit Cloud → Main file path: streamlit_app.py (default, tidak perlu diubah)
+Dependensi cloud ringan: requirements.txt di root (pipeline berat ada di requirements-pipeline.txt).
 """
-import os
-import sys
 from pathlib import Path
-import runpy
+
+import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
-sys.path.insert(0, str(ROOT))
-os.chdir(ROOT)
+PAGES = ROOT / "streamlit_app"
 
-dashboard_path = ROOT / "dashboard" / "app.py"
-runpy.run_path(str(dashboard_path), run_name="__main__")
+nav = st.navigation([
+    st.Page(PAGES / "pages" / "01_📖_Cerita.py", title="Cerita SANTET", icon="🕯️", default=True),
+    st.Page(PAGES / "app.py", title="Dashboard jaringan (SNA)", icon="🕸️"),
+])
+nav.run()
