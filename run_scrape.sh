@@ -15,7 +15,8 @@ source .venv/bin/activate
 echo "[*] Memperbarui yt-dlp dan pandas..."
 pip install -q -U yt-dlp pandas certifi
 
-export SORAYA_SALT="${SORAYA_SALT:-kalimat-rahasia-yang-sama-terus}"
+: "${SORAYA_SALT:?Set dulu: export SORAYA_SALT=<rahasia-acak-panjang>}"
+export SORAYA_SALT
 
 echo ""
 echo "============================================================"

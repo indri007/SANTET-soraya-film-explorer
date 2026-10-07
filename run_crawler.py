@@ -7,7 +7,8 @@ logging.basicConfig(level=logging.INFO, format="[%(asctime)s] %(message)s", date
 log = logging.getLogger(__name__)
 
 # === KONFIGURASI ===
-IG_USERNAME = "indrikartika444"
+import os
+IG_USERNAME = os.environ.get("IG_USERNAME")  # export IG_USERNAME=akun_anda
 HASHTAGS = [
     "indonesia", "viral", "trending", "fyp", "beranda",
     "exploreindonesia", "indonesiaku", "nusantara",

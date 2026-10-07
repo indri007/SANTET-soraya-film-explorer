@@ -63,7 +63,7 @@ The digital transformation across Southeast Asia has positioned Indonesia as the
 
 Addressing this gap, the primary objectives of this study are threefold:
 1. **Multimodal Topological Mapping:** To model 10,000,000 social interactions across six functional engagement modes (`reels`, `stories`, `likes`, `comments`, `shares`, and `live broadcasts`) into an integrated NodeXL network graph.
-2. **Deep Affective NLP:** To implement IndoBERT (IndoBenchmark IndoBERT-base-p1) across nine discrete emotional dimensions (*Joy, Anticipation, Trust, Optimism, Surprise, Love, Sadness, Anger, Fear*) and validate affective reliability using Cohen's Kappa ($\kappa$) and One-Way ANOVA inferential statistics.
+2. **Deep Affective NLP:** To implement IndoBERT (IndoBenchmark IndoBERT-base-p1) across nine discrete emotional dimensions (*Joy, Anticipation, Trust, Optimism, Surprise, Love, Sadness, Anger, Fear*) and validate affective reliability using Cohen's Kappa ($\\kappa$) and One-Way ANOVA inferential statistics.
 3. **Econometric & Monte Carlo Forecasting:** To construct a robust consensus forecasting framework for active Indonesian Instagram users in 2027, validated against Elsevier Scopus Q1 econometric benchmarks (Lewis 1982 MAPE, Theil's U Inequality Coefficient, and Bliemel's criterion).
 
 ---
@@ -99,7 +99,7 @@ $$\\sum_{{k=1}}^{{6}} w_k = w_{{\\text{{reels}}}} + w_{{\\text{{story}}}} + w_{{
   $$Q = \\frac{{1}}{{2m}} \\sum_{{i,j}} \\left[ A_{{ij}} - \\frac{{k_i k_j}}{{2m}} \\right] \\delta(c_i, c_j)$$
 
 ### 3.3 Affective Reliability & Inferential Statistics
-- **Cohen's Kappa ($\kappa$):**
+- **Cohen's Kappa ($\\kappa$):**
   $$\\kappa = \\frac{{p_o - p_e}}{{1 - p_e}}$$
 - **One-Way ANOVA F-Statistic & Effect Size ($\\eta^2$):**
   $$F = \\frac{{\\text{{MS}}_{{\\text{{between}}}}}}{{\\text{{MS}}_{{\\text{{within}}}}}} = \\frac{{\\text{{SS}}_{{\\text{{between}}}} / (k - 1)}}{{\\text{{SS}}_{{\\text{{within}}}} / (N - k)}}, \\quad \\eta^2 = \\frac{{\\text{{SS}}_{{\\text{{between}}}}}}{{\\text{{SS}}_{{\\text{{total}}}}}}$$

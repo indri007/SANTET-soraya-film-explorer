@@ -17,6 +17,7 @@ Install:
     pip install instaloader pandas networkx --break-system-packages
 """
 
+import ast
 import re
 import time
 import random
@@ -218,7 +219,7 @@ def build_interaction_graph(df: pd.DataFrame) -> nx.Graph:
         src = row["source_name"]
         G.add_node(src, node_type=row["source_type"])
 
-        mentions = row["mentions"] if isinstance(row["mentions"], list) else eval(str(row["mentions"]))
+        mentions = row["mentions"] if isinstance(row["mentions"], list) else ast.literal_eval(str(row["mentions"]))
         for mentioned in mentions:
             G.add_node(mentioned, node_type="mentioned_account")
             if G.has_edge(src, mentioned):
@@ -232,7 +233,7 @@ def build_interaction_graph(df: pd.DataFrame) -> nx.Graph:
 def build_hashtag_cooccurrence_graph(df: pd.DataFrame) -> nx.Graph:
     G = nx.Graph()
     for _, row in df.iterrows():
-        tags = row["hashtags"] if isinstance(row["hashtags"], list) else eval(str(row["hashtags"]))
+        tags = row["hashtags"] if isinstance(row["hashtags"], list) else ast.literal_eval(str(row["hashtags"]))
         tags = list(set(tags))
         for i in range(len(tags)):
             for j in range(i + 1, len(tags)):

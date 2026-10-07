@@ -4,6 +4,10 @@ generate_nodexl_10m.py
 Generator Streaming Dataset 10.000.000 Interaksi NodeXL Instagram Indonesia (2020-2026)
 Mencakup: Reel, Story, Like, Share, Komen, dan Live.
 Dipartisi ke dalam 10 chunk x 1.000.000 relasi (terkompresi GZIP) agar ramah memori & Git.
+
+PERINGATAN - DATA SINTETIS
+Seluruh kolom dihasilkan dengan generator acak (modul `random`), BUKAN hasil crawling.
+Jangan dilaporkan sebagai data empiris di manuskrip atau README.
 """
 
 import gzip
@@ -15,6 +19,8 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "output" / "nodexl_10m_chunks"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+(OUTPUT_DIR / 'SYNTHETIC_DATA.txt').write_text(
+    'Data sintetis hasil generator acak. Bukan data crawling.\n', encoding='utf-8')
 
 FORMAT_WEIGHTS = [
     ("reel", 0.42),
